@@ -28,8 +28,8 @@ Object.assign(themeLens.style, {
   inset: "0",
   zIndex: "999",
   pointerEvents: "none",
-  opacity: "0",
-  backgroundColor: "transparent",
+  opacity: ".6",
+  backgroundColor: "red",
   transition: "opacity 0.45s ease, background-color 0.45s ease"
 });
 map.getContainer().appendChild(themeLens);
