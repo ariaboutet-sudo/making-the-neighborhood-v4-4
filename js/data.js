@@ -133,8 +133,8 @@ const MAP_SITES = [
    {
   type: "quote",
   title: "Seth Blood",
-  quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park.",
-    attribution: "- Seth Blood, cartoonist and protester, New York Times, June 4, 1991"
+  quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park. If they throw people out of the park, they let slip the dogs of hell.",
+    attribution: "— Seth Blood, cartoonist and protester, New York Times, June 4, 1991"
 },
    {
   image: "images/tent-city-police-dismantling.jpg",
