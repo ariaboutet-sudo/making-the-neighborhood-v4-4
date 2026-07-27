@@ -130,7 +130,11 @@ const MAP_SITES = [
   caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
   credit: "Photograph by Ángel Franco / The New York Times."
 },
-
+   {
+  type: "quote",
+  title: "Seth Blood",
+  quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park.
+},
   {
     image: "images/tent-city-homeless-structures-margaret-morton.jpg",
     alt: "Homeless structures in Tompkins Square Park.",
