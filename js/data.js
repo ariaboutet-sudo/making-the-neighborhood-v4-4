@@ -117,6 +117,12 @@ const MAP_SITES = [
     quoteCredit: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
 
   },
+   {
+  type: "quote",
+  title: "James Smith",
+  quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
+  attribution: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
+},
 
   {
     image: "images/tent-city-homeless-structures-margaret-morton.jpg",
