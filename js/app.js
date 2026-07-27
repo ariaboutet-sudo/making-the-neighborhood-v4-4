@@ -129,7 +129,7 @@ function selectTheme(key) {
 
   if (activeTheme) {
     themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
-    themeLens.style.opacity = "0.46";
+    themeLens.style.opacity = "0.18";
   } else {
     themeLens.style.opacity = "0";
   }
