@@ -103,8 +103,7 @@ const MAP_SITES = [
 
   },
 
-  {
-
+    {
     image: "images/tent-city-nathaniel-margaret-morton.png",
 
     alt: "Nathaniel beside his rebuilt home in Tompkins Square Park.",
@@ -117,6 +116,14 @@ const MAP_SITES = [
     quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
     quoteCredit: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
 
+  },
+
+  {
+    image: "images/tent-city-homeless-structures-margaret-morton.jpg",
+    alt: "Homeless structures in Tompkins Square Park.",
+    title: "Homeless Structures",
+    caption: "Homeless structures in Tompkins Square Park, 1989.",
+    credit: "Photograph by Margaret Morton."
   }
 
 ],
