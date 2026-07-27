@@ -73,15 +73,13 @@ const MAP_SITES = [
   id: "tent-city",
   title: "Tent City, Tompkins Square Park",
   address: "Tompkins Square Park",
-  coordinates: [40.72705, -73.98165],
+ coordinates: [40.72705, -73.98165],
   themes: ["housing"],
-  period: "Homeless encampment, late 1980s–1991",
-  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood.",
+  period: "Homeless encampment, late 1980s",
+  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood. Its violent removal in 1988 became a defining conflict over who could inhabit and shape urban space.",
   quote: "",
-  slides: [
-    {
-      image: "images/tent-city-clayton-patterson.jpg",
-      alt: "A Tent City resident grilling,
+  source: "Neil Smith; Clayton Patterson; Living Proof New York. Image and quotation to be added."
+},
   {
     id: "umbrella",
     title: "Umbrella House",
