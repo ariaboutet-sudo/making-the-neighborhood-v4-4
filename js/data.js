@@ -113,7 +113,9 @@ const MAP_SITES = [
 
     caption: "Nathaniel, known as the Mayor of Tompkins Square Park, beside the home he rebuilt after his tent and garden were destroyed.",
 
-    credit: "Photograph by Margaret Morton."
+    credit: "Photograph by Margaret Morton.",
+    quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
+    quoteCredit: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
 
   }
 
