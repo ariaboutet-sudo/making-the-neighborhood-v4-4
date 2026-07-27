@@ -148,7 +148,7 @@ const MAP_SITES = [
     title: "Homeless Structures",
     caption: "Homeless structures in Tompkins Square Park, 1989.",
     credit: "Photograph by Margaret Morton."
-  }
+  },
    {
   image: "images/tobocman-102.jpg",
   alt: "Seth Tobocman, War in the Neighborhood, page 102.",
