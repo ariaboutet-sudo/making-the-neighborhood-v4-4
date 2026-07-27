@@ -148,7 +148,7 @@ function renderMarkers() {
     if (map.hasLayer(marker)) map.removeLayer(marker);
 
     if (activeTheme && site.themes.includes(activeTheme)) {
-      marker.setIcon(makeIcon("#4f4a43", site.id));
+      marker.setIcon(makeIcon(MAP_THEMES[activeTheme].color, site.id));
       marker.addTo(map);
     }
   });
