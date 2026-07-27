@@ -162,7 +162,7 @@ function showPark() {
   renderButtons();
   renderThemeCopy();
   renderMarkers();
-  themeLens.style.opacity = "0";
+  document.getElementById("theme-lens").style.opacity = "0";
   const mapWrap = document.getElementById("map-wrap");
   mapWrap.classList.remove("theme-lens-active");
   mapWrap.style.removeProperty("--active-theme-color");
