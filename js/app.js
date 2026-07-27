@@ -246,6 +246,8 @@ function renderCurrentSlide() {
   document.getElementById("overlay-title").textContent = slide.title || "";
   document.getElementById("overlay-caption").textContent = slide.caption || "";
   document.getElementById("overlay-credit").textContent = slide.credit || "";
+  document.getElementById("overlay-quote").textContent = slide.quote || "";
+document.getElementById("overlay-quote-credit").textContent = slide.quoteCredit || "";
 
   const source = document.getElementById("overlay-source");
   if (slide.sourceUrl) {
