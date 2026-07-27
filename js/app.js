@@ -195,11 +195,19 @@ function showSite(site) {
     <p class="source-note"><strong>Working source note:</strong> ${site.source}</p>
   `;
 
-  if (site.image) {
-    showImageOverlay(site);
-  } else {
-    hideImageOverlay();
-  }
+if (site.slides?.length) {
+
+  showSlideshow(site.slides, 0);
+
+} else if (site.image) {
+
+  showImageOverlay(site);
+
+} else {
+
+  hideImageOverlay();
+
+}
 
   map.flyTo(site.coordinates, Math.max(map.getZoom(), 16), {
     duration: .5
