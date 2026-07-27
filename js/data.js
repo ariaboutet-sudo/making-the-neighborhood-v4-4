@@ -112,7 +112,7 @@ const MAP_SITES = [
 
     caption: "Nathaniel, known as the Mayor of Tompkins Square Park, beside the home he rebuilt after his tent and garden were destroyed.",
 
-    credit: "Photograph by Margaret Morton.",
+    credit: "Photograph by Margaret Morton."
 
   },
    {
