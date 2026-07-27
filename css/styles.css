@@ -645,3 +645,37 @@ h1 {
 #direct-theme-lens {
   will-change: opacity, background-color;
 }
+/* Quote slides */
+
+.overlay-quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  padding: 60px;
+  text-align: center;
+  background: #2b2b2b;
+  color: #f5f2eb;
+}
+
+.overlay-quote[hidden] {
+  display: none;
+}
+
+.overlay-quote blockquote {
+  margin: 0;
+  max-width: 850px;
+  font-family: Georgia, serif;
+  font-size: 2.3rem;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.overlay-quote cite {
+  display: block;
+  margin-top: 2rem;
+  font-style: normal;
+  font-size: 1rem;
+  opacity: 0.8;
+}
