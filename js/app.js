@@ -128,8 +128,8 @@ function selectTheme(key) {
   clearSiteDetail();
 
   if (activeTheme) {
-    themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
-    themeLens.style.opacity = "0.18";
+    themeLens.style.backgroundColor = "red";
+themeLens.style.opacity = "0.6";
   } else {
     themeLens.style.opacity = "0";
   }
