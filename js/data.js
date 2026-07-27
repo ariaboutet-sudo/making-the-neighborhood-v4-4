@@ -135,6 +135,13 @@ const MAP_SITES = [
   title: "Seth Blood",
   quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park.
 },
+   {
+  image: "images/tent-city-police-dismantling.jpg",
+  alt: "Police officers dismantling the Tompkins Square Park encampment.",
+  title: "Dismantling the Encampment",
+  caption: "Police remove shelters as the encampment is cleared.",
+  credit: "Photograph by Marilynn K. Yee / The New York Times."
+},
   {
     image: "images/tent-city-homeless-structures-margaret-morton.jpg",
     alt: "Homeless structures in Tompkins Square Park.",
