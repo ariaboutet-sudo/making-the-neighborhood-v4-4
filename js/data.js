@@ -151,49 +151,49 @@ const MAP_SITES = [
     credit: "Photograph by Margaret Morton."
   },
    {
-  image: "tent-city-tobocman-p102.png",
+  image: "images/tent-city-tobocman-p102.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 102.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 102.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p103.png",
+  image: "images/tent-city-tobocman-p103.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 103.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 103.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p104.png",
+  image: "images/tent-city-tobocman-p104.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 104.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 104.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p105.png",
+  image: "images/tent-city-tobocman-p105.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 105.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 105.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p106.png",
+  image: "images/tent-city-tobocman-p106.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 106.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 106.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p107.png",
+  image: "images/tent-city-tobocman-p107.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 107.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 107.",
   credit: "Seth Tobocman."
 },
    {
-  image: "tent-city-tobocman-p108.png",
+  image: "images/tent-city-tobocman-p108.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 108.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 108.",
