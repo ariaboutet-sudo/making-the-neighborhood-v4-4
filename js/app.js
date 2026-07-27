@@ -241,13 +241,33 @@ function renderCurrentSlide() {
   const slide = currentSlides[currentSlideIndex];
   if (!slide) return;
 
-  document.getElementById("overlay-image").src = slide.image;
-  document.getElementById("overlay-image").alt = slide.alt || "";
+   const image = document.getElementById("overlay-image");
+  const quotePanel = document.getElementById("overlay-quote");
+  const quoteText = document.getElementById("overlay-quote-text");
+  const quoteAttribution = document.getElementById("overlay-quote-attribution");
+
+  const isQuoteSlide = slide.type === "quote";
+
+  if (isQuoteSlide) {
+    image.hidden = true;
+    quotePanel.hidden = false;
+
+    quoteText.textContent = slide.quote || "";
+    quoteAttribution.textContent = slide.attribution || "";
+  } else {
+    image.hidden = false;
+    quotePanel.hidden = true;
+
+    image.src = slide.image || "";
+    image.alt = slide.alt || "";
+
+    quoteText.textContent = "";
+    quoteAttribution.textContent = "";
+  }
+
   document.getElementById("overlay-title").textContent = slide.title || "";
   document.getElementById("overlay-caption").textContent = slide.caption || "";
   document.getElementById("overlay-credit").textContent = slide.credit || "";
-  document.getElementById("overlay-quote").textContent = slide.quote || "";
-document.getElementById("overlay-quote-credit").textContent = slide.quoteCredit || "";
 
   const source = document.getElementById("overlay-source");
   if (slide.sourceUrl) {
