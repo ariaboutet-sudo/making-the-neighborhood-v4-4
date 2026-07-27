@@ -149,6 +149,55 @@ const MAP_SITES = [
     caption: "Homeless structures in Tompkins Square Park, 1989.",
     credit: "Photograph by Margaret Morton."
   }
+   {
+  image: "images/tobocman-102.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 102.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 102.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-103.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 103.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 103.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-104.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 104.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 104.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-105.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 105.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 105.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-106.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 106.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 106.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-107.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 107.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 107.",
+  credit: "Seth Tobocman."
+},
+   {
+  image: "images/tobocman-108.jpg",
+  alt: "Seth Tobocman, War in the Neighborhood, page 108.",
+  title: "War in the Neighborhood",
+  caption: "Seth Tobocman, p. 108.",
+  credit: "Seth Tobocman."
+}
 
 ],
 
