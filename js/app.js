@@ -21,18 +21,6 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png
   Direct thematic lens: a real HTML element placed inside Leaflet's map
   container. It sits above all map rendering and remains click-through.
 */
-const themeLens = document.createElement("div");
-themeLens.id = "direct-theme-lens";
-Object.assign(themeLens.style, {
-  position: "absolute",
-  inset: "0",
-  zIndex: "999",
-  pointerEvents: "none",
-  opacity: "0",
-  backgroundColor: "transparent",
-  transition: "opacity 0.45s ease, background-color 0.45s ease"
-});
-map.getContainer().appendChild(themeLens);
 
 /* A faint outline keeps the park legible even when no theme is selected. */
 L.polygon([
@@ -127,12 +115,14 @@ function selectTheme(key) {
   renderMarkers();
   clearSiteDetail();
 
-  if (activeTheme) {
-    themeLens.style.backgroundColor = "red";
-themeLens.style.opacity = "0.6";
-  } else {
-    themeLens.style.opacity = "0";
-  }
+const themeLens = document.getElementById("theme-lens");
+
+if (activeTheme) {
+  themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
+  themeLens.style.opacity = "0.18";
+} else {
+  themeLens.style.opacity = "0";
+}
 }
 
 function renderThemeCopy() {
