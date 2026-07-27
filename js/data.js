@@ -80,48 +80,9 @@ const MAP_SITES = [
   description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood.",
   quote: "",
   slides: [
-    {
-      {
-
-  id: "tent-city",
-
-  title: "Tent City, Tompkins Square Park",
-
-  address: "Tompkins Square Park",
-
-  coordinates: [40.72705, -73.98165],
-
-  themes: ["housing"],
-
-  period: "Homeless encampment, late 1980s–1991",
-
-  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood.",
-
-  quote: "",
-
-  slides: [
-
-    {
-
-      image: "images/tent-city-clayton-patterson.jpg",
-
-      alt: "A Tent City resident grilling outside his shelter in Tompkins Square Park.",
-
-      title: "Everyday life in Tent City",
-
-      caption: "A resident outside his shelter in Tompkins Square Park.",
-
-      credit: "Photograph by Clayton Patterson; published by VICE in 2015.",
-
-      quote: "",
-
-      quoteCredit: "",
-
-      sourceLabel: "",
-
-      sourceUrl: ""
-
-    }
+    {image: "images/tent-city-clayton-patterson.jpg",
+imageAlt: "Tent City resident grilling outside his shelter in Tompkins Square Park.",
+imageCaption: "A Tent City resident outside his shelter.",
 },
   {
     id: "umbrella",
