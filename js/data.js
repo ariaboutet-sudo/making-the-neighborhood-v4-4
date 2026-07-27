@@ -69,7 +69,6 @@ const MAP_SITES = [
     quote: "",
     source: "Amy Starecheski; Seth Tobocman, War in the Neighborhood. Images to be added."
   },
-  {
  {
   id: "tent-city",
   title: "Tent City, Tompkins Square Park",
