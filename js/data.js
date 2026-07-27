@@ -73,45 +73,15 @@ const MAP_SITES = [
   id: "tent-city",
   title: "Tent City, Tompkins Square Park",
   address: "Tompkins Square Park",
- coordinates: [40.72705, -73.98165],
+  coordinates: [40.72705, -73.98165],
   themes: ["housing"],
-  period: "Homeless encampment, late 1980s",
-  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood. Its violent removal in 1988 became a defining conflict over who could inhabit and shape urban space.",
+  period: "Homeless encampment, late 1980s–1991",
+  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood.",
   quote: "",
-slides: [
-  {
-    image: "images/tent-city-clayton-patterson.jpg",
-    alt: "Tent City resident grilling outside his shelter in Tompkins Square Park.",
-    caption: "A Tent City resident outside his shelter.",
-    credit: "Clayton Patterson. Published in VICE (2015)."
-  },
-  {
-    image: "images/tent-city-nathaniel-margaret-morton.png",
-    alt: "Nathaniel outside his rebuilt home in Tompkins Square Park.",
-    caption: "Nathaniel, known as the 'Mayor of Tompkins Square Park,' outside the home he rebuilt after an earlier eviction.",
-    credit: "Margaret Morton.",
-    quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
-    quoteCredit: "— James Smith, New York Times, June 4, 1991"
-  },
-  {
-    image: "images/tent-city-homeless-structures-margaret-morton.jpg",
-    alt: "Homeless structures in Tompkins Square Park.",
-    caption: "Homeless structures in Tompkins Square Park, 1989.",
-    credit: "Margaret Morton."
-  },
-  {
-    image: "images/tent-city-nyt-encampment-may-1991.png",
-    alt: "Tent City encampment in May 1991.",
-    caption: "Tompkins Square Park encampment shortly before its destruction.",
-    credit: "Marilynn K. Yee / The New York Times."
-  },
-  {
-    image: "images/tent-city-nyt-protest-1988.jpg",
-    alt: "Police confront demonstrators in Tompkins Square Park.",
-    caption: "Demonstrators confront police during the Tompkins Square Park conflict.",
-    credit: "Ángel Franco / The New York Times.",
-    quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park. If they
-},
+  slides: [
+    {
+      image: "images/tent-city-clayton-patterson.jpg",
+      alt: "A Tent City resident grilling,
   {
     id: "umbrella",
     title: "Umbrella House",
