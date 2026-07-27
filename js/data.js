@@ -87,11 +87,37 @@ const MAP_SITES = [
 
   quote: "",
 
-  image: "images/tent-city-clayton-patterson.jpg",
+ slides: [
 
-  imageAlt: "Tent City resident grilling outside his shelter in Tompkins Square Park.",
+  {
 
-  imageCaption: "A Tent City resident outside his shelter.",
+    image: "images/tent-city-clayton-patterson.jpg",
+
+    alt: "A Tent City resident grilling outside his shelter in Tompkins Square Park.",
+
+    title: "Tent City",
+
+    caption: "A resident outside his shelter in Tompkins Square Park.",
+
+    credit: "Photograph by Clayton Patterson; published by VICE in 2015."
+
+  },
+
+  {
+
+    image: "images/tent-city-nathaniel-margaret-morton.png",
+
+    alt: "Nathaniel beside his rebuilt home in Tompkins Square Park.",
+
+    title: "Nathaniel",
+
+    caption: "Nathaniel, known as the Mayor of Tompkins Square Park, beside the home he rebuilt after his tent and garden were destroyed.",
+
+    credit: "Photograph by Margaret Morton."
+
+  }
+
+],
 
   source: "Photograph by Clayton Patterson; published by VICE in 2015."
 
