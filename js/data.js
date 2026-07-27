@@ -123,6 +123,13 @@ const MAP_SITES = [
   quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
   attribution: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
 },
+   {
+  image: "images/tent-city-nyt-protest-1988.jpg",
+  alt: "Demonstration in Tompkins Square Park on August 6, 1988.",
+  title: "August 6, 1988",
+  caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
+  credit: "Photograph by Ángel Franco / The New York Times."
+},
 
   {
     image: "images/tent-city-homeless-structures-margaret-morton.jpg",
