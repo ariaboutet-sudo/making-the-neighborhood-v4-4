@@ -310,7 +310,23 @@ h1 {
   overflow: hidden;
   background: #f0ede6;
 }
+#theme-lens {
 
+  position: absolute;
+
+  inset: 0;
+
+  z-index: 500;
+
+  pointer-events: none;
+
+  opacity: 0;
+
+  background: transparent;
+
+  transition: opacity 0.35s ease, background-color 0.35s ease;
+
+}
 #map {
   width: 100%;
   height: 100%;
