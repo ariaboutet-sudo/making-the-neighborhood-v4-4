@@ -135,7 +135,7 @@ const MAP_SITES = [
     attribution: "— Seth Blood, cartoonist and protester, New York Times, June 4, 1991"
 },
    {
-  image: "Police officers dismantling the shantytown in Tompkins Square Park in 1991.Credit...John Sotomayor:The New York Times.png",
+  image: "images/dismantling-encampment.png",
   alt: "Police officers dismantling the Tompkins Square Park encampment.",
   title: "Dismantling the Encampment",
   caption: "Police remove shelters as the encampment is cleared.",
