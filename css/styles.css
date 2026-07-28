@@ -718,3 +718,31 @@ h1 {
   font-size: 1rem;
   opacity: 0.8;
 }
+.works-cited {
+  padding: 8px 30px 17px;
+  border-top: 1px solid var(--line);
+}
+
+.works-cited > h2 {
+  margin: 0 0 12px;
+  font-family: "Source Sans 3", sans-serif;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .13em;
+  font-size: .63rem;
+  font-weight: 600;
+}
+
+.works-cited-list {
+  display: grid;
+  gap: 8px;
+}
+
+.works-cited-list p {
+  margin: 0;
+  color: var(--muted);
+  font-size: .69rem;
+  line-height: 1.45;
+  padding-left: 1.2em;
+  text-indent: -1.2em;
+}
