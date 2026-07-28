@@ -5,8 +5,6 @@ const MAP_THEMES = {
     vision: "Housing beyond profit.",
 
   practices: "Squatting • Encampments • Rent strikes • Direct Action • Coalition Building • Mutual Defense"
-
-},
   },
   commons: {
     title: "Commons & Mutual Aid",
