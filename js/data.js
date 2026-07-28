@@ -117,11 +117,8 @@ const MAP_SITES = [
   },
    {
   type: "quote",
-  title: "James Smith",
   quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
   attribution: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
-  sourceLabel: "Kifner, J. (1991, June 4). New York Closes Park to Homeless. The New York Times."
-  sourceUrl: "https://www.nytimes.com/1991/06/04/nyregion/new-york-closes-park-to-homeless.html"
 },
    {
   image: "images/tent-city-nyt-protest-1988.jpg",
