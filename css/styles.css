@@ -670,8 +670,8 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #2b2b2b;
-  color: #f5f2eb;
+  background: #f7f4ec;
+color: #2f2b25;
   text-align: center;
 }
 
@@ -681,8 +681,8 @@ h1 {
 
 #overlay-quote-text {
   max-width: 760px;
-  font-family: "Source Sans 3", sans-serif;
-  font-size: clamp(1.65rem, 3.5vw, 2.65rem);
+  font-family: "Cormorant Garamond", Georgia, serif;
+ font-size: clamp(1.45rem, 2.8vw, 2rem);
   font-style: normal;
   font-weight: 400;
   line-height: 1.28;
