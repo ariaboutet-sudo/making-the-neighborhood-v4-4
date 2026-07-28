@@ -115,7 +115,7 @@ const MAP_SITES = [
     credit: "Photograph by Margaret Morton."
 
   },
-   {
+   {title: "",
   type: "quote",
   quote: "I woke up with 10 cops standing over me, telling me it's time to go. I dropped my heart on the way out of there.",
   attribution: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
@@ -127,7 +127,7 @@ const MAP_SITES = [
   caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
   credit: "Photograph by Ángel Franco / The New York Times."
 },
-   {
+   {title: "",
   type: "quote",
   quote: "We'll take it back... We took it back three times before and we'll take it back again. The people in this neighborhood will do whatever they have to do to get this park. If they throw people out of the park, they let slip the dogs of hell.",
     attribution: "— Seth Blood, cartoonist and protester, New York Times, June 4, 1991"
