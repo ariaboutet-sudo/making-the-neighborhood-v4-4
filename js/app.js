@@ -316,6 +316,5 @@ document.getElementById("home-view").addEventListener("click", showPark);
 renderButtons();
 renderThemeCopy();
 renderMarkers();
-clearSiteDetail();
 map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
 hideImageOverlay();
