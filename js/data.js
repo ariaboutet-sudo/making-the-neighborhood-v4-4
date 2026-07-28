@@ -2,9 +2,11 @@ const MAP_THEMES = {
   housing: {
     title: "Housing & Collective Self-Determination",
     color: "#b97f75",
-    text: "",
-    quote: "",
-    attribution: ""
+    vision: "Housing beyond profit.",
+
+  practices: "Squatting • Encampments • Rent strikes • Direct Action • Coalition Building • Mutual Defense"
+
+},
   },
   commons: {
     title: "Commons & Mutual Aid",
