@@ -119,7 +119,7 @@ const themeLens = document.getElementById("theme-lens");
 
 if (activeTheme) {
   themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
-  themeLens.style.opacity = "0.18";
+  themeLens.style.opacity = "0.32";
 } else {
   themeLens.style.opacity = "0";
 }
