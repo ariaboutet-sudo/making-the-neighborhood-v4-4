@@ -309,7 +309,6 @@ document.addEventListener("keydown", event => {
   if (event.key === "ArrowRight") changeSlide(1);
   if (event.key === "Escape") hideImageOverlay();
 });
-document.getElementById("home-view").addEventListener("click", showPark);
 
 renderButtons();
 renderThemeCopy();
