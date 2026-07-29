@@ -1,11 +1,12 @@
 const DEFAULT_CENTER = PARK_SITE.coordinates;
-const DEFAULT_ZOOM = 18;
+const HOME_ZOOM = 16;
+const THEME_ZOOM = 15;
 
 const map = L.map("map", {
   zoomControl: true,
   minZoom: 12,
   maxZoom: 15
-}).setView(DEFAULT_CENTER, 16);
+}).setView(DEFAULT_CENTER, HOME_ZOOM);
 
 /*
   A nearly label-free, pale CARTO basemap. The additional CSS filter in
@@ -23,7 +24,7 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png
 */
 
 /* A faint outline keeps the park legible even when no theme is selected. */
-L.polygon([
+const parkHighlight = L.polygon([
   [40.72835, -73.98338],
   [40.72837, -73.97988],
   [40.72468, -73.97983],
@@ -110,6 +111,11 @@ function renderButtons() {
 function selectTheme(key) {
   hideImageOverlay();
   activeTheme = activeTheme === key ? null : key;
+
+  if (activeTheme && map.hasLayer(parkHighlight)) {
+    map.removeLayer(parkHighlight);
+  }
+
   renderButtons();
   renderThemeCopy();
   renderMarkers();
@@ -188,8 +194,15 @@ function goHome() {
 
   hideImageOverlay();
 
-  map.flyTo(PARK_SITE.coordinates, DEFAULT_ZOOM, { duration: .55 });
+if (!map.hasLayer(parkHighlight)) {
+  parkHighlight.addTo(map);
 }
+
+if (!map.hasLayer(parkHighlight)) {
+  parkHighlight.addTo(map);
+}
+
+map.flyTo(PARK_SITE.coordinates, HOME_ZOOM, { duration: .55 });
 
 function showSite(site) {
   const themeForColor = activeTheme && site.themes.includes(activeTheme)
