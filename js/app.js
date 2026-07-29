@@ -119,6 +119,7 @@ function selectTheme(key) {
   renderButtons();
   renderThemeCopy();
   renderMarkers();
+  }
 
 const themeLens = document.getElementById("theme-lens");
 
