@@ -256,12 +256,58 @@ const MAP_SITES = [
   },
   {
   id: "la-lucha-continua",
-  title: "La Lucha Continua Murals",
+  title: "La Lucha Continua",
   coordinates: [40.7269, -73.9785],
   themes: ["culture", "place"],
   excerpt:
     "A series of community murals covering the walls surrounding La Plaza Cultural, expressing neighborhood memory, Puerto Rican and Latin American liberation struggles, and resistance to displacement.",
-  slides: []
+  slides: [slides: [
+  {
+    image: "images/la-lucha-continua/LLC-1.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/la-lucha-continua/LLC-2.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/la-lucha-continua/LLC-3.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/la-lucha-continua/LLC-4.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/la-lucha-continua/LLC-5.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  }
+]
 },
   {
     id: "charas",
