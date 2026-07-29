@@ -135,9 +135,9 @@ function renderThemeCopy() {
 
   const theme = MAP_THEMES[activeTheme];
   panel.innerHTML = `
-    <h2>${theme.title}</h2>
+  <h2>${theme.title}</h2>
 ${theme.vision ? `<p class="theme-vision">${theme.vision}</p>` : ""}
-${theme.practices ? `<p class="theme-practices"><strong>Practices:</strong> ${theme.practices}</p>` : ""}
+${theme.practices ? `<p class="theme-practices">${theme.practices}</p>` : ""}
   `;
 }
 
@@ -309,7 +309,6 @@ document.addEventListener("keydown", event => {
   if (event.key === "ArrowRight") changeSlide(1);
   if (event.key === "Escape") hideImageOverlay();
 });
-document.getElementById("park-intro-button").addEventListener("click", showPark);
 document.getElementById("home-view").addEventListener("click", showPark);
 
 renderButtons();
