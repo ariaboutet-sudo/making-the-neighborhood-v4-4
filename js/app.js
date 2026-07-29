@@ -29,11 +29,11 @@ L.polygon([
   [40.72468, -73.97983],
   [40.72467, -73.98334]
 ], {
-  color: "#8f9487",
-  weight: 1,
-  dashArray: "3,5",
-  fillColor: "#aeb6a5",
-  fillOpacity: .09,
+  color: "#5f7f62",
+weight: 2,
+dashArray: null,
+fillColor: "#8fb58f",
+fillOpacity: .28,
   interactive: false
 }).addTo(map);
 
