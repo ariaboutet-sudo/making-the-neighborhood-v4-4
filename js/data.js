@@ -255,6 +255,15 @@ const MAP_SITES = [
     source: "Efrat Eizenberg, “Actually Existing Commons.”"
   },
   {
+  id: "la-lucha-continua",
+  title: "La Lucha Continua Murals",
+  coordinates: [40.7269, -73.9785],
+  themes: ["culture", "place"],
+  excerpt:
+    "A series of community murals covering the walls surrounding La Plaza Cultural, expressing neighborhood memory, Puerto Rican and Latin American liberation struggles, and resistance to displacement.",
+  slides: []
+},
+  {
     id: "charas",
     title: "CHARAS / El Bohío",
     address: "605 East 9th Street",
