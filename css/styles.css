@@ -206,6 +206,16 @@ h1 {
   line-height: 1.48;
 }
 
+.theme-copy .theme-vision {
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+.theme-copy .theme-practices {
+  margin-top: 0;
+}
+
 .theme-copy blockquote {
   margin: 14px 0 0;
   padding-left: 12px;
