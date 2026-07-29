@@ -172,6 +172,24 @@ function showPark() {
     showSlideshow(PARK_SITE.slides, 0);
   }
 }
+function goHome() {
+  activeTheme = null;
+  renderButtons();
+  renderThemeCopy();
+  renderMarkers();
+
+  document.getElementById("theme-lens").style.opacity = "0";
+
+  const mapWrap = document.getElementById("map-wrap");
+  mapWrap.classList.remove("theme-lens-active");
+  mapWrap.style.removeProperty("--active-theme-color");
+
+  document.getElementById("site-detail").innerHTML = "";
+
+  closeSlideshow();
+
+  map.flyTo(PARK_SITE.coordinates, DEFAULT_ZOOM, { duration: .55 });
+}
 
 function showSite(site) {
   const themeForColor = activeTheme && site.themes.includes(activeTheme)
@@ -303,12 +321,16 @@ function hideImageOverlay() {
 document.getElementById("close-image").addEventListener("click", hideImageOverlay);
 document.getElementById("previous-slide").addEventListener("click", () => changeSlide(-1));
 document.getElementById("next-slide").addEventListener("click", () => changeSlide(1));
-document.addEventListener("keydown", event => {
+document.addEventListener("keydown", (event) => {
   if (!document.getElementById("image-overlay").classList.contains("visible")) return;
   if (event.key === "ArrowLeft") changeSlide(-1);
   if (event.key === "ArrowRight") changeSlide(1);
   if (event.key === "Escape") hideImageOverlay();
 });
+
+document
+  .getElementById("site-title-home")
+  .addEventListener("click", goHome);
 
 renderButtons();
 renderThemeCopy();
