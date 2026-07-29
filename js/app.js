@@ -4,8 +4,8 @@ const DEFAULT_ZOOM = 18;
 const map = L.map("map", {
   zoomControl: true,
   minZoom: 12,
-  maxZoom: 19
-}).setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+  maxZoom: 15
+}).setView(DEFAULT_CENTER, 16);
 
 /*
   A nearly label-free, pale CARTO basemap. The additional CSS filter in
