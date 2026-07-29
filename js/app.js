@@ -186,7 +186,7 @@ function goHome() {
 
   document.getElementById("site-detail").innerHTML = "";
 
-  closeSlideshow();
+  hideImageOverlay();
 
   map.flyTo(PARK_SITE.coordinates, DEFAULT_ZOOM, { duration: .55 });
 }
