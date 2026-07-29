@@ -136,8 +136,8 @@ function renderThemeCopy() {
   const theme = MAP_THEMES[activeTheme];
   panel.innerHTML = `
     <h2>${theme.title}</h2>
-    ${theme.text ? `<p>${theme.text}</p>` : ""}
-    ${theme.quote ? `<blockquote>“${theme.quote}”${theme.attribution ? `<cite>— ${theme.attribution}</cite>` : ""}</blockquote>` : ""}
+${theme.vision ? `<p class="theme-vision">${theme.vision}</p>` : ""}
+${theme.practices ? `<p class="theme-practices"><strong>Practices:</strong> ${theme.practices}</p>` : ""}
   `;
 }
 
