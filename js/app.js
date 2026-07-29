@@ -1,5 +1,5 @@
 const DEFAULT_CENTER = PARK_SITE.coordinates;
-const DEFAULT_ZOOM = 15;
+const DEFAULT_ZOOM = 18;
 
 const map = L.map("map", {
   zoomControl: true,
