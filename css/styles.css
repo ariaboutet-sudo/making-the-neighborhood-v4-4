@@ -48,6 +48,24 @@ button { font: inherit; }
 .site-header {
   padding: 35px 31px 26px;
 }
+#site-title-home {
+  appearance: none;
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+#site-title-home:hover,
+#site-title-home:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
+}
 
 .eyebrow {
   max-width: 270px;
