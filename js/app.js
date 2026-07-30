@@ -122,11 +122,12 @@ function selectTheme(key) {
 
   const themeLens = document.getElementById("theme-lens");
 
-  if (activeTheme) {
-    themeLens.classList.add("active");
-  } else {
-    themeLens.classList.remove("active");
-  }
+ if (activeTheme) {
+  themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
+  themeLens.style.opacity = "0.32";
+} else {
+  themeLens.style.opacity = "0";
+}
 }
 
 
