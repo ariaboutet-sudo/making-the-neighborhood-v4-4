@@ -129,6 +129,7 @@ function selectTheme(key) {
   }
 }
 
+
 function renderThemeCopy() {
   const panel = document.getElementById("theme-copy");
 
@@ -192,6 +193,7 @@ function goHome() {
   document.getElementById("site-detail").innerHTML = "";
 
   hideImageOverlay();
+  }
 
 if (!map.hasLayer(parkHighlight)) {
   parkHighlight.addTo(map);
