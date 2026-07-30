@@ -30,11 +30,11 @@ const parkHighlight = L.polygon([
   [40.72468, -73.97983],
   [40.72467, -73.98334]
 ], {
-  color: "#5f7f62",
-weight: 2,
-dashArray: null,
-fillColor: "#8fb58f",
-fillOpacity: .28,
+ {
+  color: "transparent",
+  weight: 0,
+  fillColor: "#8fb58f",
+  fillOpacity: 0.35,
   interactive: false
 }).addTo(map);
 
