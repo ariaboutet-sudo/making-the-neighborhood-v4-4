@@ -329,7 +329,161 @@ const MAP_SITES = [
     period: "Founded 1980",
     description: "A collectively run art and activist center that developed from an occupation and critique of real-estate policy into durable infrastructure for DIY cultural and political practice.",
     quote: "",
-    source: "Nandini Bagchee; Dawson Barrett, “DIY Democracy.”"
+    source: "Nandini Bagchee; Dawson Barrett, “DIY Democracy.”",
+    slides: [
+  {
+    image: "images/abc-no-rio/exterior.png",
+    alt: "Street-level view of ABC No Rio’s graffiti-covered storefront at 156 Rivington Street.",
+    title: "ABC No Rio",
+    caption: "Street view of ABC No Rio, 2012.",
+    credit: "Photograph by Jade Doskow, 2012. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/abc.png",
+    alt: "View of ABC No Rio’s backyard, with artwork, plants, and materials gathered throughout the space.",
+    title: "ABC No Rio: A Visual Essay",
+    caption: "ABC No Rio backyard, 2016.",
+    credit: "Photograph by Margarida Correia, October 4, 2016.",
+    sourceLabel: "Wrong Wrong, “ABC No Rio”",
+    sourceUrl: "https://wrongwrong.net/article/abc-no-rio"
+  },
+  {
+    image: "images/abc-no-rio/abc-1.png",
+    alt: "Another view of ABC No Rio’s backyard and its layered, collectively used outdoor space.",
+    title: "ABC No Rio: A Visual Essay",
+    caption: "ABC No Rio backyard, 2016.",
+    credit: "Photograph by Margarida Correia, October 4, 2016.",
+    sourceLabel: "Wrong Wrong, “ABC No Rio”",
+    sourceUrl: "https://wrongwrong.net/article/abc-no-rio"
+  },
+  {
+    image: "images/abc-no-rio/abc-2.png",
+    alt: "Interior view of ABC No Rio showing its informal, densely layered art and organizing space.",
+    title: "ABC No Rio: A Visual Essay",
+    caption: "ABC No Rio, 2016.",
+    credit: "Photograph by Margarida Correia, October 4, 2016.",
+    sourceLabel: "Wrong Wrong, “ABC No Rio”",
+    sourceUrl: "https://wrongwrong.net/article/abc-no-rio"
+  },
+  {
+    image: "images/abc-no-rio/dark-room.png",
+    alt: "The darkroom at ABC No Rio, with photographic equipment and materials arranged in a small workspace.",
+    title: "ABC No Rio Darkroom",
+    caption: "ABC No Rio darkroom, 2016.",
+    credit: "Photograph by Margarida Correia, October 4, 2016.",
+    sourceLabel: "Wrong Wrong, “ABC No Rio”",
+    sourceUrl: "https://wrongwrong.net/article/abc-no-rio"
+  },
+  {
+    image: "images/abc-no-rio/head.png",
+    alt: "ABC No Rio’s zine library beneath a handwritten message reading, “there is always something hanging above your head.”",
+    title: "Zine Library",
+    caption: "ABC No Rio’s zine library. Above it, artist and zinester Fly Orr wrote, “there is always something hanging above your head.”",
+    credit: "Photograph by Jade Doskow, 2012. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/1981.png",
+    alt: "Leonard Abrams, Christy Rupp, and Layne Redmond gathered inside ABC No Rio in 1981.",
+    title: "ABC No Rio, 1981",
+    caption: "Left to right: Leonard Abrams, Christy Rupp, and Layne Redmond at ABC No Rio, 1981.",
+    credit: "Photograph by Marc Miller, 1981. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/abc-no-rio.png",
+    alt: "Black-and-white flyer advertising an ABC No Rio benefit show for the War Resisters League.",
+    title: "War Resisters League Benefit",
+    caption: "Flyer for a benefit show for the War Resisters League, 1991.",
+    credit: "Courtesy of the ABC No Rio HC/Punk Archive. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/animals.png",
+    alt: "ABC No Rio’s storefront decorated with stenciled images of a hen and a dog.",
+    title: "Animals That Live in the City",
+    caption: "Storefront with live-hen and dog stencils by Anton van Dalen. The 1980 exhibition Animals That Live in the City brought artists, scientists, and neighborhood children into collaboration.",
+    credit: "Artwork by Anton van Dalen, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/detail.png",
+    alt: "Detail of animal stencils painted across the ABC No Rio storefront.",
+    title: "Animals That Live in the City",
+    caption: "Detail of the storefront stencils created by Anton van Dalen for Animals That Live in the City, a 1980 collaboration among artists, scientists, and neighborhood children.",
+    credit: "Artwork by Anton van Dalen, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/extremist-show.png",
+    alt: "Three photographs documenting performances and installations at ABC No Rio, including activity in the backyard and storefront window.",
+    title: "The Extremist Show",
+    caption: "Left: Peter Cramer and Jack Waters perform in the backyard. Center: Kembra Pfahler sleeps in the storefront window. Right: Kembra Pfahler and Samoa sit on paintings.",
+    credit: "Photographs by Toyo Tsuchiya, 1983. Courtesy of the Toyo Tsuchiya Estate. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/murder-junk-suicide.png",
+    alt: "Installation by John Murton inside ABC No Rio in 1980.",
+    title: "Murder, Junk, Suicide",
+    caption: "Installation by John Murton, 1980.",
+    credit: "Photograph by Tom Warren, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/portrait-show.png",
+    alt: "Installation of photographic portraits of neighborhood residents displayed inside ABC No Rio.",
+    title: "Portrait Show",
+    caption: "Installation by Tom Warren featuring portraits of neighborhood residents.",
+    credit: "Artwork and photograph by Tom Warren, 1981. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/all-ages.png",
+    alt: "Flyer advertising an all-ages Saturday matinee show at ABC No Rio.",
+    title: "All Ages Show",
+    caption: "All Ages Show flyer for an ABC No Rio Saturday matinee, 1990.",
+    credit: "Flyer designed by Java Dave; courtesy of Freddy Alva. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/ides-of-march.png",
+    alt: "Illustrated timeline tracing ABC No Rio’s Ides of March publication series and its many contributors.",
+    title: "Ides of March",
+    caption: "Ides of March, ABC No Rio’s long-running collaborative publication series, documented the collective’s artists, projects, and political commitments from the late 1990s through the 2000s.",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/pipeline-project.png",
+    alt: "A site-specific installation of pipes and sculptural elements occupying ABC No Rio’s stairway.",
+    title: "Pipeline Project",
+    caption: "Lamberto Fernando’s Pipeline Project installed in ABC No Rio’s stairway.",
+    credit: "Artwork by Lamberto Fernando. Photograph by Nandini Bagchee, 2014. Published in Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/just-seeds.png",
+    alt: "Political artwork concerning immigration displayed in ABC No Rio’s computer room.",
+    title: "Immigration Project",
+    caption: "Immigration project by the Justseeds Artists’ Cooperative in ABC No Rio’s computer room.",
+    credit: "Artwork by the Justseeds Artists’ Cooperative. Photograph by Nandini Bagchee, 2014. Published in Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/building-proposal.png",
+    alt: "Architectural drawing proposing a replacement building for ABC No Rio.",
+    title: "Proposal for a New ABC No Rio",
+    caption: "After ABC No Rio raised $700,000 and persuaded HPD to sell it the building in 2006, architect Paul A. Castrucci determined that the existing structure was unsound. The collective began raising additional funds for its demolition and replacement with a new community-controlled facility.",
+    credit: "Drawing courtesy of Paul A. Castrucci Architect for ABC No Rio. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/abc-no-rio/history.png",
+    alt: "Michael Alan performing amid a densely layered installation inside ABC No Rio.",
+    title: "History Pushes Through",
+    caption: "Michael Alan’s History Pushes Through, installed at ABC No Rio in 2011.",
+    credit: "Artwork by Michael Alan, 2011.",
+    sourceLabel: "Hyperallergic, “ABC No Rio: Michael Alan’s Living Installation”",
+    sourceUrl: "https://hyperallergic.com/abc-no-rio-michael-alan-living-installation/"
+  },
+  {
+    image: "images/abc-no-rio/going-down.png",
+    alt: "Michael Alan performing inside a layered installation responding to ABC No Rio’s deteriorating building.",
+    title: "Going Down with the Building",
+    caption: "Michael Alan explored the building’s approaching demolition in an installation at ABC No Rio in 2011.",
+    credit: "Artwork by Michael Alan, 2011.",
+    sourceLabel: "Hyperallergic, “ABC No Rio: Michael Alan’s Living Installation”",
+    sourceUrl: "https://hyperallergic.com/abc-no-rio-michael-alan-living-installation/"
+  }
+]
   },
   {
     id: "kenkeleba",
