@@ -399,14 +399,14 @@ const MAP_SITES = [
     image: "images/abc no rio/animals.png",
     alt: "ABC No Rio’s storefront decorated with stenciled images of a hen and a dog.",
     title: "Animals That Live in the City",
-    caption: "Storefront with live-hen and dog stencils by Anton van Dalen. The 1980 exhibition Animals That Live in the City brought artists, scientists, and neighborhood children into collaboration.",
+    caption: "Storefront with live-hen and dog stencils by Anton van Dalen. The 1980 exhibition 'Animals That Live in the City' brought artists, scientists, and neighborhood children into collaboration.",
     credit: "Artwork by Anton van Dalen, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
     image: "images/abc no rio/detail.png",
     alt: "Detail of animal stencils painted across the ABC No Rio storefront.",
     title: "Animals That Live in the City",
-    caption: "Detail of the storefront stencils created by Anton van Dalen for Animals That Live in the City, a 1980 collaboration among artists, scientists, and neighborhood children.",
+    caption: "Detail of the storefront stencils created by Anton van Dalen for 'Animals That Live in the City', a 1980 collaboration among artists, scientists, and neighborhood children.",
     credit: "Artwork by Anton van Dalen, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
