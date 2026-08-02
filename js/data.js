@@ -10,7 +10,7 @@ const MAP_THEMES = {
     title: "Mutual Aid",
     color: "#8fa084",
     vision: "CARE BEYOND INSTITUTIONS",
-    practices: ""
+    practices: "Community-Controlled Institutions • Harm Reduction • Collective Care • Resource Re/Distribution • Housing Justice • Self Governance • Commons Stewardship • DIY Infrastructure"
   },
 
   queer: {
