@@ -30,7 +30,6 @@ const parkHighlight = L.polygon([
   [40.72468, -73.97983],
   [40.72467, -73.98334]
 ], {
- {
   color: "transparent",
   weight: 0,
   fillColor: "#8fb58f",
