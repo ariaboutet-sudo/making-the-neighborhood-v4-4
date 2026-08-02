@@ -97,7 +97,7 @@ const MAP_SITES = [
 
   {
 
-    image: "images/tent-city-clayton-patterson.jpg",
+    image: "images/Tent City Images/tent-city-clayton-patterson.jpg",
 
     alt: "A Tent City resident grilling outside his shelter in Tompkins Square Park.",
 
