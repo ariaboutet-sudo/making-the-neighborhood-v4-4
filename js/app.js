@@ -109,6 +109,7 @@ function renderButtons() {
 
 function selectTheme(key) {
   hideImageOverlay();
+  document.getElementById("site-detail").innerHTML = "";
   activeTheme = activeTheme === key ? null : key;
 
   if (activeTheme && map.hasLayer(parkHighlight)) {
