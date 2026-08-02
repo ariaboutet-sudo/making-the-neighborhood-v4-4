@@ -141,6 +141,17 @@ const MAP_SITES = [
 ]
 },
 {
+  id: "christodora",
+  title: "Christodora House",
+  address: "143 Avenue B",
+  coordinates: [40.72474, -73.97856],
+  themes: ["housing"],
+  period: "Settlement house (1897) → luxury condominiums (1986)",
+  description: "Built in 1897 as a settlement house serving immigrant and working-class residents, Christodora House later fell into decline and stood largely vacant. Its conversion into luxury condominiums in 1986 became one of the Lower East Side's earliest and most visible symbols of gentrification. During the Tompkins Square Park struggles, the building emerged as a focal point for neighborhood anger over displacement and the transformation of housing from a social good into a luxury commodity.",
+  quote: "",
+  source: "Seth Tobocman, War in the Neighborhood; Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier."
+},
+{
   id: "tent-city",
 
   title: "Tent City, Tompkins Square Park",
