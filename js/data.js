@@ -74,7 +74,7 @@ const MAP_SITES = [
     description: "A cluster of abandoned buildings occupied, repaired, and made into homes through collective labor. The East 13th Street squats became a major site of neighborhood organizing, collective defense, and conflict over who had the right to determine the use of urban housing.",
     quote: "",
     source: "Amy Starecheski; Seth Tobocman, War in the Neighborhood. Images to be added."
-  },
+
   slides: [
   {
     image: "images/east-13th-street-squats/neighborhood-defense.png",
@@ -284,7 +284,7 @@ const MAP_SITES = [
   },
   {
     id: "csquat",
-    title: "C-Squat",
+    title: "C-Squat / MoRUS [Museum of Reclaimed Urban Space",
     address: "155 Avenue C",
     coordinates: [40.72583, -73.97753],
     themes: ["housing", "culture"],
@@ -292,6 +292,78 @@ const MAP_SITES = [
     description: "C-Squat shows housing as more than shelter: it became a site of collective life, decision-making, culture, and neighborhood memory. Its later legalization and the loss of its community room also reveal the costs and compromises involved in becoming a formal cooperative.",
     quote: "",
     source: "Amy Starecheski, What Was Squatting, and What Comes Next?"
+
+  slides: [
+  {image: "images/c-squat/not-for-sale.png",
+  alt: "C-Squat with a 'Not for Sale' sign.",
+  title: "Not for Sale",
+  caption: "C-Squat.",
+  credit: "Photograph by Clayton Patterson.",
+  sourceLabel: "CityRealty",
+  sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c"
+},
+{
+  image: "images/c-squat/c-squat.png",
+  alt: "Exterior view of C-Squat during the 1980s.",
+  title: "C-Squat",
+  caption: "C-Squat in its early years, 1980s.",
+  credit: "Photograph by Clayton Patterson.",
+  sourceLabel: "CityRealty",
+  sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c/5645"
+},
+{
+  image: "images/c-squat/basement.png",
+  alt: "The basement of C-Squat.",
+  title: "The Basement",
+  caption: "C-Squat's basement was largely closed to visitors in 2007 due to safety concerns.",
+  credit: "Photograph by Amy Starechesky.",
+  sourceLabel: "SAPIENS",
+  sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
+},
+{
+  image: "images/c-squat/taunto-bilsted.png",
+  alt: "Tauno Bilsted inside C-Squat.",
+  title: "Tauno Bilsted",
+  caption: "Early squatter Tauno Bilsted recalls how part of the first floor collapsed, creating C-Squat's famously enlarged basement.",
+  credit: "Photograph by Amy Starechesky.",
+  sourceLabel: "SAPIENS",
+  sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
+},
+{
+  image: "images/c-squat/sapiens-no-knocking.png",
+  alt: "Entrance to C-Squat.",
+  title: "Entrance",
+  caption: "Entrance to C-Squat.",
+  credit: "Photograph by Constantin Sergeyev.",
+  sourceLabel: "SAPIENS",
+  sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
+},
+{
+  image: "images/c-squat/what-cheer.png",
+  alt: "The What Cheer? Brigade performing outside C-Squat.",
+  title: "The What Cheer? Brigade",
+  caption: "The What Cheer? Brigade (part of the radical marching band movement) performs at C-Squat, 2012.",
+  credit: "Photograph by Tod Seelie.",
+  sourceLabel: "VICE",
+  sourceUrl: "https://www.vice.com/en/article/sxrapbookn-with-tod-the-what-cheer-brigade-at-c-squat/"
+},
+{
+  image: "images/c-squat/morus-1.png",
+  alt: "Storefront of the Museum of Reclaimed Urban Space.",
+  title: "MoRUS",
+  caption: "MoRUS storefront.",
+  credit: "Photograph by Clayton Patterson.",
+  sourceLabel: "CityRealty",
+  sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c/5645"
+},
+{
+  image: "images/c-squat/morus.png",
+  alt: "Museum of Reclaimed Urban Space inside the former C-Squat storefront.",
+  title: "Museum of Reclaimed Urban Space",
+  caption: "The Museum of Reclaimed Urban Space (MoRUS) opened in C-Squat's storefront in 2012.",
+  credit: "Photograph by Amy Starechesky.",
+  sourceLabel: "SAPIENS",
+  sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   },
   {
     id: "garden-eden",
