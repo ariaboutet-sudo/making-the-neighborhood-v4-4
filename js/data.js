@@ -368,7 +368,7 @@ const MAP_SITES = [
   {
     image: "images/abc no rio/dark-room.png",
     alt: "The darkroom at ABC No Rio, with photographic equipment and materials arranged in a small workspace.",
-    title: "ABC No Rio Darkroom",
+    title: "ABC No Rio: A Visual Essay",
     caption: "ABC No Rio darkroom, 2016.",
     credit: "Photograph by Margarida Correia, October 4, 2016.",
     sourceLabel: "Wrong Wrong, “ABC No Rio”",
@@ -378,7 +378,7 @@ const MAP_SITES = [
     image: "images/abc no rio/head.png",
     alt: "ABC No Rio’s zine library beneath a handwritten message reading, “there is always something hanging above your head.”",
     title: "Zine Library",
-    caption: "ABC No Rio’s zine library. Above it, artist and zinester Fly Orr wrote, “there is always something hanging above your head.”",
+    caption: "ABC No Rio’s zine library. Above it, artist and zinester Fly Orr has painted, “there is always something hanging above your head.”",
     credit: "Photograph by Jade Doskow, 2012. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
