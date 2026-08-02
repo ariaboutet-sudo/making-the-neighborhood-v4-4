@@ -77,7 +77,7 @@ const MAP_SITES = [
 
   slides: [
   {
-    image: "images/east-13th-street-squats/neighborhood-defense.png",
+    image: "images/E 13th St Squats/neighborhood-defense.png",
     alt: "Residents gather outside the East 13th Street squats during the 1995 eviction.",
     title: "Defending the Squats",
     caption: "The neighborhood attempts to defend the East 13th Street squats from eviction, 1995.",
@@ -86,7 +86,7 @@ const MAP_SITES = [
     sourceUrl: "https://evgrieve.com/2013/05/commemorating-east-13th-street-squat.html"
   },
   {
-    image: "images/east-13th-street-squats/neighborhood-defense-2.png",
+    image: "images/E 13th St Squats/neighborhood-defense-2.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction.",
     title: "1995 Standoff",
     caption: "Squatters stand off against the NYPD during the eviction of the East 13th Street squats, 1995.",
@@ -95,42 +95,42 @@ const MAP_SITES = [
     sourceUrl: "https://www.curbed.com/2023/01/east-village-squatters-standoff-1995.html"
   },
   {
-    image: "images/east-13th-street-squats/eviction.png",
+    image: "images/E 13th St Squats/eviction.png",
     alt: "Comic panel depicting the eviction of the East 13th Street squats.",
     title: "Eviction",
     caption: "The eviction of the East 13th Street squats.",
     credit: "From Seth Tobocman, War in the Neighborhood, p. 315."
   },
   {
-    image: "images/east-13th-street-squats/eviction-1.png",
+    image: "images/E 13th St Squats/eviction-1.png",
     alt: "Comic panel from War in the Neighborhood.",
     title: "Eviction",
     caption: "From the East 13th Street eviction sequence.",
     credit: "Seth Tobocman, War in the Neighborhood, p. 316."
   },
   {
-    image: "images/east-13th-street-squats/eviction-2.png",
+    image: "images/E 13th St Squats/eviction-2.png",
     alt: "Comic panel from War in the Neighborhood.",
     title: "Eviction",
     caption: "From the East 13th Street eviction sequence.",
     credit: "Seth Tobocman, War in the Neighborhood, p. 317."
   },
   {
-    image: "images/east-13th-street-squats/eviction-3.png",
+    image: "images/E 13th St Squats/eviction-3.png",
     alt: "Comic panel from War in the Neighborhood.",
     title: "Eviction",
     caption: "From the East 13th Street eviction sequence.",
     credit: "Seth Tobocman, War in the Neighborhood, p. 318."
   },
   {
-    image: "images/east-13th-street-squats/eviction-4.png",
+    image: "images/E 13th St Squats/eviction-4.png",
     alt: "Comic panel from War in the Neighborhood.",
     title: "Eviction",
     caption: "From the East 13th Street eviction sequence.",
     credit: "Seth Tobocman, War in the Neighborhood, p. 319."
   },
   {
-    image: "images/east-13th-street-squats/18-since-13.png",
+    image: "images/E 13th St Squats/18-since-13.png",
     alt: "Flyer commemorating the East 13th Street squat eviction.",
     title: "18 Since 13",
     caption: "Flyer for a commemoration of the eviction of the East 13th Street squats held at the Museum of Reclaimed Urban Space (C-Squat).",
