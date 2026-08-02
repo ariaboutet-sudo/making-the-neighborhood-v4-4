@@ -119,6 +119,27 @@ function selectTheme(key) {
   renderButtons();
   renderThemeCopy();
   renderMarkers();
+  if (activeTheme) {
+  const matchingSites = MAP_SITES.filter(site =>
+    site.themes.includes(activeTheme)
+  );
+
+  if (matchingSites.length === 1) {
+    map.flyTo(matchingSites[0].coordinates, 16, {
+      duration: 0.55
+    });
+  } else if (matchingSites.length > 1) {
+    const bounds = L.latLngBounds(
+      matchingSites.map(site => site.coordinates)
+    );
+
+    map.flyToBounds(bounds, {
+      padding: [45, 45],
+      maxZoom: 16,
+      duration: 0.55
+    });
+  }
+}
 
   const themeLens = document.getElementById("theme-lens");
 
