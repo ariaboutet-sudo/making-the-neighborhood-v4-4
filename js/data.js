@@ -24,14 +24,14 @@ const MAP_THEMES = {
     title: "Cultural Resistance",
     color: "#c69c6d",
     vision: "CULTURE AS COLLECTIVE / POLITICAL PRACTICE",
-    practices: ""
+    practices: "Murals • Bomba y plena • DIY Publishing & Zines • Public Performance • Graffiti • Wheatpasting / Flyering • Community Venues"
   },
 
   place: {
     title: "Collective Place-Making",
     color: "#d1a65a",
     vision: "MAKING THE NEIGHBORHOOD",
-    practices: ""
+    practices: "Reclaiming Vacant Lots & Buildings • Self-Built Spaces • Collective Maintenance • Community Design • Neighborhood Beautification"
   }
 };
 
