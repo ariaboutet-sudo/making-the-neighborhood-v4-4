@@ -17,7 +17,7 @@ const MAP_THEMES = {
     title: "Queer Liberation",
     color: "#8197a6",
     vision: "QUEER WORLD-MAKING",
-    practices: ""
+    practices: "Mutual Aid • Cultural Production • Visibility • Chosen Family • Political Education • Public Celebration • Direct Action • Coalition Building"
   },
 
   culture: {
