@@ -149,8 +149,64 @@ const MAP_SITES = [
   period: "Settlement house (1897) → luxury condominiums (1986)",
   description: "Built in 1897 as a settlement house serving immigrant and working-class residents, Christodora House later fell into decline and stood largely vacant. Its conversion into luxury condominiums in 1986 became one of the Lower East Side's earliest and most visible symbols of gentrification. During the Tompkins Square Park struggles, the building emerged as a focal point for neighborhood anger over displacement and the transformation of housing from a social good into a luxury commodity.",
   quote: "",
-  source: "Seth Tobocman, War in the Neighborhood; Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier."
+source: "Seth Tobocman, War in the Neighborhood; Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier.",
+slides: [
+  {
+    image: "images/Christadora House/christadora-house-1.png",
+    alt: "Historical image of Christodora House in the East Village.",
+    title: "Christodora House",
+    caption: "",
+    credit: ""
+  },
+  {
+    image: "images/Christadora House/christadora-house-2.png",
+    alt: "Historical image of Christodora House in the East Village.",
+    title: "Christodora House",
+    caption: "",
+    credit: ""
+  },
+  {
+    type: "quote",
+    title: "",
+    quote: "People really did feel that the neighborhood had been invaded and occupied by an enemy force. For there to be a building in the neighborhood that had a doorman and an elevator was pretty shocking. It was looked at as an interloper and a harbinger of things to come. And lo and behold, things did come.",
+    attribution: "— Roland Legiardi-Laura, neighborhood resident since 1978",
+    sourceLabel: "The New York Times, August 3, 2008",
+    sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
+  },
+  {
+    type: "quote",
+    title: "",
+    quote: "It was horrific for me, to walk outside and have people yell: ‘Pig! Yuppie scum!’ I wanted to say, ‘I’m no yuppie, I’m broke!’ My phone was turned off. But you can’t do that, because you’ve come out of this sacred address, this building that is a symbol.",
+    attribution: "— Jerry Saltz, former Christodora House resident",
+    sourceLabel: "The New York Times, September 1, 2016",
+    sourceUrl: "https://www.nytimes.com/2016/09/01/fashion/christodora-house-east-village-book.html"
+  },
+  {
+    image: "images/Christadora House/christadora.png",
+    alt: "Seth Tobocman comic panels depicting the Memorial Day riot and anger directed toward a luxury condominium near Tompkins Square Park.",
+    title: "Memorial Day Riot",
+    caption: "Seth Tobocman illustrates the Memorial Day riot. The “luxury condo” referenced may be Christodora House, located directly across from Tompkins Square Park.",
+    credit: "Seth Tobocman, War in the Neighborhood, p. 111."
+  },
+  {
+    type: "quote",
+    title: "",
+    quote: "We were yuppie scum—that’s what they called us. We were gentrifying; let’s be honest.",
+    attribution: "— Victoria Irwin, neighborhood resident during the 1980s",
+    sourceLabel: "The New York Times, August 3, 2008",
+    sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
+  },
+  {
+    type: "quote",
+    title: "",
+    quote: "When people sit there today and say, ‘Well, it’s a symbol’—well, it’s time to grow up. Your symbol 20 years ago isn’t who we are today.",
+    attribution: "— Michael Rosen, who moved into Christodora House shortly after the 1988 riot",
+    sourceLabel: "The New York Times, August 3, 2008",
+    sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
+  }
+]
 },
+
 {
   id: "tent-city",
 
