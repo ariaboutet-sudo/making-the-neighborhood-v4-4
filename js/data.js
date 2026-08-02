@@ -110,7 +110,7 @@ const MAP_SITES = [
   },
 
     {
-    image: "images/tent-city-nathaniel-margaret-morton.png",
+    image: "images/Tent City Images/tent-city-nathaniel-margaret-morton.png",
 
     alt: "Nathaniel beside his rebuilt home in Tompkins Square Park.",
 
@@ -127,7 +127,7 @@ const MAP_SITES = [
   attribution: "— James Smith, 33-year-old park resident, New York Times, June 4, 1991"
 },
    {
-  image: "images/tent-city-nyt-protest-1988.jpg",
+  image: "images/Tent City Images/tent-city-nyt-protest-1988.jpg",
   alt: "Demonstration in Tompkins Square Park on August 6, 1988.",
   title: "August 6, 1988",
   caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
@@ -139,63 +139,63 @@ const MAP_SITES = [
     attribution: "— Seth Blood, cartoonist and protester, New York Times, June 4, 1991"
 },
    {
-  image: "images/dismantling-encampment.png",
+  image: "images/Tent City Images/dismantling-encampment.png",
   alt: "Police officers dismantling the Tompkins Square Park encampment.",
   title: "Dismantling the Encampment",
   caption: "Police remove shelters as the encampment is cleared.",
   credit: "Photograph by John Sotomayor / The New York Times."
 },
   {
-    image: "images/tent-city-homeless-structures-margaret-morton.jpg",
+    image: "images/Tent City Images/tent-city-homeless-structures-margaret-morton.jpg",
     alt: "Homeless structures in Tompkins Square Park.",
     title: "Homeless Structures",
     caption: "Homeless structures in Tompkins Square Park, 1989.",
     credit: "Photograph by Margaret Morton."
   },
    {
-  image: "images/tent-city-tobocman-p102.png",
+  image: "images/Tent City Images/tent-city-tobocman-p102.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 102.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 102.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p103.png",
+  image: "images/Tent City Images/tent-city-tobocman-p103.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 103.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 103.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p104.png",
+  image: "images/Tent City Images/tent-city-tobocman-p104.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 104.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 104.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p105.png",
+  image: "images/Tent City Images/tent-city-tobocman-p105.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 105.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 105.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p106.png",
+  image: "images/Tent City Images/tent-city-tobocman-p106.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 106.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 106.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p107.png",
+  image: "images/Tent City Images/tent-city-tobocman-p107.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 107.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 107.",
   credit: "Seth Tobocman."
 },
    {
-  image: "images/tent-city-tobocman-p108.png",
+  image: "images/Tent City Images/tent-city-tobocman-p108.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 108.",
   title: "War in the Neighborhood",
   caption: "Seth Tobocman, p. 108.",
