@@ -282,17 +282,6 @@ const MAP_SITES = [
   source: "Photograph by Clayton Patterson; published by VICE in 2015."
 
 },
-{
-  id: "christodora",
-  title: "Christodora House",
-  address: "143 Avenue B",
-  coordinates: [40.72491, -73.97846],
-  themes: ["housing"],
-  period: "Settlement house (1897) → luxury conversion (1986)",
-  description: "Built in 1897 as a settlement house serving working-class and immigrant residents, Christodora House later fell into decline and stood largely vacant. Its 1986 conversion into luxury condominiums became one of the Lower East Side's earliest and most visible symbols of gentrification. Today, its apartments rank among the neighborhood's most expensive residential properties.",
-  quote: "",
-  source: "Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier; Christodora House historical sources."
-},
   {
     id: "umbrella",
     title: "Umbrella House",
