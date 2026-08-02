@@ -73,7 +73,7 @@ const MAP_SITES = [
     period: "Squatter community, 1980s–1990s",
     description: "A cluster of abandoned buildings occupied, repaired, and made into homes through collective labor. The East 13th Street squats became a major site of neighborhood organizing, collective defense, and conflict over who had the right to determine the use of urban housing.",
     quote: "",
-    source: "Amy Starecheski; Seth Tobocman, War in the Neighborhood. Images to be added."
+    source: "Amy Starecheski; Seth Tobocman, War in the Neighborhood. Images to be added.",
 
   slides: [
   {
@@ -137,10 +137,10 @@ const MAP_SITES = [
     credit: "Courtesy of EV Grieve.",
     sourceLabel: "EV Grieve",
     sourceUrl: "https://evgrieve.com/2013/05/commemorating-east-13th-street-squat.html"
-  }
-],
- {
-
+   }
+]
+},
+{
   id: "tent-city",
 
   title: "Tent City, Tompkins Square Park",
@@ -291,7 +291,7 @@ const MAP_SITES = [
     period: "Squat founded 1989",
     description: "C-Squat shows housing as more than shelter: it became a site of collective life, decision-making, culture, and neighborhood memory. Its later legalization and the loss of its community room also reveal the costs and compromises involved in becoming a formal cooperative.",
     quote: "",
-    source: "Amy Starecheski, What Was Squatting, and What Comes Next?"
+    source: "Amy Starecheski, What Was Squatting, and What Comes Next?",
 
   slides: [
   {image: "images/c-squat/not-for-sale.png",
@@ -364,8 +364,13 @@ const MAP_SITES = [
   credit: "Photograph by Amy Starechesky.",
   sourceLabel: "SAPIENS",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
-  },
-  {
+  }
+
+]
+
+},
+
+{
     id: "garden-eden",
     title: "Garden of Eden",
     address: "Forsyth Street, between Forsyth and Eldridge Streets",
