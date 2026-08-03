@@ -899,7 +899,7 @@ slides: [
 
   slides: [
     {
-      image: "images/kenkeleba-house.png",
+      image: "images/Kenkeleba/kenkeleba-house.png",
       alt: "",
       title: "",
       caption: "",
