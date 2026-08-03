@@ -1394,6 +1394,7 @@ slides: [
       credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
       sourceLabel: "The Bowery Boys, “The rebellious history of Tompkins Square Park”",
       sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
+      },
     ]
 }
 ];
