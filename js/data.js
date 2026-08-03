@@ -564,36 +564,45 @@ slides: [
     source: "Seth Tobocman, War in the Neighborhood, p. 23, plus historical sources on Adam Purple’s Garden of Eden."
   },
   {
-    id: "laplaza",
-    title: "La Plaza Cultural",
-    address: "East 9th Street and Avenue C",
-    coordinates: [40.72522, -73.97818],
-    themes: ["culture", "place"],
-    period: "Community garden founded in the 1970s",
-    description: "A resident-created garden and cultural commons built on neglected land and maintained through collective labor, stewardship, and neighborhood participation.",
-    quote: "",
-    source: "Efrat Eizenberg, “Actually Existing Commons.”"
-  },
-  {
-  image: "images/grupo-cemi.png",
-  title: "Grupo Cemi performs, 1980",
-  imageAlt: "Grupo Cemi performs, 1980",
-  source: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee, p. 127.",
-  credit: "Photograph by Marlis Momber."
-},
-{
-  image: "images/la-plaza-charas-recycling.png",
-  title: "",
-  imageAlt: "",
-  source: "‘Quality of Life in Loisaida’ (1979).",
-  credit: "Photograph by Josie Rolon."
-},
-{
-  image: "images/LLC-north-wall.png",
-  title: "Murals on the northern wall of La Plaza Cultural, 1985",
-  imageAlt: "Murals on the northern wall of La Plaza Cultural, 1985",
-  source: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
-  credit: "Courtesy of Artmakers Inc."
+  id: "laplaza",
+  title: "La Plaza Cultural",
+  address: "East 9th Street and Avenue C",
+  coordinates: [40.72522, -73.97818],
+  themes: ["culture", "place"],
+  period: "Community garden founded in the 1970s",
+  description: "A resident-created garden and cultural commons built on neglected land and maintained through collective labor, stewardship, and neighborhood participation.",
+  quote: "",
+  source: "Efrat Eizenberg, “Actually Existing Commons.”",
+
+  slides: [
+    {
+      image: "images/grupo-cemi.png",
+      title: "Grupo Cemi performs, 1980",
+      alt: "",
+      caption: "",
+      credit: "Photograph by Marlis Momber.",
+      sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee, p. 127.",
+      sourceUrl: ""
+    },
+    {
+      image: "images/la-plaza-charas-recycling.png",
+      title: "",
+      alt: "",
+      caption: "",
+      credit: "Photograph by Josie Rolon.",
+      sourceLabel: "‘Quality of Life in Loisaida’ (1979)",
+      sourceUrl: ""
+    },
+    {
+      image: "images/LLC-north-wall.png",
+      title: "Murals on the northern wall of La Plaza Cultural, 1985",
+      alt: "",
+      caption: "",
+      credit: "Courtesy of Artmakers Inc.",
+      sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
+      sourceUrl: ""
+    }
+  ]
 },
   {
   id: "la-lucha-continua",
@@ -886,122 +895,139 @@ slides: [
   period: "Community-rooted gallery and artist space",
   description: "Kenkeleba House created durable neighborhood infrastructure for artists—particularly Black artists whose work was often excluded from commercial institutions. It broadens the map’s account of cultural organizing beyond punk and anarchist spaces.",
   quote: "",
-  source: "Kenkeleba House."
-},
+  source: "Kenkeleba House.",
 
-{
-  image: "images/kenkeleba-house.png",
-  title: "",
-  imageAlt: "",
-  imageCaption: "",
-  source: "kenkelebahouse.org"
-},
-
-{
-  type: "mixed-quotes",
-  title: "Corrine Jennings on Building Kenkeleba House",
-
-  items: [
+  slides: [
     {
-      type: "excerpt",
-      text: "Corrine Jennings came to New York from Rhode Island in the 1970s—armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
-      source: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
+      image: "images/kenkeleba-house.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "kenkelebahouse.org",
+      sourceUrl: "https://kenkelebahouse.org"
     },
+
     {
-      type: "quote",
-      text: "We are the only downtown gallery that focuses on black artists’ work.",
-      speaker: "Corrine Jennings",
-      source: "Black Enterprise, 1985 (as found at https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf)"
+      type: "mixed-quotes",
+      title: "Corrine Jennings on Building Kenkeleba House",
+      items: [
+        {
+          type: "excerpt",
+          text: "Corrine Jennings came to New York from Rhode Island in the 1970s — armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
+          sourceLabel: "amNewYork",
+          sourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
+        },
+        {
+          type: "quote",
+          text: "We are the only downtown gallery that focuses on black artists’ work.",
+          speaker: "Corrine Jennings",
+          sourceLabel: "Black Enterprise, 1985, via Eric Firestone Gallery",
+          sourceUrl: "https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf"
+        }
+      ]
+    },
+
+    {
+      image: "images/Kenkeleba/magnitude.png",
+      alt: "",
+      title: "",
+      caption: "Life imitates art with photographer Leslie Jean Bart and Michele Voltaire Marcelin in front of her painting “Magnitude Seven Point One” …its title referencing the earthquake, a precient painting created before the 2010 earthlink took place. (Photos by Tequila Minsky)",
+      credit: "",
+      sourceLabel: "amNewYork",
+      sourceUrl: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
+    },
+
+    {
+      image: "images/Kenkeleba/Pity.png",
+      alt: "",
+      title: "",
+      caption: "Erzulie Beware Pity, acrylic/mixed media on wood panel/nails. (1999) with the artist Michele Voltaire Marcelin.",
+      credit: "",
+      sourceLabel: "amNewYork",
+      sourceUrl: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
+    },
+
+    {
+      image: "images/Kenkeleba/kenkeleba-image-1.png",
+      alt: "",
+      title: "Maltoon #4, Debra Priestly",
+      caption: "",
+      credit: "",
+      sourceLabel: "Sideways NYC",
+      sourceUrl: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+    },
+
+    {
+      image: "images/Kenkeleba/kenkeleba-image-2.png",
+      alt: "",
+      title: "Strange Fruit 2, Debra Priestly",
+      caption: "",
+      credit: "",
+      sourceLabel: "Sideways NYC",
+      sourceUrl: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+    },
+
+    {
+      image: "images/Kenkeleba/kenkeleba-image-3.png",
+      alt: "",
+      title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015]",
+      caption: "",
+      credit: "",
+      sourceLabel: "Sideways NYC",
+      sourceUrl: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+    },
+
+    {
+      image: "images/Kenkeleba/kenkeleba-image-4.png",
+      alt: "",
+      title: "Mural on the side of Kenkeleba House",
+      caption: "",
+      credit: "",
+      sourceLabel: "Sideways NYC",
+      sourceUrl: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+    },
+
+    {
+      image: "images/Kenkeleba/sculpture.png",
+      alt: "",
+      title: "Sculpture in Kenkelebe House’s garden",
+      caption: "",
+      credit: "",
+      sourceLabel: "EV Grieve",
+      sourceUrl: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
+    },
+
+    {
+      image: "images/Kenkeleba/sculpture-1.png",
+      alt: "",
+      title: "Sculpture in Kenkelebe House’s garden",
+      caption: "",
+      credit: "",
+      sourceLabel: "EV Grieve",
+      sourceUrl: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
+    },
+
+    {
+      image: "images/Kenkeleba/goree.png",
+      alt: "",
+      title: "Joe Overstreet, Gorée, 1993. Oil on canvas, 120 × 144 inches. © Estate of Joe Overstreet/Artist Rights Society (ARS). Courtesy Eric Firestone Gallery, New York. Photo: Samuel Glass.",
+      caption: "",
+      credit: "",
+      sourceLabel: "The Brooklyn Rail",
+      sourceUrl: "https://brooklynrail.org/2025/04/artseen/joe-overstreet-taking-flight/"
+    },
+
+    {
+      image: "images/Kenkeleba/overstreet.png",
+      alt: "",
+      title: "Joe Overstreet",
+      caption: "",
+      credit: "",
+      sourceLabel: "West Harlem Art Fund",
+      sourceUrl: "https://westharlem.art/2019/06/05/in-memoriam-joe-overstreet/"
     }
   ]
-},
-
-{
-  image: "images/garden-sideways.png",
-  title: "",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://sideways.nyc/discover/1DlXYAuMjgj5OmglcEWwhF/kenkeleba-house-garden"
-},
-
-{
-  image: "images/magnitude.png",
-  title: "",
-  imageAlt: "",
-  imageCaption: "Life imitates art with photographer Leslie Jean Bart and Michele Voltaire Marcelin in front of her painting “Magnitude Seven Point One” …its title referencing the earthquake, a precient painting created before the 2010 earthlink took place. (Photos by Tequila Minsky)",
-  source: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
-},
-
-{
-  image: "images/Pity.png",
-  title: "",
-  imageAlt: "",
-  imageCaption: "Erzulie Beware Pity, acrylic/mixed media on wood panel/nails. (1999) with the artist Michele Voltaire Marcelin.",
-  source: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
-},
-
-{
-  image: "images/kenkeleba-image-1.png",
-  title: "Maltoon #4, Debra Priestly",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
-},
-
-{
-  image: "images/kenkeleba-image-2.png",
-  title: "Strange Fruit 2, Debra Priestly",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
-},
-
-{
-  image: "images/kenkeleba-image-3.png",
-  title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015]",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
-},
-
-{
-  image: "images/kenkeleba-image-4.png",
-  title: "Mural on the side of Kenkeleba House",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
-},
-
-{
-  image: "images/sculpture.png",
-  title: "Sculpture in Kenkelebe House’s garden",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
-},
-
-{
-  image: "images/sculpture-1.png",
-  title: "Sculpture in Kenkelebe House’s garden",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
-},
-
-{
-  image: "images/gore.png",
-  title: "Joe Overstreet, Gorée, 1993. Oil on canvas, 120 × 144 inches. © Estate of Joe Overstreet/Artist Rights Society (ARS). Courtesy Eric Firestone Gallery, New York. Photo: Samuel Glass.",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://brooklynrail.org/2025/04/artseen/joe-overstreet-taking-flight/"
-},
-
-{
-  image: "images/overstreet.png",
-  title: "Joe Overstreet",
-  imageAlt: "",
-  imageCaption: "",
-  source: "https://westharlem.art/2019/06/05/in-memoriam-joe-overstreet/"
 },
 
   {
