@@ -294,19 +294,52 @@ function renderCurrentSlide() {
   const slide = currentSlides[currentSlideIndex];
   if (!slide) return;
 
-   const image = document.getElementById("overlay-image");
+  const image = document.getElementById("overlay-image");
   const quotePanel = document.getElementById("overlay-quote");
   const quoteText = document.getElementById("overlay-quote-text");
   const quoteAttribution = document.getElementById("overlay-quote-attribution");
+  const title = document.getElementById("overlay-title");
+  const caption = document.getElementById("overlay-caption");
+  const credit = document.getElementById("overlay-credit");
+  const source = document.getElementById("overlay-source");
 
-  const isQuoteSlide = slide.type === "quote";
+  title.textContent = slide.title || "";
+  caption.textContent = slide.caption || "";
+  credit.textContent = slide.credit || "";
 
-  if (isQuoteSlide) {
+  if (slide.type === "quote") {
     image.hidden = true;
     quotePanel.hidden = false;
+    quoteText.innerHTML = "";
 
-    quoteText.textContent = slide.quote || "";
+    if (slide.excerpt) {
+      const excerpt = document.createElement("div");
+      excerpt.className = "quote-excerpt";
+      excerpt.textContent = slide.excerpt;
+      quoteText.appendChild(excerpt);
+
+      if (slide.excerptSourceUrl) {
+        const excerptSource = document.createElement("a");
+        excerptSource.className = "quote-excerpt-source";
+        excerptSource.href = slide.excerptSourceUrl;
+        excerptSource.target = "_blank";
+        excerptSource.rel = "noopener noreferrer";
+        excerptSource.textContent = slide.excerptSourceLabel || "View source";
+        quoteText.appendChild(excerptSource);
+      }
+
+      const divider = document.createElement("div");
+      divider.className = "quote-divider";
+      quoteText.appendChild(divider);
+    }
+
+    const quotation = document.createElement("div");
+    quotation.className = "quote-main";
+    quotation.innerHTML = `“${slide.quote || ""}”`;
+    quoteText.appendChild(quotation);
+
     quoteAttribution.textContent = slide.attribution || "";
+
   } else {
     image.hidden = false;
     quotePanel.hidden = true;
@@ -314,15 +347,10 @@ function renderCurrentSlide() {
     image.src = slide.image || "";
     image.alt = slide.alt || "";
 
-    quoteText.textContent = "";
+    quoteText.innerHTML = "";
     quoteAttribution.textContent = "";
   }
 
-  document.getElementById("overlay-title").textContent = slide.title || "";
-  document.getElementById("overlay-caption").textContent = slide.caption || "";
-  document.getElementById("overlay-credit").textContent = slide.credit || "";
-
-  const source = document.getElementById("overlay-source");
   if (slide.sourceUrl) {
     source.href = slide.sourceUrl;
     source.textContent = slide.sourceLabel || "View source";
@@ -332,7 +360,9 @@ function renderCurrentSlide() {
   }
 
   document.getElementById("slide-counter").textContent =
-    currentSlides.length > 1 ? `${currentSlideIndex + 1} / ${currentSlides.length}` : "";
+    currentSlides.length > 1
+      ? `${currentSlideIndex + 1} / ${currentSlides.length}`
+      : "";
 
   const multiple = currentSlides.length > 1;
   document.getElementById("previous-slide").hidden = !multiple;

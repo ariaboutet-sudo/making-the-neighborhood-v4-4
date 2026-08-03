@@ -814,3 +814,43 @@ color: #2f2b25;
   margin-top: 0.35rem;
   font-size: 0.75rem;
 }
+.quote-excerpt {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  text-align: left;
+  font-style: normal;
+}
+
+.quote-excerpt-source {
+  display: block;
+  width: fit-content;
+  margin-top: 0.35rem;
+  font-size: 0.67rem;
+}
+
+.quote-divider {
+  width: 100%;
+  margin: 0.8rem 0;
+  border-top: 1px solid currentColor;
+  opacity: 0.25;
+}
+
+.quote-main {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  text-align: center;
+  font-style: normal;
+}
+
+.quote-main em {
+  font-style: italic;
+}
+
+#overlay-quote-attribution {
+  margin-top: 0.35rem;
+  font-size: 0.72rem;
+}
