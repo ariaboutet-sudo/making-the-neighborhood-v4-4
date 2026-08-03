@@ -888,6 +888,132 @@ slides: [
   quote: "",
   source: "Kenkeleba House."
 },
+{
+  id: "kenkeleba",
+  title: "Kenkeleba House",
+  address: "214 East 2nd Street",
+  coordinates: [40.72154, -73.98292],
+  themes: ["culture"],
+  period: "Community-rooted gallery and artist space",
+  description: "Kenkeleba House created durable neighborhood infrastructure for artists—particularly Black artists whose work was often excluded from commercial institutions. It broadens the map’s account of cultural organizing beyond punk and anarchist spaces.",
+  quote: "",
+  source: "Kenkeleba House."
+},
+
+{
+  image: "images/kenkeleba-house.png",
+  title: "",
+  imageAlt: "",
+  imageCaption: "",
+  source: "kenkelebahouse.org"
+},
+
+{
+  type: "mixed-quotes",
+  title: "Corrine Jennings on Building Kenkeleba House",
+
+  items: [
+    {
+      type: "excerpt",
+      text: "Corrine Jennings came to New York from Rhode Island in the 1970s—armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
+      source: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
+    },
+    {
+      type: "quote",
+      text: "We are the only downtown gallery that focuses on black artists’ work.",
+      speaker: "Corrine Jennings",
+      source: "Black Enterprise, 1985 (as found at https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf)"
+    }
+  ]
+},
+
+{
+  image: "images/garden-sideways.png",
+  title: "",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://sideways.nyc/discover/1DlXYAuMjgj5OmglcEWwhF/kenkeleba-house-garden"
+},
+
+{
+  image: "images/magnitude.png",
+  title: "",
+  imageAlt: "",
+  imageCaption: "Life imitates art with photographer Leslie Jean Bart and Michele Voltaire Marcelin in front of her painting “Magnitude Seven Point One” …its title referencing the earthquake, a precient painting created before the 2010 earthlink took place. (Photos by Tequila Minsky)",
+  source: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
+},
+
+{
+  image: "images/Pity.png",
+  title: "",
+  imageAlt: "",
+  imageCaption: "Erzulie Beware Pity, acrylic/mixed media on wood panel/nails. (1999) with the artist Michele Voltaire Marcelin.",
+  source: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
+},
+
+{
+  image: "images/kenkeleba-image-1.png",
+  title: "Maltoon #4, Debra Priestly",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+},
+
+{
+  image: "images/kenkeleba-image-2.png",
+  title: "Strange Fruit 2, Debra Priestly",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+},
+
+{
+  image: "images/kenkeleba-image-3.png",
+  title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015]",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+},
+
+{
+  image: "images/kenkeleba-image-4.png",
+  title: "Mural on the side of Kenkeleba House",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
+},
+
+{
+  image: "images/sculpture.png",
+  title: "Sculpture in Kenkelebe House’s garden",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
+},
+
+{
+  image: "images/sculpture-1.png",
+  title: "Sculpture in Kenkelebe House’s garden",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://evgrieve.com/2011/07/new-sculptures-in-kenkeleba-house.html"
+},
+
+{
+  image: "images/gore.png",
+  title: "Joe Overstreet, Gorée, 1993. Oil on canvas, 120 × 144 inches. © Estate of Joe Overstreet/Artist Rights Society (ARS). Courtesy Eric Firestone Gallery, New York. Photo: Samuel Glass.",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://brooklynrail.org/2025/04/artseen/joe-overstreet-taking-flight/"
+},
+
+{
+  image: "images/overstreet.png",
+  title: "Joe Overstreet",
+  imageAlt: "",
+  imageCaption: "",
+  source: "https://westharlem.art/2019/06/05/in-memoriam-joe-overstreet/"
+},
 
   {
     id: "peace",
