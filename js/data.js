@@ -1387,7 +1387,7 @@ slides: [
 
   slides: [
     {
-      image: "images/tompkins-wigstock-1988.jpg",
+      image: "images/Wigstock/tompkins-wigstock-1988.jpg",
       alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
       title: "Wigstock, 1988",
       caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
