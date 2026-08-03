@@ -920,55 +920,25 @@ body.sources-page .works-cited-list p {
   font-size: 0.85rem;
   line-height: 1.55;
 }
-.sources-link {
+..sources-link {
   display: block;
-  margin: 0 30px 18px;
+  width: 100%;
+  padding: padding: 7px 0 7px 13px;
   color: var(--ink);
   text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-size: 0.63rem;
-  font-weight: 600;
-}
-
-.sources-link:hover {
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-.sources-link {
-  text-decoration: none;
-  color: var(--ink);
-}
-
-.sources-link .nav-dot {
-  border-color: var(--line);
-}
-
-.sources-link:hover .nav-dot {
-  background: rgba(120, 112, 102, 0.25);
 }
 
 .sources-link strong {
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 1.06rem;
-  font-weight: 500;
-  line-height: 1.14;
-  text-transform: none;
+  display: block;
+  font-family: "Source Sans 3", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .13em;
+  font-size: .63rem;
+  font-weight: 600;
 }
 
 .sources-link:hover strong {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 4px;
-}
-.sources-link {
-  margin-top: -4px;
-}
-
-.sources-link strong {
-  font-size: 1.06rem;
-}
-
-.sources-link .nav-dot {
-  border-color: var(--muted);
 }
