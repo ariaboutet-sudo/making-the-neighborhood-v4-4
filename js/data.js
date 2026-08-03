@@ -412,6 +412,15 @@ slides: [
     sourceLabel: "City Limits, “Squatters’ Rites”",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
+  {
+    type: "quote",
+    title: "From Squatters to Property Owners",
+    quote: "““I would rather continue the way we’re going–if we could be left alone. But the stakes have changed. We know that if we don’t take the deal it would be a matter of time before the city came after us. -Siobhan Meow, Resident",
+    attribution: "",
+    caption: "",
+    sourceLabel: "City Limits, “Squatters’ Rites”",
+    sourceUrl: "https://citylimits.org/squatters-rites/"
+  },
   
   {
     image: "images/Umbrella House/garden day.png",
