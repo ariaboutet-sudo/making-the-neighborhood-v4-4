@@ -42,15 +42,7 @@ const PARK_SITE = {
   coordinates: [40.72655, -73.98155],
   period: "geographic + symbolic center",
   slides: [
-    {
-      image: "images/tompkins-wigstock-1988.jpg",
-      alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
-      title: "Wigstock, 1988",
-      caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
-      credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
-      sourceLabel: "The Bowery Boys, “The rebellious history of Tompkins Square Park”",
-      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
-    },
+   
     {
       image: "images/tompkins-living-proof-clayton.jpg",
       alt: "Nighttime crowd at Tompkins Square Park with raised fists and people gathered behind a metal barricade.",
@@ -1393,4 +1385,13 @@ slides: [
   quote: "",
   source: "Images and quotations to be added."
 },
+ {
+      image: "images/tompkins-wigstock-1988.jpg",
+      alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
+      title: "Wigstock, 1988",
+      caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
+      credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
+      sourceLabel: "The Bowery Boys, “The rebellious history of Tompkins Square Park”",
+      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
+    },
 ];
