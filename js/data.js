@@ -1351,8 +1351,8 @@ slides: [
    {
   image: "images/Pyramid Club/thanks-for-nothing.png",
   alt: "Flyer advertising a To Wong Foo casting event titled Thanks for Nothing.",
-  title: "To Wong Foo Casting — “Thanks for Nothing!”",
-  caption: "July 10, 1994.",
+  title: "To Wong Foo Casting — 'Thanks for Nothing!', July 10, 1994.",
+  caption: ".",
   credit: "Photograph by Linda Thompson. Courtesy of the Collection of David Kennerley.",
   quote: "",
   quoteCredit: "",
