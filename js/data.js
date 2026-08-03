@@ -576,7 +576,7 @@ slides: [
 
   slides: [
     {
-      image: "images/grupo-cemi.png",
+      image: "images/La Plaza Cultural/grupo-cemi.png",
       title: "Grupo Cemi performs, 1980",
       alt: "",
       caption: "",
@@ -585,7 +585,7 @@ slides: [
       sourceUrl: ""
     },
     {
-      image: "images/la-plaza-charas-recycling.png",
+      image: "images/La Plaza Cultural/la-plaza-charas-recycling.png",
       title: "",
       alt: "",
       caption: "",
@@ -594,7 +594,7 @@ slides: [
       sourceUrl: ""
     },
     {
-      image: "images/LLC-north-wall.png",
+      image: "images/La Plaza Cultural/LLC-north-wall.png",
       title: "Murals on the northern wall of La Plaza Cultural, 1985",
       alt: "",
       caption: "",
