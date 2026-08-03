@@ -1368,13 +1368,6 @@ slides: [
   sourceLabel: "Interview",
   sourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I"
 },
-      credit:
-        "Photograph by Linda Thompson. Courtesy of the Collection of David Kennerley.",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
-    },
 
     {
       image: "images/Pyramid Club/jocasta.png",
