@@ -949,7 +949,7 @@ slides: [
     },
 
     {
-      image: "images/Kenkeleba/kenkeleba-image-1.png",
+      image: "images/Kenkeleba/kenkeleba-image-1.webp",
       alt: "",
       title: "Maltoon #4, Debra Priestly",
       caption: "",
@@ -959,7 +959,7 @@ slides: [
     },
 
     {
-      image: "images/Kenkeleba/kenkeleba-image-2.png",
+      image: "images/Kenkeleba/kenkeleba-image-2.webp",
       alt: "",
       title: "Strange Fruit 2, Debra Priestly",
       caption: "",
@@ -969,7 +969,7 @@ slides: [
     },
 
     {
-      image: "images/Kenkeleba/kenkeleba-image-3.png",
+      image: "images/Kenkeleba/kenkeleba-image-3.webp",
       alt: "",
       title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015]",
       caption: "",
@@ -979,7 +979,7 @@ slides: [
     },
 
     {
-      image: "images/Kenkeleba/kenkeleba-image-4.png",
+      image: "images/Kenkeleba/kenkeleba-image-4.webp",
       alt: "",
       title: "Mural on the side of Kenkeleba House",
       caption: "",
