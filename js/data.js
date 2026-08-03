@@ -918,10 +918,8 @@ slides: [
 
   quote: "We are <em>the only</em> downtown gallery that focuses on black artists’ work.",
 
-  attribution: "— Corrine Jennings",
+  attribution: "— Corrine Jennings, in 'Black Enterprise', 1985",
 
-  sourceLabel: "Black Enterprise, 1985 (via Eric Firestone Gallery)",
-  sourceUrl: "https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf"
 },
 
     {
