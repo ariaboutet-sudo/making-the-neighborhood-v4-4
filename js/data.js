@@ -79,10 +79,10 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/neighborhood-defense.png",
     alt: "Residents gather outside the East 13th Street squats during the 1995 eviction.",
-    title: "Defending the Squats",
+    title: "",
     caption: "The neighborhood attempts to defend the East 13th Street squats from eviction, 1995.",
     credit: "Photograph by Clayton Patterson.",
-    sourceLabel: "EV Grieve",
+    sourceLabel: "",
     sourceUrl: "https://evgrieve.com/2013/05/commemorating-east-13th-street-squat.html"
   },
   {
