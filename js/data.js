@@ -1254,15 +1254,16 @@ slides: [
         "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo!",
       caption: "Pyramid Club dressing room, 1992.",
       credit: "Photograph by Linda Simpson.",
-      quote:
-        "“All of this was played out against the horrifying backdrop of the AIDS Crisis. Yet it was a time of great joy and revelry. Around this time, I wrote this line in my journal: ‘Flow’r furious before the frost!’ That is exactly what we were doing then. The Pyramid was our clubhouse. Our tribal circle. Our gang lair. Our home.”",
-      quoteCredit: "— Brian Butterick, Pyramid Club co-founder and artist",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View photograph source",
-      quoteSourceUrl:
-        "https://brianbutterick.org/archives/the-pyramid-club/",
-      quoteSourceLabel: "View quotation source"
     },
+    {
+  type: "quote",
+  title: "Brian Butterick",
+  quote: "All of this was played out against the horrifying backdrop of the AIDS Crisis. Yet it was a time of great joy and revelry. Around this time, I wrote this line in my journal: 'Flow'r furious before the frost!' That is exactly what we were doing then. The Pyramid was our clubhouse. Our tribal circle. Our gang lair. Our home.",
+  attribution: "— Brian Butterick, co-founder & artist",
+  sourceLabel: "Brian Butterick",
+  sourceUrl: "https://brianbutterick.org/archives/the-pyramid-club/"
+},
 
     {
       image: "images/Pyramid Club/first-time.png",
@@ -1282,17 +1283,17 @@ slides: [
       alt: "Hattie Hathaway, also known as Brian Butterick, with RuPaul in 1991.",
       title: "Hattie Hathaway and RuPaul",
       caption: "1991.",
-      credit:
-        "Photograph by Jonathan Lipkin. Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
-      quote:
-        "“There was a whole tribe of people who were on the same frequency, and we all found each other, and we gave ourselves over to the goddess of performance.”",
-      quoteCredit: "— Ann Magnuson, performance artist",
+      credit: "Photograph by Jonathan Lipkin. Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View photograph source",
-      quoteSourceUrl:
-        "https://www.facebook.com/EraRewindfb/posts/ann-magnuson-walked-into-1980s-new-york-like-a-glitch-in-the-system-and-the-syst/1326135672864446/",
-      quoteSourceLabel: "View quotation source"
     },
+    {
+  type: "quote",
+  title: "Ann Magnuson",
+  quote: "There was a whole tribe of people who were on the same frequency, and we all found each other, and we gave ourselves over to the goddess of performance.",
+  attribution: "— Ann Magnuson, performance artist",
+  sourceLabel: "Era Rewind",
+  sourceUrl: "https://www.facebook.com/EraRewindfb/posts/ann-magnuson-walked-into-1980s-new-york-like-a-glitch-in-the-system-and-the-syst/1326135672864446/"
+},
 
     {
       image: "images/Pyramid Club/membership.png",
@@ -1313,14 +1314,15 @@ slides: [
       title: "Drag Queen Marathon Flyer",
       caption: "May 12, year unknown.",
       credit: "Courtesy of the Howl! Arts Archive.",
-      quote:
-        "“The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn’t give a shit if they hated us. ‘In fact, you better hate it,’ I thought, ‘I’m gonna do something to make you hate it even more.’ I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.”",
-      quoteCredit: "— Ann Magnuson, performance artist",
-      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View flyer source",
-      quoteSourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I",
-      quoteSourceLabel: "View quotation source"
     },
+    {
+  type: "quote",
+  title: "Ann Magnuson",
+  quote: "The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn't give a shit if they hated us. 'In fact, you better hate it,' I thought, 'I'm gonna do something to make you hate it even more.' I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.",
+  attribution: "— Ann Magnuson, performance artist",
+  sourceLabel: "Interview",
+  sourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I"
+},
 
     {
       image: "images/Pyramid Club/open-closet.png",
