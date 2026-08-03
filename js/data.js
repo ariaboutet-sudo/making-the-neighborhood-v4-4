@@ -260,7 +260,7 @@ slides: [
    {
   image: "images/Tent City Images/tent-city-nyt-protest-1988.jpg",
   alt: "Demonstration in Tompkins Square Park on August 6, 1988.",
-  title: "August 6, 1988",
+  title: "Gentrification is Class War",
   caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
   credit: "Photograph by Ángel Franco / The New York Times."
 },
@@ -286,51 +286,51 @@ slides: [
    {
   image: "images/Tent City Images/tent-city-tobocman-p102.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 102.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 102.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the Neighborhood, Seth Tobocman, p. 102.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p103.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 103.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 103.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the NeighborhoodSeth Tobocman, p. 103.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p104.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 104.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 104.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the NeighborhoodSeth Tobocman, p. 104.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p105.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 105.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 105.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the Neighborhood, Seth Tobocman, p. 105.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p106.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 106.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 106.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the Neighborhood, Seth Tobocman, p. 106.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p107.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 107.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 107.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the Neighborhood, Seth Tobocman, p. 107.",
+  credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p108.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 108.",
-  title: "War in the Neighborhood",
-  caption: "Seth Tobocman, p. 108.",
-  credit: "Seth Tobocman."
+  title: "",
+  caption: "War in the Neighborhood, Seth Tobocman, p. 108.",
+  credit: ""
 }
 
 ],
