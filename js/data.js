@@ -871,23 +871,8 @@ slides: [
   siteId: "kenkeleba",
   type: "mixed-quotes",
   title: "Corrine Jennings on Building Kenkeleba House",
-
-  items: [
-    {
-      type: "excerpt",
-      text: "Corrine Jennings came to New York from Rhode Island in the 1970s—armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
-      source: "amNewYork, “Get to Know Kenkeleba and Kamoinge”",
-      sourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
-    },
-    {
-      type: "quote",
-      text: "We are the only downtown gallery that focuses on black artists’ work.",
-      speaker: "Corrine Jennings",
-      source: "Black Enterprise, 1985, via Eric Firestone Gallery",
-      sourceUrl: "https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf"
-    }
-  ]
 },
+
   {
     id: "peace",
     title: "Peace Pentagon",
