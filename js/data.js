@@ -377,7 +377,7 @@ slides: [
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
   {
-    image: "images/Umbrella House/Entryway.png",
+    image: "images/Umbrella House/entryway.png",
     alt: "Side-by-side photographs comparing Umbrella House’s entryway shortly after occupation and after residents brought the building up to code.",
     title: "Rebuilding the Entryway",
     caption: "The entryway to Umbrella House shortly after residents moved in, left, and after they brought the building up to code, right.",
@@ -406,12 +406,13 @@ slides: [
   {
     type: "quote",
     title: "From Squatters to Property Owners",
-    quote: "“I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.”\n\n— Hafid Lalaoui\n\n“I would rather continue the way we’re going—if we could be left alone. But the stakes have changed. We know that if we don’t take the deal, it would be a matter of time before the city came after us.”\n\n— Siobhan Meow, resident",
+    quote: "“I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.”\n\n— Hafid Lalaoui, a former residents expressing ambivalence about squatters becoming property owners.",
     attribution: "",
-    caption: "Current and former residents express their ambivalence about squatters becoming property owners.",
+    caption: "",
     sourceLabel: "City Limits, “Squatters’ Rites”",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
+  
   {
     image: "images/Umbrella House/garden day.png",
     alt: "Residents tending plants during a gardening workday on the roof of Umbrella House.",
