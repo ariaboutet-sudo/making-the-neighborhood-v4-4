@@ -867,11 +867,6 @@ slides: [
   quote: "",
   source: "Kenkeleba House."
 },
-{
-  siteId: "kenkeleba",
-  type: "mixed-quotes",
-  title: "Corrine Jennings on Building Kenkeleba House",
-},
 
   {
     id: "peace",
