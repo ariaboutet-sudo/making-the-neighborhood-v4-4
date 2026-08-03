@@ -161,9 +161,9 @@ slides: [
   {
     image: "images/Christadora House/christadora-house-2.png",
     alt: "Historical image of Christodora House in the East Village.",
-    title: ""
+    title: "",
     caption: "Christadora House, 1976. The Christadora was comdemned during this period due to water damage.",
-    credit: ""
+    credit: "",
   },
   {
     type: "quote",
