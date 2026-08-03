@@ -775,3 +775,42 @@ color: #2f2b25;
   padding-left: 1.2em;
   text-indent: -1.2em;
 }
+.quote-slide-excerpt {
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid rgba(255,255,255,.25);
+}
+
+.quote-slide-excerpt-text {
+  margin: 0;
+  font-size: 0.82rem;
+  line-height: 1.38;
+  font-style: normal;
+}
+
+.quote-slide-excerpt-source {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-size: 0.68rem;
+}
+
+.quote-slide-main-quote {
+  margin: 0;
+  padding-left: 0.9rem;
+  border-left: 2px solid currentColor;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  font-style: italic;
+}
+
+.quote-slide-single-quote {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.45;
+  font-style: italic;
+}
+
+#overlay-quote-attribution {
+  margin-top: 0.35rem;
+  font-size: 0.75rem;
+}
