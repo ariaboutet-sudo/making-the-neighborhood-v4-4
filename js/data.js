@@ -95,7 +95,7 @@ const MAP_SITES = [
     sourceUrl: "https://www.curbed.com/2023/01/east-village-squatters-standoff-1995.html"
   },
   {
-    image: "images/squatters-standoff-2.png/E 13th St Squats/.png",
+    image: "images/E 13th St Squats/squatters-standoff-2.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction (1995).",
     title: "",
     caption: "Squatters stand off against the NYPD during the eviction of the East 13th Street squats (1995).",
