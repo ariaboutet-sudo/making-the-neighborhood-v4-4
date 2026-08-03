@@ -877,17 +877,6 @@ slides: [
   }
 ]
   },
-  {
-  id: "kenkeleba",
-  title: "Kenkeleba House",
-  address: "214 East 2nd Street",
-  coordinates: [40.72154, -73.98292],
-  themes: ["culture"],
-  period: "Community-rooted gallery and artist space",
-  description: "Kenkeleba House created durable neighborhood infrastructure for artists—particularly Black artists whose work was often excluded from commercial institutions. It broadens the map’s account of cultural organizing beyond punk and anarchist spaces.",
-  quote: "",
-  source: "Kenkeleba House."
-},
 {
   id: "kenkeleba",
   title: "Kenkeleba House",
