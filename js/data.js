@@ -1034,7 +1034,199 @@ slides: [
   quote: "",
   source: "Images and quotations to be added."
 },
+slides: [
+  {
+    image: "images/rage.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
 
+  {
+    image: "images/ann.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/anon-avengers.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/anon-avengers-2.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/anon-avengers-3.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/anon-avengers-4.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/anon-avengers-5.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/burning-butch.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/exiles.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/fire-eaters.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/lesbian-avenger-handbook.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/lust.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/maxine.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/pickaxe.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/rights-now.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  },
+
+  {
+    image: "images/we-recruit.png",
+    alt: "",
+    title: "",
+    caption: "",
+    credit: "",
+    quote: "",
+    quoteCredit: "",
+    sourceUrl: "",
+    sourceLabel: "View source"
+  }
+]
   {
     id: "peace",
     title: "Peace Pentagon",
