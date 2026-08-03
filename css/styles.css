@@ -963,7 +963,11 @@ body.sources-page .works-cited-list p {
 }
 
 .sources-link strong {
-  text-transform: uppercase;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.06rem;
+  font-weight: 500;
+  line-height: 1.14;
+  text-transform: none;
 }
 
 .sources-link:hover strong {
