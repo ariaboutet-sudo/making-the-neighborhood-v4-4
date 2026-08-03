@@ -857,17 +857,18 @@ slides: [
 ]
   },
   {
-    id: "kenkeleba",
-    title: "Kenkeleba House",
-    address: "214 East 2nd Street",
-    coordinates: [40.72154, -73.98292],
-    themes: ["culture"],
-    period: "Community-rooted gallery and artist space",
-    description: "Kenkeleba House created durable neighborhood infrastructure for artists—particularly Black artists whose work was often excluded from commercial institutions. It broadens the map’s account of cultural organizing beyond punk and anarchist spaces.",
-    quote: "",
-    source: "Kenkeleba House. Further quotation and image to be selected."
-  },
-  {
+  id: "kenkeleba",
+  title: "Kenkeleba House",
+  address: "214 East 2nd Street",
+  coordinates: [40.72154, -73.98292],
+  themes: ["culture"],
+  period: "Community-rooted gallery and artist space",
+  description: "Kenkeleba House created durable neighborhood infrastructure for artists—particularly Black artists whose work was often excluded from commercial institutions. It broadens the map’s account of cultural organizing beyond punk and anarchist spaces.",
+  quote: "",
+  source: "Kenkeleba House."
+},
+{
+  siteId: "kenkeleba",
   type: "mixed-quotes",
   title: "Corrine Jennings on Building Kenkeleba House",
 
@@ -875,13 +876,15 @@ slides: [
     {
       type: "excerpt",
       text: "Corrine Jennings came to New York from Rhode Island in the 1970s—armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
-      source: "amNewYork, “Get to Know Kenkeleba and Kamoinge”"
+      source: "amNewYork, “Get to Know Kenkeleba and Kamoinge”",
+      sourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
     },
     {
       type: "quote",
       text: "We are the only downtown gallery that focuses on black artists’ work.",
       speaker: "Corrine Jennings",
-      source: "Black Enterprise, 1985 (via Eric Firestone Gallery)"
+      source: "Black Enterprise, 1985, via Eric Firestone Gallery",
+      sourceUrl: "https://www.ericfirestonegallery.com/attachment/en/5c8fedcea5aa2ccf708b4567/News/5cfec2d6a0c13815381ebddf"
     }
   ]
 },
