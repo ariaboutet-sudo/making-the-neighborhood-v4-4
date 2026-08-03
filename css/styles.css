@@ -949,3 +949,25 @@ body.sources-page .works-cited-list p {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.sources-link {
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.sources-link .nav-dot {
+  border-color: var(--line);
+}
+
+.sources-link:hover .nav-dot {
+  background: rgba(120, 112, 102, 0.25);
+}
+
+.sources-link strong {
+  text-transform: uppercase;
+}
+
+.sources-link:hover strong {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
