@@ -638,10 +638,61 @@ slides: [
     period: "Community center, 1979–2001",
     description: "A former public school transformed by neighborhood organizers into a Puerto Rican community and cultural center. Its loss remains central to struggles over community-controlled space.",
     quote: "",
-    source: "Nandini Bagchee, Counter Institution."
+    source: "Nandini Bagchee, Counter Institution.", 
+  slides: [
+  {
+    image: "images/CHARAS/charas.png",
+    alt: "Founders of CHARAS gathered together.",
+    title: "CHARAS Founders",
+    caption: "",
+    credit: "Photograph by Nandini Bagchee. Published in Counter Institution: Activist Estates of the Lower East Side."
   },
   {
-    id: "abc",
+    image: "images/CHARAS/charas-offices.png",
+    alt: "Office space inside CHARAS / El Bohío.",
+    title: "CHARAS Offices",
+    caption: "",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/CHARAS/charas-offices-2.png",
+    alt: "Another view of the offices inside CHARAS / El Bohío.",
+    title: "CHARAS Offices",
+    caption: "",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/CHARAS/charas-recycling.png",
+    alt: "Materials and activity associated with CHARAS recycling work.",
+    title: "CHARAS Recycling",
+    caption: "",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/CHARAS/la-plaza-charas-recycling.png",
+    alt: "CHARAS recycling activity associated with La Plaza Cultural.",
+    title: "CHARAS and La Plaza Cultural",
+    caption: "",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/CHARAS/lobby-mural.png",
+    alt: "Mural in the lobby of CHARAS / El Bohío.",
+    title: "Lobby Mural",
+    caption: "",
+    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  },
+  {
+    image: "images/CHARAS/save-el-bohio.png",
+    alt: "Artwork or campaign material calling for the preservation of El Bohío.",
+    title: "Save El Bohío",
+    caption: "",
+    credit: "Created by Nandini Bagchee. Published in Counter Institution: Activist Estates of the Lower East Side."
+    }
+]
+},
+{
+  id: "abc",
     title: "ABC No Rio",
     address: "156 Rivington Street",
     coordinates: [40.71902, -73.98506],
