@@ -1023,6 +1023,17 @@ slides: [
     }
   ]
 },
+{
+  id: "lesbian-avengers",
+  title: "First Lesbian Avengers Meeting",
+  address: "219 East 5th Street",
+  coordinates: [40.72753, -73.98437],
+  themes: ["queer", "place"],
+  period: "Founded here in 1992",
+  description: "The first meeting of the Lesbian Avengers took place in Ana María Simó's apartment. From this ordinary residential space, organizers developed one of the most influential direct-action lesbian organizations of the 1990s, demonstrating how political movements often emerge from domestic space as much as public institutions.",
+  quote: "",
+  source: "Images and quotations to be added."
+},
 
   {
     id: "peace",
@@ -1034,5 +1045,27 @@ slides: [
     description: "A building that housed anti-war and social-justice organizations at below-market rents, providing durable physical infrastructure for organizing across movements.",
     quote: "",
     source: "Nandini Bagchee, Counter Institution."
-  }
+  },
+  {
+  id: "pyramid",
+  title: "Pyramid Club",
+  address: "101 Avenue A",
+  coordinates: [40.72672, -73.98308],
+  themes: ["queer", "culture"],
+  period: "Founded 1979",
+  description: "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
+  quote: "",
+  source: "Images and quotations to be added.",
+}, 
+{
+  id: "wigstock",
+  title: "Wigstock",
+  address: "Tompkins Square Park",
+  coordinates: [40.72680, -73.98145],
+  themes: ["queer", "culture", "place"],
+  period: "1984–2001",
+  description: "Founded by Lady Bunny in Tompkins Square Park, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal gathering, it grew into one of the world's largest drag festivals.",
+  quote: "",
+  source: "Images and quotations to be added."
+},
 ];
