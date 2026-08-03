@@ -1058,6 +1058,142 @@ slides: [
   source: "Images and quotations to be added.",
 }, 
 {
+  id: "pyramid",
+  title: "Pyramid Club",
+  address: "101 Avenue A",
+  coordinates: [40.72672, -73.98308],
+  themes: ["queer", "culture"],
+  period: "Founded 1979",
+  description:
+    "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
+
+  slides: [
+    {
+      image: "images/dressing-room.png",
+      alt: "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo! in the Pyramid Club dressing room in 1992.",
+      title:
+        "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo!",
+      caption: "Pyramid Club dressing room, 1992.",
+      credit: "Photograph by Linda Simpson.",
+      quote:
+        "“All of this was played out against the horrifying backdrop of the AIDS Crisis. Yet it was a time of great joy and revelry. Around this time, I wrote this line in my journal: ‘Flow’r furious before the frost!’ That is exactly what we were doing then. The Pyramid was our clubhouse. Our tribal circle. Our gang lair. Our home.”",
+      quoteCredit: "— Brian Butterick, Pyramid Club co-founder and artist",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View photograph source",
+      quoteSourceUrl:
+        "https://brianbutterick.org/archives/the-pyramid-club/",
+      quoteSourceLabel: "View quotation source"
+    },
+
+    {
+      image: "images/first-time.png",
+      alt: "Brian Butterick appearing in drag for the first time in the basement of the Pyramid Club.",
+      title: "Brian Butterick, First Time in Drag",
+      caption: "Pyramid Club basement, date unknown.",
+      credit:
+        "Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    },
+
+    {
+      image: "images/hattie.png",
+      alt: "Hattie Hathaway, also known as Brian Butterick, with RuPaul in 1991.",
+      title: "Hattie Hathaway and RuPaul",
+      caption: "1991.",
+      credit:
+        "Photograph by Jonathan Lipkin. Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
+      quote:
+        "“There was a whole tribe of people who were on the same frequency, and we all found each other, and we gave ourselves over to the goddess of performance.”",
+      quoteCredit: "— Ann Magnuson, performance artist",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View photograph source",
+      quoteSourceUrl:
+        "https://www.facebook.com/EraRewindfb/posts/ann-magnuson-walked-into-1980s-new-york-like-a-glitch-in-the-system-and-the-syst/1326135672864446/",
+      quoteSourceLabel: "View quotation source"
+    },
+
+    {
+      image: "images/membership.png",
+      alt: "A Pyramid Club membership card.",
+      title: "Pyramid Club Membership Card",
+      caption: "",
+      credit:
+        "Photograph by Jonathan Lipkin. Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    },
+
+    {
+      image: "images/drag-marathon.png",
+      alt: "Flyer advertising a Drag Queen Marathon at the Pyramid Club.",
+      title: "Drag Queen Marathon Flyer",
+      caption: "May 12, year unknown.",
+      credit: "Courtesy of the Howl! Arts Archive.",
+      quote:
+        "“The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn’t give a shit if they hated us. ‘In fact, you better hate it,’ I thought, ‘I’m gonna do something to make you hate it even more.’ I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.”",
+      quoteCredit: "— Ann Magnuson, performance artist",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View flyer source",
+      quoteSourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I",
+      quoteSourceLabel: "View quotation source"
+    },
+
+    {
+      image: "images/open-closet.png",
+      alt: "Flyer advertising the Open Closet fashion show at the Pyramid Club.",
+      title: "“Open Closet” Fashion Show Flyer",
+      caption: "October 27, 1982.",
+      credit: "Courtesy of the Howl! Arts Archive.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    },
+
+    {
+      image: "images/cha-cha.png",
+      alt: "Flyer advertising Cha-Cha with Billy Vinci and Michael Blake.",
+      title: "“Cha-Cha” with Billy Vinci and Michael Blake",
+      caption: "August 14, 1983.",
+      credit: "Courtesy of the Howl! Arts Archive.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    },
+
+    {
+      image: "images/thanks-for-nothing.png",
+      alt: "Flyer advertising a To Wong Foo casting event titled Thanks for Nothing.",
+      title: "To Wong Foo Casting — “Thanks for Nothing!”",
+      caption: "July 10, 1994.",
+      credit:
+        "Photograph by Linda Thompson. Courtesy of the Collection of David Kennerley.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    },
+
+    {
+      image: "images/jocasta.png",
+      alt: "Flyer for Jocasta and Tiresius: Now the Story Can Be Told.",
+      title: "“Jocasta & Tiresius: Now the Story Can Be TOLD!”",
+      caption: "",
+      credit: "Photograph by Peter Hujar. Courtesy of the Howl! Arts Archive.",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+      sourceLabel: "View source"
+    }
+  ]
+},
+{
   id: "wigstock",
   title: "Wigstock",
   address: "Tompkins Square Park",
