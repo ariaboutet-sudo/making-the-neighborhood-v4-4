@@ -585,7 +585,7 @@ slides: [
       sourceUrl: ""
     },
     {
-      image: "images/La Plaza Cultural/la-plaza-charas-recycling.png",
+      image: "images/La Plaza Cultural/la-plaza-charas-recycling-copy.png",
       title: "",
       alt: "",
       caption: "",
