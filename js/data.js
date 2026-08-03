@@ -1348,11 +1348,26 @@ slides: [
       sourceLabel: "View source"
     },
 
-    {
-      image: "images/Pyramid Club/thanks-for-nothing.png",
-      alt: "Flyer advertising a To Wong Foo casting event titled Thanks for Nothing.",
-      title: "To Wong Foo Casting — “Thanks for Nothing!”",
-      caption: "July 10, 1994.",
+   {
+  image: "images/Pyramid Club/thanks-for-nothing.png",
+  alt: "Flyer advertising a To Wong Foo casting event titled Thanks for Nothing.",
+  title: "To Wong Foo Casting — “Thanks for Nothing!”",
+  caption: "July 10, 1994.",
+  credit: "Photograph by Linda Thompson. Courtesy of the Collection of David Kennerley.",
+  quote: "",
+  quoteCredit: "",
+  sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+  sourceLabel: "View source"
+},
+
+{
+  type: "quote",
+  title: "Ann Magnuson",
+  quote: "The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn't give a shit if they hated us. 'In fact, you better hate it,' I thought, 'I'm gonna do something to make you hate it even more.' I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.",
+  attribution: "— Ann Magnuson, performance artist",
+  sourceLabel: "Interview",
+  sourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I"
+},
       credit:
         "Photograph by Linda Thompson. Courtesy of the Collection of David Kennerley.",
       quote: "",
