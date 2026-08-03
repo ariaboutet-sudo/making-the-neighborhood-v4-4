@@ -934,3 +934,18 @@ body.sources-page .works-cited-list p {
   font-size: 0.85rem;
   line-height: 1.55;
 }
+.sources-link {
+  display: block;
+  margin: 0 30px 18px;
+  color: var(--ink);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.63rem;
+  font-weight: 600;
+}
+
+.sources-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
