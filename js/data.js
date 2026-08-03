@@ -1030,203 +1030,190 @@ slides: [
   coordinates: [40.72753, -73.98437],
   themes: ["queer", "place"],
   period: "Founded here in 1992",
-  description: "The first meeting of the Lesbian Avengers took place in Ana María Simó's apartment. From this ordinary residential space, organizers developed one of the most influential direct-action lesbian organizations of the 1990s, demonstrating how political movements often emerge from domestic space as much as public institutions.",
+  description:
+    "The first meeting of the Lesbian Avengers took place in Ana María Simó's apartment. From this ordinary residential space, organizers developed one of the most influential direct-action lesbian organizations of the 1990s, demonstrating how political movements often emerge from domestic space as much as public institutions.",
   quote: "",
-  source: "Images and quotations to be added."
+  source: "Images and quotations to be added.",
+
+  slides: [
+    {
+      image: "images/Lesbian Avengers/rage.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/ann.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/anon-avengers.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/anon-avengers-2.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/anon-avengers-3.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/anon-avengers-4.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/anon-avengers-5.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/burning-butch.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/exiles.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/fire-eaters.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/lesbian-avenger-handbook.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/lust.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/maxine.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/pickaxe.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/rights-now.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    },
+    {
+      image: "images/Lesbian Avengers/we-recruit.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "",
+      sourceLabel: "View source"
+    }
+  ]
 },
-slides: [
-  {
-    image: "images/rage.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/ann.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/anon-avengers.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/anon-avengers-2.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/anon-avengers-3.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/anon-avengers-4.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/anon-avengers-5.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/burning-butch.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/exiles.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/fire-eaters.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/lesbian-avenger-handbook.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/lust.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/maxine.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/pickaxe.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/rights-now.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  },
-
-  {
-    image: "images/we-recruit.png",
-    alt: "",
-    title: "",
-    caption: "",
-    credit: "",
-    quote: "",
-    quoteCredit: "",
-    sourceUrl: "",
-    sourceLabel: "View source"
-  }
-]
   {
     id: "peace",
     title: "Peace Pentagon",
@@ -1261,7 +1248,7 @@ slides: [
 
   slides: [
     {
-      image: "images/dressing-room.png",
+      image: "images/Pyramid Club/dressing-room.png",
       alt: "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo! in the Pyramid Club dressing room in 1992.",
       title:
         "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo!",
@@ -1278,7 +1265,7 @@ slides: [
     },
 
     {
-      image: "images/first-time.png",
+      image: "images/Pyramid Club/first-time.png",
       alt: "Brian Butterick appearing in drag for the first time in the basement of the Pyramid Club.",
       title: "Brian Butterick, First Time in Drag",
       caption: "Pyramid Club basement, date unknown.",
@@ -1291,7 +1278,7 @@ slides: [
     },
 
     {
-      image: "images/hattie.png",
+      image: "images/Pyramid Club/hattie.png",
       alt: "Hattie Hathaway, also known as Brian Butterick, with RuPaul in 1991.",
       title: "Hattie Hathaway and RuPaul",
       caption: "1991.",
@@ -1308,7 +1295,7 @@ slides: [
     },
 
     {
-      image: "images/membership.png",
+      image: "images/Pyramid Club/membership.png",
       alt: "A Pyramid Club membership card.",
       title: "Pyramid Club Membership Card",
       caption: "",
@@ -1321,7 +1308,7 @@ slides: [
     },
 
     {
-      image: "images/drag-marathon.png",
+      image: "images/Pyramid Club/drag-marathon.png",
       alt: "Flyer advertising a Drag Queen Marathon at the Pyramid Club.",
       title: "Drag Queen Marathon Flyer",
       caption: "May 12, year unknown.",
@@ -1336,7 +1323,7 @@ slides: [
     },
 
     {
-      image: "images/open-closet.png",
+      image: "images/Pyramid Club/open-closet.png",
       alt: "Flyer advertising the Open Closet fashion show at the Pyramid Club.",
       title: "“Open Closet” Fashion Show Flyer",
       caption: "October 27, 1982.",
@@ -1348,7 +1335,7 @@ slides: [
     },
 
     {
-      image: "images/cha-cha.png",
+      image: "images/Pyramid Club/cha-cha.png",
       alt: "Flyer advertising Cha-Cha with Billy Vinci and Michael Blake.",
       title: "“Cha-Cha” with Billy Vinci and Michael Blake",
       caption: "August 14, 1983.",
@@ -1360,7 +1347,7 @@ slides: [
     },
 
     {
-      image: "images/thanks-for-nothing.png",
+      image: "images/Pyramid Club/thanks-for-nothing.png",
       alt: "Flyer advertising a To Wong Foo casting event titled Thanks for Nothing.",
       title: "To Wong Foo Casting — “Thanks for Nothing!”",
       caption: "July 10, 1994.",
@@ -1373,7 +1360,7 @@ slides: [
     },
 
     {
-      image: "images/jocasta.png",
+      image: "images/Pyramid Club/jocasta.png",
       alt: "Flyer for Jocasta and Tiresius: Now the Story Can Be Told.",
       title: "“Jocasta & Tiresius: Now the Story Can Be TOLD!”",
       caption: "",
