@@ -575,6 +575,27 @@ slides: [
     source: "Efrat Eizenberg, “Actually Existing Commons.”"
   },
   {
+  image: "images/grupo-cemi.png",
+  title: "Grupo Cemi performs, 1980",
+  imageAlt: "Grupo Cemi performs, 1980",
+  source: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee, p. 127.",
+  credit: "Photograph by Marlis Momber."
+},
+{
+  image: "images/la-plaza-charas-recycling.png",
+  title: "",
+  imageAlt: "",
+  source: "‘Quality of Life in Loisaida’ (1979).",
+  credit: "Photograph by Josie Rolon."
+},
+{
+  image: "images/LLC-north-wall.png",
+  title: "Murals on the northern wall of La Plaza Cultural, 1985",
+  imageAlt: "Murals on the northern wall of La Plaza Cultural, 1985",
+  source: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
+  credit: "Courtesy of Artmakers Inc."
+},
+  {
   id: "la-lucha-continua",
   title: "La Lucha Continua",
   coordinates: [40.7269, -73.9785],
