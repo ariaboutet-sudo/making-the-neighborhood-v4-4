@@ -251,7 +251,9 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
 
     caption: "A resident outside his shelter in Tompkins Square Park.",
 
-    credit: "Photograph by Clayton Patterson; published by VICE in 2015."
+    credit: "Photograph by Clayton Patterson; published by VICE in 2015.",
+    sourceLabel: "Vice",
+    sourceUrl: "https://www.vice.com/en/article/clayton-patterson-photographed-the-best-of-the-lower-east-side/",
 
   },
 
@@ -264,7 +266,9 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
 
     caption: "Nathaniel, known as the Mayor of Tompkins Square Park, beside the home he rebuilt after his tent and garden were destroyed.",
 
-    credit: "Photograph by Margaret Morton."
+    credit: "Photograph by Margaret Morton, courtesy of the Margaret Morton Archive.",
+    sourceLabel: "Margaret Morton Archive",
+    sourceUrl: "https://margaretmorton.org/mma-biography.html",
 
   },
    {title: "",
@@ -276,8 +280,11 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
   image: "images/Tent City Images/tent-city-nyt-protest-1988.jpg",
   alt: "Demonstration in Tompkins Square Park on August 6, 1988.",
   title: "Gentrification is Class War",
-  caption: "Demonstrators confront police during the Tompkins Square Park uprising.",
-  credit: "Photograph by Ángel Franco / The New York Times."
+  caption: "Demonstrators confront police during the Tompkins Square Park uprising in 1988.",
+  credit: "Photograph by Ángel Franco / The New York Times.",
+  sourceLabel: "https://www.nytimes.com/2016/09/01/fashion/christodora-house-east-village-book.html",
+    sourceUrl: "NY Times",
+  
 },
    {title: "",
   type: "quote",
@@ -288,69 +295,71 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
   image: "images/Tent City Images/dismantling-encampment.png",
   alt: "Police officers dismantling the Tompkins Square Park encampment.",
   title: "Dismantling the Encampment",
-  caption: "Police remove shelters as the encampment is cleared.",
-  credit: "Photograph by John Sotomayor / The New York Times."
+  caption: "Police remove shelters as a homeless encampment is cleared, 1991.",
+  credit: "Photograph by John Sotomayor / The New York Times.",
+  sourceLabel: "NY Times",
+  sourceUrl: "https://www.nytimes.com/2022/04/02/nyregion/homeless-camps-shelters.html",
 },
   {
     image: "images/Tent City Images/tent-city-homeless-structures-margaret-morton.jpg",
     alt: "Homeless structures in Tompkins Square Park.",
     title: "Homeless Structures",
     caption: "Homeless structures in Tompkins Square Park, 1989.",
-    credit: "Photograph by Margaret Morton."
+    credit: "Photograph by Margaret Morton, courtesy of the Margaret Morton Archive.",
+    sourceLabel: "Margaret Morton Archive",
+    sourceURL: "https://margaretmorton.org/mma-biography.html",
   },
    {
   image: "images/Tent City Images/tent-city-tobocman-p102.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 102.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 102.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p103.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 103.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the NeighborhoodSeth Tobocman, p. 103.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p104.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 104.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the NeighborhoodSeth Tobocman, p. 104.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p105.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 105.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 105.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p106.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 106.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 106.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p107.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 107.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 107.",
   credit: ""
 },
    {
   image: "images/Tent City Images/tent-city-tobocman-p108.png",
   alt: "Seth Tobocman, War in the Neighborhood, page 108.",
-  title: "",
+  title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 108.",
   credit: ""
 }
 
 ],
-
-  source: "Photograph by Clayton Patterson; published by VICE in 2015."
 
 },
   {
