@@ -716,10 +716,10 @@ color: #2f2b25;
 #overlay-quote-text {
   max-width: 760px;
   font-family: "Cormorant Garamond", Georgia, serif;
- font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-size: clamp(1.9rem, 3.6vw, 2.8rem);
   font-style: normal;
   font-weight: 400;
-  line-height: 1.28;
+  line-height: 1.25;
 }
 
 #overlay-quote-attribution {
