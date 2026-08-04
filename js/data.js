@@ -158,6 +158,7 @@ slides: [
     title: "",
     caption: "Christadora House, 1976. The Christadora was comdemned during this period due to water damage.",
     credit: "",
+    source: "https://evgrieve.com/2014/01/9-photos-showing-east-village-of-1970s.html",
   },
   {
     type: "quote",
@@ -203,16 +204,16 @@ slides: [
     alt: "",
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a condo in the christadora house.",
-    credit: ""
-source: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
+    credit: "",
+sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
    {
     image: "images/Christadora House/christadora-present-2.png",
     alt: "",
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a condo in the christadora house.",
-    credit: ""
-source: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
+    credit: "",
+sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
 
 ]
