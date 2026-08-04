@@ -200,7 +200,7 @@ slides: [
     sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
   },
   {
-    image: "images/Christadora House/christadora-present.png",
+    image: "images/Christadora House/christadora-present.jpeg",
     alt: "",
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
@@ -208,7 +208,7 @@ slides: [
 sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
    {
-    image: "images/Christadora House/christadora-present-2.png",
+    image: "images/Christadora House/christadora-present-2.jpeg",
     alt: "",
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
