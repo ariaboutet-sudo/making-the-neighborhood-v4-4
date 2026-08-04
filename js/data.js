@@ -902,13 +902,11 @@ slides: [
     {
   type: "quote",
   title: "",
-
-  excerpt: "Corrine Jennings came to New York from Rhode Island in the 1970s — armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
-
-  excerptSourceLabel: "amNewYork",
-  excerptSourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/",
-
+  quote: "Corrine Jennings came to New York from Rhode Island in the 1970s — armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
+  attribution: "amNY, January 5, 2010",
+  sourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
 },
+
 {
       image: "images/Kenkeleba/hoodoo-mandala.png",
       alt: "",
