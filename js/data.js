@@ -201,7 +201,7 @@ slides: [
     sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
   },
   {
-    image: "images/Christadora House/christadora-present.jpg",
+    image: "images/Christadora House/present!.jpg",
     alt: "",
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
