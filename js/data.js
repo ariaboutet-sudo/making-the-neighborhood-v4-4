@@ -482,19 +482,19 @@ slides: [
   sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c/5645"
 },
 {
-  image: "images/C Squat/basement.png",
-  alt: "The basement of C-Squat.",
-  title: "The Basement",
-  caption: "C-Squat's basement was largely closed to visitors in 2007 due to safety concerns.",
+  image: "images/C Squat/taunto-bilsted.png",
+  alt: "Tauno Bilsted inside C-Squat.",
+  title: "Tauno Bilsted",
+  caption: "Early squatter Tauno Bilsted recalls how part of the first floor collapsed, creating C-Squat's famously enlarged basement.",
   credit: "Photograph by Amy Starechesky.",
   sourceLabel: "SAPIENS",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
 {
-  image: "images/C Squat/taunto-bilsted.png",
-  alt: "Tauno Bilsted inside C-Squat.",
-  title: "Tauno Bilsted",
-  caption: "Early squatter Tauno Bilsted recalls how part of the first floor collapsed, creating C-Squat's famously enlarged basement.",
+  image: "images/C Squat/basement.png",
+  alt: "The basement of C-Squat.",
+  title: "The Basement",
+  caption: "C-Squat's basement was largely closed to visitors in 2007 due to safety concerns.",
   credit: "Photograph by Amy Starechesky.",
   sourceLabel: "SAPIENS",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
@@ -520,7 +520,7 @@ slides: [
 {
   image: "images/C Squat/morus-1.png",
   alt: "Storefront of the Museum of Reclaimed Urban Space.",
-  title: "MoRUS",
+  title: "Museum of Reclaimed Urban Space (MoRUS)",
   caption: "MoRUS storefront.",
   credit: "Photograph by Clayton Patterson.",
   sourceLabel: "CityRealty",
@@ -528,7 +528,7 @@ slides: [
 },
 {
   image: "images/C Squat/morus.png",
-  alt: "Museum of Reclaimed Urban Space inside the former C-Squat storefront.",
+  alt: "MoRUS inside the former C-Squat storefront.",
   title: "Museum of Reclaimed Urban Space",
   caption: "The Museum of Reclaimed Urban Space (MoRUS) opened in C-Squat's storefront in 2012.",
   credit: "Photograph by Amy Starechesky.",
