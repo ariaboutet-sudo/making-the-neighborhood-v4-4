@@ -63,9 +63,9 @@ const MAP_SITES = [
     coordinates: [40.72934, -73.97987],
     themes: ["housing", "place", "mutualAid"],
     period: "Squatter community, 1980s–1990s",
-    description: "A cluster of abandoned buildings occupied, repaired, and made into homes through collective labor. The East 13th Street squats became a major site of neighborhood organizing, collective defense, and conflict over who had the right to determine the use of urban housing.",
+    description: "The East 13th Street squats were a cluster of city-owned tenements that residents occupied and rebuilt after years of abandonment. Through collective labor, squatters restored apartments, created homes and community spaces, and argued that their long-term residence and rehabilitation of the buildings gave them a legitimate claim to remain. By the mid-1990s, however, the city planned to clear the buildings for a federally subsidized low-income housing project. The residents organized the East 13th Street Homesteaders’ Coalition, pursued an adverse-possession claim, and initially secured court protection against eviction. City inspectors subsequently declared several buildings dangerously unstable and issued emergency vacate orders—findings the squatters disputed, viewing them as a way to circumvent the unresolved property case. On May 30, 1995, hundreds of police officers in riot gear, accompanied by an armored vehicle, removed residents from 541 and 545 East 13th Street and arrested dozens of squatters and supporters. The highly militarized eviction made the block a defining symbol of the conflict between resident-created housing and the city’s authority to determine how abandoned property would be used.",
     quote: "",
-    source: "Amy Starecheski; Seth Tobocman, War in the Neighborhood. Images to be added.",
+    source: "East 13th St. Homesteader's Coalition; Axel-Lute; Starecheski; Tobocman.",
 
   slides: [
   {
