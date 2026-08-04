@@ -71,8 +71,8 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/neighborhood-defense.png",
     alt: "Residents gather outside the East 13th Street squats during the 1995 eviction.",
-    title: "",
-    caption: "The neighborhood attempts to defend the East 13th Street squats from eviction, 1995. The night before the planned eviction, residents created makeshift barricades using furniture, trash cans, appliances, and an overturned car. ",
+    title: "The neighborhood attempts to defend the East 13th Street squats from eviction",
+    caption: "The night before the planned eviction, May 30, 1995, residents created makeshift barricades using furniture, trash cans, appliances, and an overturned car. ",
     credit: "Photograph by Clayton Patterson.",
     sourceLabel: "amNY",
     sourceUrl: "https://www.amny.com/news/defending-their-homes-on-e-13th-st-homeless-on-a/"
@@ -80,8 +80,8 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/squatters-standoff.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction (1995).",
-    title: "",
-    caption: "Squatters block the entrance to s building as NYPD uses a militarized surplus tank to clear barricades erected by residents in self defense (1995).",
+    title: "Confrontation",
+    caption: "Squatters block the entrance to a building as NYPD uses a militarized surplus tank to clear barricades erected by residents in self defense (1995).",
     credit: "Photograph by John Penley, via the Tamiment Library, New York University.",
     sourceLabel: "Curbed",
     sourceUrl: "https://www.curbed.com/2023/01/east-village-squatters-standoff-1995.html"
@@ -89,7 +89,7 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/squatters-standoff-2.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction (1995).",
-    title: "",
+    title: "Confrontation",
     caption: "Squatters stand off against the NYPD during the eviction of the East 13th Street squats (1995).",
     credit: "Photograph by John Penley, via the Tamiment Library, New York University.",
     sourceLabel: "Curbed",
@@ -133,7 +133,7 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/18-since-13.png",
     alt: "Flyer commemorating the East 13th Street squat eviction.",
-    title: "",
+    title: "Commemoration",
     caption: "Flyer for a commemoration of the eviction of the East 13th Street squats held at C-Squat / MoRUS.",
     credit: "",
     sourceLabel: "EV Grieve",
