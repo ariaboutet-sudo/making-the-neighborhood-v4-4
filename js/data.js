@@ -133,9 +133,9 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/18-since-13.png",
     alt: "Flyer commemorating the East 13th Street squat eviction.",
-    title: "18 Since 13",
-    caption: "Flyer for a commemoration of the eviction of the East 13th Street squats held at the Museum of Reclaimed Urban Space (C-Squat).",
-    credit: "Courtesy of EV Grieve.",
+    title: "",
+    caption: "Flyer for a commemoration of the eviction of the East 13th Street squats held at the Museum of Reclaimed Urban Space (at C-Squat).",
+    credit: "",
     sourceLabel: "EV Grieve",
     sourceUrl: "https://evgrieve.com/2013/05/commemorating-east-13th-street-squat.html"
    }
@@ -901,16 +901,12 @@ slides: [
     },
     {
   type: "quote",
-  title: "Corrine Jennings",
+  title: "",
 
   excerpt: "Corrine Jennings came to New York from Rhode Island in the 1970s — armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
 
   excerptSourceLabel: "amNewYork",
   excerptSourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/",
-
-  quote: "We are <em>the only</em> downtown gallery that focuses on black artists’ work.",
-
-  attribution: "— Corrine Jennings, in 'Black Enterprise', 1985",
 
 },
 
