@@ -153,13 +153,6 @@ const MAP_SITES = [
 source: "Seth Tobocman, War in the Neighborhood; Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier.",
 slides: [
   {
-    image: "images/Christadora House/christadora-house-1.png",
-    alt: "Historical image of Christodora House in the East Village.",
-    title: "Christodora House, MA Tricca, 1934",
-    caption: "",
-    credit: ""
-  },
-  {
     image: "images/Christadora House/christadora-house-2.png",
     alt: "Historical image of Christodora House in the East Village.",
     title: "",
