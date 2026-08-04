@@ -486,6 +486,13 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
   sourceLabel: "CityRealty",
   sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c"
 },
+{title: "",
+  type: "quote",
+  quote: "This place is an ongoing experiment, an informal urban commune. It’s easier to pay rent and not have to know or depend on the person who lives next to you. For whatever reason, the city made a mistake. We slipped through the cracks in this place that abhors what we are. Being here, in a mundane and tiny way, is committing treason.",
+  attribution: "— Popeye, 33-C-Squat Resident, in City Limits, September 1, 2002",
+sourceLabel: "City Limits",
+sourceUrl: "https://citylimits.org/squatters-rites/"
+},
 {
   image: "images/C Squat/c-squat.png",
   alt: "Exterior view of C-Squat during the 1980s.",
