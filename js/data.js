@@ -398,7 +398,7 @@ slides: [
   {
     type: "quote",
     title: "From Squatters to Property Owners",
-    quote: “I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
+    quote: "I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
     attribution: "Hafid Lalaoui, a former residents expressing ambivalence about squatters becoming property owners.",
     caption: "",
     sourceLabel: "City Limits, “Squatters’ Rites”",
@@ -407,7 +407,7 @@ slides: [
   {
     type: "quote",
     title: "From Squatters to Property Owners",
-    quote: "“I would rather continue the way we we’re going–if we could be left alone. But the stakes have changed. We know that if we don’t take the deal it would be a matter of time before the city came after us.",
+    quote: "I would rather continue the way we we’re going–if we could be left alone. But the stakes have changed. We know that if we don’t take the deal it would be a matter of time before the city came after us.",
     attribution: "-Siobhan Meow, Resident",
     caption: "",
     sourceLabel: "City Limits, “Squatters’ Rites”",
@@ -454,7 +454,6 @@ slides: [
 },
 {
   id: "csquat",
-    id: "csquat",
     title: "C-Squat / MoRUS [Museum of Reclaimed Urban Space",
     address: "155 Avenue C",
     coordinates: [40.72583, -73.97753],
