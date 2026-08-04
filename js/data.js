@@ -909,6 +909,15 @@ slides: [
   excerptSourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/",
 
 },
+{
+      image: "images/Kenkeleba House/hoodoo-mandala.png",
+      alt: "",
+      title:
+        "",
+      caption: "",
+      credit: "",
+      sourceUrl: "https://www.artforum.com/news/joe-overstreet-1933-2019-243676/",
+    },
 
     {
       image: "images/Kenkeleba/magnitude.png",
