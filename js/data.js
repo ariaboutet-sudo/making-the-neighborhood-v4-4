@@ -89,8 +89,8 @@ const MAP_SITES = [
   {
     image: "images/E 13th St Squats/squatters-standoff-2.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction (1995).",
-    title: "Confrontation",
-    caption: "Squatters stand off against the NYPD during the eviction of the East 13th Street squats (1995).",
+    title: "Home Sweet Home",
+    caption: "Squatters attempt to defend their homes against eviction, (1995).",
     credit: "Photograph by John Penley, via the Tamiment Library, New York University.",
     sourceLabel: "Curbed",
     sourceUrl: "https://www.curbed.com/2023/01/east-village-squatters-standoff-1995.html"
