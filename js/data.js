@@ -203,7 +203,7 @@ slides: [
     image: "images/Christadora House/christadora-present.png",
     alt: "",
     title: "Christadora House in the Present",
-    caption: "A present day zillow listing for a condo in the christadora house.",
+    caption: "A present day zillow listing for a luxury condo in the christadora house.",
     credit: "",
 sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
@@ -211,7 +211,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     image: "images/Christadora House/christadora-present-2.png",
     alt: "",
     title: "Christadora House in the Present",
-    caption: "A present day zillow listing for a condo in the christadora house.",
+    caption: "A present day zillow listing for a luxury condo in the christadora house.",
     credit: "",
 sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
