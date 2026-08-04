@@ -408,7 +408,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
   {
     type: "quote",
-    title: "rom Squatters to Property Owners",
+    title: "From Squatters to Property Owners",
     quote: "I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
     attribution: "Hafid Lalaoui, a former resident expressing ambivalence about squatters becoming property owners.",
     caption: "",
@@ -470,7 +470,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     coordinates: [40.72583, -73.97753],
     themes: ["housing", "culture", "mutualAid", "place"],
     period: "Squat founded 1989",
-    description: "C-Squat shows housing as more than shelter: it became a site of collective life, decision-making, culture, and neighborhood memory. Its later legalization and the loss of its community room also reveal the costs and compromises involved in becoming a formal cooperative.",
+    description: "Occupied in 1989 after years of abandonment, C-Squat emerged as one of the Lower East Side’s best-known squats and a center of the neighborhood’s intertwined worlds of housing activism, punk culture, and collective self-governance. Residents rebuilt the fire-damaged building themselves, replacing structural beams, repairing apartments, and operating through collective decision-making while also opening the space to artists, musicians, political organizers, and travelers. Like other Lower East Side squats, C-Squat challenged the assumption that abandoned buildings should remain vacant until profitable redevelopment became possible, instead asserting that residents could collectively reclaim, rehabilitate, and steward urban space. After years of organizing and negotiations, C-Squat became a limited-equity cooperative in 2002, preserving affordable housing while also raising difficult questions about legalization, ownership, and the transformation of radical commons into formal property. In 2012, the building’s storefront became home to the Museum of Reclaimed Urban Space (MoRUS), founded by neighborhood activists as a living archive dedicated to preserving the histories of squatting, community gardens, mutual aid, direct action, and grassroots urban activism. Together, C-Squat and MoRUS demonstrate how spaces created through collective struggle can continue to function as sites of memory, political education, and neighborhood organizing.",
     quote: "",
     source: "Amy Starecheski, What Was Squatting, and What Comes Next?",
 
