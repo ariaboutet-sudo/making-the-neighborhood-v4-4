@@ -295,6 +295,7 @@ function renderCurrentSlide() {
   if (!slide) return;
 
   const image = document.getElementById("overlay-image");
+  image.classList.remove("zoomed");
   const quotePanel = document.getElementById("overlay-quote");
   const quoteText = document.getElementById("overlay-quote-text");
   const quoteAttribution = document.getElementById("overlay-quote-attribution");
@@ -368,6 +369,11 @@ function renderCurrentSlide() {
   document.getElementById("previous-slide").hidden = !multiple;
   document.getElementById("next-slide").hidden = !multiple;
 }
+const overlayImage = document.getElementById("overlay-image");
+
+overlayImage.addEventListener("click", () => {
+  overlayImage.classList.toggle("zoomed");
+});
 
 function changeSlide(direction) {
   if (currentSlides.length < 2) return;
