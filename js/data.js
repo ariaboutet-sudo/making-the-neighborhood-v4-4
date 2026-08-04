@@ -398,8 +398,8 @@ slides: [
   {
     type: "quote",
     title: "From Squatters to Property Owners",
-    quote: “"I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.”\n\n— Hafid Lalaoui, a former residents expressing ambivalence about squatters becoming property owners.",
-    attribution: "",
+    quote: “I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
+    attribution: "Hafid Lalaoui, a former residents expressing ambivalence about squatters becoming property owners.",
     caption: "",
     sourceLabel: "City Limits, “Squatters’ Rites”",
     sourceUrl: "https://citylimits.org/squatters-rites/"
