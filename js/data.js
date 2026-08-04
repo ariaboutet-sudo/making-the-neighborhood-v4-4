@@ -397,7 +397,7 @@ slides: [
   },
   {
     type: "quote",
-    title: "",
+    title: "rom Squatters to Property Owners",
     quote: "I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
     attribution: "Hafid Lalaoui, a former resident expressing ambivalence about squatters becoming property owners.",
     caption: "",
