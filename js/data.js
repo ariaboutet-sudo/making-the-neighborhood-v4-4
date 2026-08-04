@@ -910,7 +910,7 @@ slides: [
 
 },
 {
-      image: "images/Kenkeleba House/hoodoo-mandala.png",
+      image: "images/Kenkeleba/hoodoo-mandala.png",
       alt: "",
       title:
         "",
