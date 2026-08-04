@@ -158,6 +158,7 @@ slides: [
     title: "",
     caption: "Christadora House, 1976. The Christadora was comdemned during this period due to water damage.",
     credit: "",
+    sourceLabel: "EV Grieve, Jan. 2014, '9 photos showing the East Village of the 1970s'",
     sourceUrl: "https://evgrieve.com/2014/01/9-photos-showing-east-village-of-1970s.html",
   },
   {
