@@ -197,7 +197,24 @@ slides: [
     attribution: "— Michael Rosen, who moved into Christodora House shortly after the 1988 riot",
     sourceLabel: "The New York Times, August 3, 2008",
     sourceUrl: "https://www.nytimes.com/2008/08/03/nyregion/thecity/04disp.html"
-  }
+  },
+  {
+    image: "images/Christadora House/christadora-present.png",
+    alt: "",
+    title: "Christadora House in the Present",
+    caption: "A present day zillow listing for a condo in the christadora house.",
+    credit: ""
+source: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
+  },
+   {
+    image: "images/Christadora House/christadora-present-2.png",
+    alt: "",
+    title: "Christadora House in the Present",
+    caption: "A present day zillow listing for a condo in the christadora house.",
+    credit: ""
+source: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
+  },
+
 ]
 },
 
