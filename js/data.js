@@ -232,7 +232,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   source: "GOLES; Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
   slides: [
     {
-      image: "images/GOLES/GOLES-1.jpg",
+      image: "images/GOLES/GOLES-1.png",
       alt: "",
       title: "GOLES Office on Avenue B",
       caption: "",
@@ -241,7 +241,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://collectiveforcce.com/project/goles-office-renovation/"
     },
     {
-      image: "images/GOLES/GOLES-2.jpg",
+      image: "images/GOLES/GOLES-2.png",
       alt: "",
       title: "GOLES' Mission",
       caption: "",
@@ -250,7 +250,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://villagepreservation.org/2017/05/31/2017-village-awardee-goles/"
     },
     {
-      image: "images/GOLES/GOLES-3.jpg",
+      image: "images/GOLES/GOLES-3.png",
       alt: "",
       title: "Stand Up to Landlords!",
       caption: "",
@@ -259,7 +259,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://www.goles.org/gallery"
     },
     {
-      image: "images/GOLES/GOLES-4.jpg",
+      image: "images/GOLES/GOLES-4.png",
       alt: "",
       title: "We Resist Fossil Fuels",
       caption: "The Smith Houses are a NYCHA public-housing complex on the Lower East Side. GOLES and tenant organizers from the development have often collaborated; here, organizers call for climate resiliency.",
@@ -268,7 +268,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://www.goles.org/gallery"
     },
     {
-      image: "images/GOLES/GOLES-5.jpg",
+      image: "images/GOLES/GOLES-5.png",
       alt: "",
       title: "GOLES Organizing",
       caption: "",
@@ -277,7 +277,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://www.goles.org/gallery"
     },
     {
-      image: "images/GOLES/GOLES-6.jpg",
+      image: "images/GOLES/GOLES-6.png",
       alt: "",
       title: "Mural Honoring Gil Scott-Heron at GOLES' Offices",
       caption: "",
