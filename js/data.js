@@ -763,48 +763,48 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     period: "Community center, 1979–2001",
     description: "CHARAS was a Puerto Rican–led neighborhood organization founded in 1965 by Chino Garcia, Humberto Crespo, Angelo González Jr., Roy Batiste, Anthony Figueroa, and Sal Becker (whose first names gave the organization its name). Responding to disinvestment and abandonment, CHARAS built an ecosystem of community-controlled institutions across the Lower East Side. The organization played a central role in the emerging homesteading movement by mobilizing residents, organizing collective rehabilitation projects, and building the neighborhood networks that made sweat-equity housing possible, while collaborating with technical and legal partners to return abandoned buildings to safe, resident-controlled use. Its work also included youth and arts programs, recycling initiatives, experiments with geodesic domes as a potential affordable housing model, and community gardens including La Plaza Cultural. Many of the same organizers later founded Loisaida, Inc., a community development organization that grew out of CHARAS’s work. In 1979, CHARAS transformed the abandoned P.S. 64 building into El Bohío, a community and cultural center that became its headquarters and one of the neighborhood’s most important spaces for arts, education, organizing, and mutual aid until its closure in 2001. CHARAS was thus involved in many specific locations throughout the neighborhood, El Bohío represents only one (albeit extremely significant) site.",
     quote: "",
-    source: "Nandini Bagchee, Counter Institution.", 
+    source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.", 
   slides: [
   {
     image: "images/CHARAS/charas.png",
     alt: "Founders of CHARAS gathered together.",
     title: "CHARAS Founders",
     caption: "",
-    credit: "Photograph by Nandini Bagchee. Published in Counter Institution: Activist Estates of the Lower East Side."
+    credit: "Illustration by Nandini Bagchee. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
     image: "images/CHARAS/charas-offices.png",
     alt: "Office space inside CHARAS / El Bohío.",
     title: "CHARAS Offices",
-    caption: "",
-    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+    caption: "Cynthia, Chino Garcia, and Slima at CHARAS' office, blueprints for a building renovation are see on the desk.",
+    credit: "Photgraph by Marlis Momber. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
     image: "images/CHARAS/charas-offices-2.png",
     alt: "Another view of the offices inside CHARAS / El Bohío.",
     title: "CHARAS Offices",
-    caption: "",
-    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+    caption: "Emily Rubin & Doris Kirshner at CHARAS' office, blueprints for a building renovation are seen on the desk.",
+    credit: "Photograph by Marlis Momber. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
     image: "images/CHARAS/charas-recycling.png",
     alt: "Materials and activity associated with CHARAS recycling work.",
     title: "CHARAS Recycling",
-    caption: "",
+    caption: "CHARAS organized a community recycling program that transformed discarded materials into neighborhood resources while creating jobs and supporting local organizing. More than a sanitation project, recycling became part of CHARAS’s broader effort to build community-controlled institutions grounded in environmental stewardship, collective labor, and neighborhood self-determination.",
     credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
     image: "images/CHARAS/la-plaza-charas-recycling.png",
     alt: "CHARAS recycling activity associated with La Plaza Cultural.",
     title: "CHARAS and La Plaza Cultural",
-    caption: "",
-    credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
-  },
+    caption: "La Plaza Cultural in the foreground, with CHARAS Recycling to the left.",
+    credit: "Photograph by Josie Rolon. Published in 'Quality of Life in the Lower East Side' (1979).",
+     },
   {
     image: "images/CHARAS/lobby-mural.png",
     alt: "Mural in the lobby of CHARAS / El Bohío.",
     title: "Lobby Mural",
-    caption: "",
+    caption: "Artist Anton van Dalen in front of his mural in the lobel of El Bohío",
     credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
@@ -812,7 +812,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     alt: "Artwork or campaign material calling for the preservation of El Bohío.",
     title: "Save El Bohío",
     caption: "",
-    credit: "Created by Nandini Bagchee. Published in Counter Institution: Activist Estates of the Lower East Side."
+    credit: "Created by Nandini Bagchee. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
     }
 ]
 },
