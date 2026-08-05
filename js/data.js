@@ -722,11 +722,10 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       credit: "Photographer unknown.",
       sourceLabel: "Bimbo Rivas at La Plaza Cultural",
       sourceUrl: "https://www.youtube.com/watch?v=amHi_mfq1CQ",
-    }
+       }
   ]
-    }
-  ]
-  {
+},
+{
   id: "la-lucha-continua",
   title: "La Lucha Continua",
   coordinates: [40.7269, -73.9785],
@@ -1360,7 +1359,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   description: "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
   quote: "",
   source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives",
-}, 
 
   slides: [
     {
