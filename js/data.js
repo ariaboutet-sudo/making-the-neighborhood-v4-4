@@ -234,8 +234,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     {
       image: "images/GOLES/GOLES-1.png",
       alt: "",
-      title: "GOLES Office on Avenue B",
-      caption: "",
+      title: "GOLES Office on Avenue B, with traffic signage proclaiming solidarity with the Black Lives Matter Movement.",
       credit: "",
       sourceLabel: "Collective for Community, Culture, & Environment",
       sourceUrl: "https://collectiveforcce.com/project/goles-office-renovation/"
@@ -811,7 +810,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     image: "images/CHARAS/save-el-bohio.png",
     alt: "Artwork or campaign material calling for the preservation of El Bohío.",
     title: "Save El Bohío",
-    caption: "",
+    caption: "Flag above the building reads 'the community center belongs to the people of the lower east side'. El Bohío became the victim of the neighborhood's genrtification boom when the Giuliani administration sold the former P.S. 64 to developer Gregg Singer in 1998. Following years of legal battles and neighborhood protests, CHARAS was evicted in December 2001. Although the building carried a deed restriction requiring community use and was later designated a New York City landmark, it has remained largely vacant ever since, while redevelopment plans repeatedly stall and community organizations continue to campaign for its return to public use.",
     credit: "Created by Nandini Bagchee. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
     }
 ]
