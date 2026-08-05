@@ -1164,169 +1164,136 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceLabel: "NYC LGBTQ Historic Sites Project"
     },
     {
-      image: "images/Lesbian Avengers/ann.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
-    },
-    {
       image: "images/Lesbian Avengers/anon-avengers.png",
       alt: "",
-      title: "",
+      title: "Lesbian Avengers at the White House 1993",
       caption: "",
-      credit: "",
+      credit: "Caroline Croon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/anon-avengers-2.png",
       alt: "",
-      title: "",
+      title: "Janet & Gail at the Dyke March in DC, 1993",
       caption: "",
-      credit: "",
+      credit: "Photo by Caroline Kroon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/anon-avengers-3.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
+      title: "Valentine's Day Action, 1993",
+      caption: "The Lesbian Avengers installed a statue of Alice B. Toklas next to Gertrude Stein in Bryant Park. The celebration included a reading & a lesbian waltz.",
+      credit: "Photo by Carolina Kroon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/anon-avengers-4.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
+      title: "Vigil, 1992",
+      caption: "The avengers held a 24 hour vigil for Hattie Mae Cohens and Brian Mock, murdered in their home by a white supremacist firebomber.",
+      credit: "Photo by Carolina Kroon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/anon-avengers-5.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
+      title: "'Yup, We Recruit'",
+      caption: "Unknown lesbian avengers kissing, 1992 or 1993",
+      credit: "Photo by Carolina Kroon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
-    },
-    {
-      image: "images/Lesbian Avengers/burning-butch.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
-    },
-    {
-      image: "images/Lesbian Avengers/exiles.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/fire-eaters.png",
       alt: "",
-      title: "",
-      caption: "",
+      title: "'The fire will not consume us. We take it & make it our own'",
+      caption: "Fire-eating became a common symbolic action during Lesbian Avengers public actions after the murders of Hattie Mae Cohens and Brian Mock by firebomb. In defiance of the violence threatening LGBTQ lives, they changed 'the fire will not consume us. We take it & make it our own.",
       credit: "",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://villagepreservation.org/2014/11/12/eating-fire-a-brief-history-of-the-lesbian-avengers-in-nyc/",
+      sourceLabel: "Village Preservation"
+    },
+    {
+      image: "images/Lesbian Avengers/burning-butch.png",
+      alt: "",
+      title: "Burning Butch, 1995.",
+      caption: "The spectacle of fire eating created much publicity for the group",
+      credit: "",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
+    },
+    {
+      image: "images/Lesbian Avengers/exiles.png",
+      alt: "",
+      title: "Exiles, 1982.",
+      caption: "Ana María Simo, one of the founders of the Lesbian Avengers, also co-founded a lesbian experimental, multimedia performance ensemble and eventual physical space called 'Medusa's Revenge",
+      credit: "Flyer courtesy of the Lesbian Herstory Archives",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.nyclgbtsites.org/site/ana-maria-simo-kelly-cogswell-residence/",
+      sourceLabel: "NYC LGBTQ Historic Sites Project"
     },
     {
       image: "images/Lesbian Avengers/lesbian-avenger-handbook.png",
       alt: "",
-      title: "",
-      caption: "",
+      title: "Lesbian Avengers Handbook",
+      caption: "The Lesbian Avengers grew from 6 co-founders to over 60 chapters nationally in about 4 years. Strategic use of media & spectacle, as well as encouraging others to form chapters, helps account for some of this meteoric growth.",
       credit: "",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/handbooks/Lesbian_Avenger_handbook3.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/lust.png",
       alt: "",
-      title: "",
+      title: "Flyer for First Annual Dyke Pride March, 1993.",
       caption: "",
       credit: "",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
-    },
-    {
-      image: "images/Lesbian Avengers/maxine.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
-    },
-    {
-      image: "images/Lesbian Avengers/pickaxe.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/rights-now.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
+      title: "Lesbian Righs Now",
+      caption: "Dyke marcher, 1994 or 1995.",
+      credit: "Photo by Carolina Kroon",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.lesbianavengers.com/images/photos2.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/we-recruit.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      title: "We Recruit",
+      caption: "Flyer for a Lesbian Avengers fundraiser featuring Pam Grier",
+      credit: "Created by Carrie Moyer",
+      quote: "'Putting Pam Grier on a poster provoked a discussion about what kind of person it would bring to the group. I think we hoped it would attract women of color. It had a retro-flavor (Blaxplotation, etc). Everybody loves the 70s. Very (lesbian) campy. The sexy woman with a gun. Now I have a more analytical view of it -- this image did a good job of attracting young white women.'",
+      quoteCredit: "- Carrie Moyer",
+      sourceUrl: "https://www.lesbianavengers.com/images/moyer_design.shtml",
+      sourceLabel: "Lesbian Avengers"
     }
   ]
 },
