@@ -218,6 +218,17 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
 sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/"
   },
+  {
+  id: "goles",
+  title: "GOLES (Good Old Lower East Side)",
+  address: "169 Avenue B",
+  coordinates: [40.72727, -73.97941],
+  themes: ["housing", "mutualAid", "place"],
+  period: "Founded 1977",
+  description: "Founded amid the arson, abandonment, and disinvestment of the late 1970s, GOLES (Good Old Lower East Side) organized tenants building-by-building to defend affordable housing and preserve the neighborhood's diverse communities. Over nearly five decades, the organization has combined direct services, tenant organizing, political education, and coalition-building to fight displacement, expand low-income housing, and strengthen community self-determination. GOLES represents an ongoing tradition of grassroots neighborhood organizing that connects the struggles over abandonment and homesteading in the 1970s and 1980s to contemporary fights against gentrification, eviction, and environmental injustice.",
+  quote: "",
+  source: "GOLES; Nandini Bagchee, Counter Institution."
+},
 
 ]
 },
