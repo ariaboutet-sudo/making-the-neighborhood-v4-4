@@ -150,7 +150,7 @@ const MAP_SITES = [
   period: "Settlement house (1897) → luxury condominiums (1986)",
   description: "Built in 1897 as a settlement house serving immigrant and working-class residents, Christodora House later fell into decline and stood largely vacant. Its conversion into luxury condominiums in 1986 became one of the Lower East Side's earliest and most visible symbols of gentrification. During the Tompkins Square Park struggles, the building emerged as a focal point for neighborhood anger over displacement and the transformation of housing from a social good into a luxury commodity.",
   quote: "",
-source: "Seth Tobocman, War in the Neighborhood; Christopher Mele, Selling the Lower East Side; Neil Smith, The New Urban Frontier.",
+source: "Mele; Smith; Tobocman; The New Urban Frontier.",
 slides: [
   {
     image: "images/Christadora House/christadora-house-2.png",
@@ -302,6 +302,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 
   description: "As unhoused New Yorkers were displaced from other public spaces by policing and curfews, Tompkins Square Park became one of the city’s largest encampments and a center of homeless self-organization. Residents established mutual-aid networks, organized protests, negotiated directly with the Dinkins' administration, and built alliances with neighborhood squatters, activists, and community organizations. In 1990, Tent City residents marched from New York to Washington, D.C. to demand housing, dignity, and an end to policies that criminalized homelessness. Rather than simply a site of deprivation, Tent City became a militant experiment in collective survival that challenged dominant assumptions about who had the right to occupy urban space. Its eventual destruction in 1991 became a defining moment in the city’s broader struggle over homelessness, public space, and gentrification.",
   quote: "",
+  source: "Bellafante; Eisenberg; New York Times, 1991; Tobocman.",
 
  slides: [
 
@@ -548,7 +549,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     period: "Squat founded 1989",
     description: "Occupied in 1989 after years of abandonment, C-Squat emerged as one of the Lower East Side’s best-known squats and a center of the neighborhood’s intertwined worlds of housing activism, punk culture, and collective self-governance. Residents rebuilt the fire-damaged building themselves, replacing structural beams, repairing apartments, and operating through collective decision-making while also opening the space to artists, musicians, political organizers, and travelers. Like other Lower East Side squats, C-Squat challenged the assumption that abandoned buildings should remain vacant until profitable redevelopment became possible, instead asserting that residents could collectively reclaim, rehabilitate, and steward urban space. After years of organizing and negotiations, C-Squat became a limited-equity cooperative in 2002, preserving affordable housing while also raising difficult questions about legalization, ownership, and the transformation of radical commons into formal property. In 2012, the building’s storefront became home to the Museum of Reclaimed Urban Space (MoRUS), founded by neighborhood activists as a living archive dedicated to preserving the histories of squatting, community gardens, mutual aid, direct action, and grassroots urban activism. While MoRUS is in line with C-Squat's values, it's inhabitation of the former 'livingroom' was a pragmatic (and contentious) decision - MoRUS' rent helped to offset housing costs after C-Squat was legalized.",
     quote: "",
-    source: "Neuwirt; Starecheski ['What Was Squatting, and What Comes Next?', 'The Transformation of one of New York City's Most Famous Squats]; ",
+    source: "Neuwirt; Starecheski ['What Was Squatting, and What Comes Next?', 'The Transformation of one of New York City's Most Famous Squats].",
 
   slides: [
   {image: "images/C Squat/not-for-sale.png",
