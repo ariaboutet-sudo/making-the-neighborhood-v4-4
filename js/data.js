@@ -666,7 +666,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Community garden founded in the 1970s",
   description: "Created by neighborhood residents on a series of abandoned, rubble-filled lots, La Plaza Cultural transformed the physical landscape of Loisaida through collective labor, ecological restoration, and cultural production. Organized by CHARAS alongside neighborhood gardeners, artists, and activists, the space evolved into a community garden, outdoor performance venue, gathering place, and site of political expression. Residents reclaimed discarded materials, planted trees and food crops, built public amenities, hosted performances, and covered the surrounding walls with murals that celebrated Puerto Rican identity, anti-colonial struggle, and neighborhood resistance. Like many community-created spaces on the Lower East Side, it later became the focus of prolonged struggles against redevelopment before ultimately being permanently preserved.",
   quote: "",
-  source: "Eizenberg.",
+  source: "Eizenberg; Nandini Bagchee, Counter Institutions: Activist Estates of the Lower East Side.",
 
   slides: [
     {
@@ -1149,7 +1149,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   description:
     "The first meeting of the Lesbian Avengers took place in Ana María Simó's apartment. From this ordinary residential space, organizers developed one of the most influential direct-action lesbian organizations of the 1990s, demonstrating how political movements often emerge from domestic space as much as public institutions.",
   quote: "",
-  source: "Images and quotations to be added.",
+  source: "Lesbian Avengers; NYC LGBTQ Historic Sites Project.",
 
   slides: [
     {
