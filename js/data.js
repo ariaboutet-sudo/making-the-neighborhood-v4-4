@@ -155,10 +155,10 @@ slides: [
   {
     image: "images/Christadora House/christadora-house-2.png",
     alt: "Historical image of Christodora House in the East Village.",
-    title: "",
-    caption: "Christadora House, 1976. The Christadora was comdemned during this period due to water damage.",
-    credit: "",
-    sourceLabel: "EV Grieve, Jan. 2014, '9 photos showing the East Village of the 1970s'",
+    title: "Christadora House, 1976.",
+    caption: "The Christadora was condemned during this period due to water damage.",
+    credit: "Photographer unknown.",
+    sourceLabel: "EV Grieve, January 31, 2014.",
     sourceUrl: "https://evgrieve.com/2014/01/9-photos-showing-east-village-of-1970s.html",
   },
   {
@@ -179,9 +179,9 @@ slides: [
   },
   {
     image: "images/Christadora House/christadora.png",
-    alt: "Seth Tobocman comic panels depicting the Memorial Day riot and anger directed toward a luxury condominium near Tompkins Square Park.",
+    alt: "Seth Tobocman comic panels depicting the Memorial Day riot and anger at a luxury condominium near Tompkins Square Park.",
     title: "Memorial Day Riot",
-    caption: "Seth Tobocman illustrates the Memorial Day riot. The “luxury condo” referenced may be Christodora House, located directly across from Tompkins Square Park.",
+    caption: "Seth Tobocman illustrates the Memorial Day riot of 1991, sparked by police brutality and plans to demolish the Tompkin's Square Park bandshell. The “luxury condo” referenced may be Christodora House, located directly across from Tompkins Square Park.",
     credit: "Seth Tobocman, War in the Neighborhood, p. 111."
   },
   {
@@ -206,7 +206,7 @@ slides: [
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
     credit: "",
-sourceLabel: "zillow.com, revitrieved Aug. 3, 2026",
+sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
 sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
    {
@@ -215,7 +215,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     title: "Christadora House in the Present",
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
     credit: "",
-sourceLabel: "zillow.com, revitrieved Aug. 3, 2026",
+sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
 sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/"
   },
 
