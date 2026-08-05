@@ -696,6 +696,51 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
       sourceUrl: ""
     },
+    {
+    image: "images/La-Lucha-Continua/LLC-1.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+    {
+    image: "images/La-Lucha-Continua/LLC-2.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/La-Lucha-Continua/LLC-3.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+   {
+    image: "images/La-Lucha-Continua/LLC-4.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
+  {
+    image: "images/La-Lucha-Continua/LLC-5.png",
+    alt: "La Lucha Continua mural.",
+    title: "La Lucha Continua",
+    caption: "",
+    credit: "",
+    sourceUrl: "",
+    sourceLabel: ""
+  },
   {
       image: "images/La Plaza Cultural/dedication.png",
       title: "'La Lucha Continua Dedication',",
@@ -724,61 +769,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceUrl: "https://www.youtube.com/watch?v=amHi_mfq1CQ",
        }
   ]
-},
-{
-  id: "la-lucha-continua",
-  title: "La Lucha Continua",
-  coordinates: [40.7269, -73.9785],
-  themes: ["culture", "place"],
-  excerpt:
-    "A series of community murals covering the walls surrounding La Plaza Cultural, expressing neighborhood memory, Puerto Rican and Latin American liberation struggles, and resistance to displacement.",
- slides: [
-  {
-    image: "images/La-Lucha-Continua/LLC-1.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
-    caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
-  },
-  {
-    image: "images/La-Lucha-Continua/LLC-2.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
-    caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
-  },
-  {
-    image: "images/La-Lucha-Continua/LLC-3.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
-    caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
-  },
-  {
-    image: "images/La-Lucha-Continua/LLC-4.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
-    caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
-  },
-  {
-    image: "images/La-Lucha-Continua/LLC-5.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
-    caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
-  }
-]
 },
   {
     id: "charas",
