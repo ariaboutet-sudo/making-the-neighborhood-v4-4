@@ -300,8 +300,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 
   period: "Homeless encampment, late 1980s–1991",
 
-  description: "As homeless residents were displaced from other parks by curfews and policing, Tompkins Square Park became one of the city's largest encampments. More than a site of deprivation, Tent City became a community organized around mutual aid, political resistance, and the assertion that unhoused New Yorkers had a right to remain in the neighborhood.",
-
+  description: "As unhoused New Yorkers were displaced from other public spaces by policing and curfews, Tompkins Square Park became one of the city’s largest encampments and a center of homeless self-organization. Residents established mutual-aid networks, organized protests, negotiated directly with the Dinkins' administration, and built alliances with neighborhood squatters, activists, and community organizations. In 1990, Tent City residents marched from New York to Washington, D.C. to demand housing, dignity, and an end to policies that criminalized homelessness. Rather than simply a site of deprivation, Tent City became a militant experiment in collective survival that challenged dominant assumptions about who had the right to occupy urban space. Its eventual destruction in 1991 became a defining moment in the city’s broader struggle over homelessness, public space, and gentrification.",
   quote: "",
 
  slides: [
