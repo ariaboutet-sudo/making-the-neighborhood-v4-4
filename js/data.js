@@ -528,13 +528,13 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   title: "The Basement",
   caption: "The basement remained a public venue - hosting many events & punk shows - before it was closed to the public in 2007 due to regulatory concerns.",
   credit: "Photograph by Amy Starechesky.",
-  sourceLabel: "SAPIENS",
+  sourceLabel: "Sapiens, January 24, 2017",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
  {image: "images/C Squat/c-squat.png",
   alt: "",
   title: "Skate Ramp",
-  caption: "Skater Dan Pensyl and others on C-Squat's indoor skate ramp",
+  caption: "Skater Dan Pensyl and others on C-Squat's indoor skate ramp.",
   credit: "Photographer unknown, published in 'Full Bleed: New York City Skateboard Photography, Alex Corporan.",
 },
 {
@@ -542,8 +542,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   alt: "Entrance to C-Squat.",
   title: "Entrance",
   caption: "Entrance to C-Squat.",
-  credit: "Photograph by Constantin Sergeyev.",
-  sourceLabel: "SAPIENS",
+  credit: "Photograph by Konstantin Sergeyev.",
+  sourceLabel: "Sapiens, January 24, 2017",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
 {
@@ -552,7 +552,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   title: "The What Cheer? Brigade",
   caption: "The What Cheer? Brigade (part of the radical marching band movement) performs at C-Squat, 2012.",
   credit: "Photograph by Tod Seelie.",
-  sourceLabel: "VICE",
+  sourceLabel: "VICE, January 19, 2012",
   sourceUrl: "https://www.vice.com/en/article/sxrapbookn-with-tod-the-what-cheer-brigade-at-c-squat/"
 },
 {
@@ -561,7 +561,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   title: "Museum of Reclaimed Urban Space (MoRUS)",
   caption: "The museum of urban reclaimed space (MoRUS) opened in C-Squat's storefront in 2012.",
   credit: "Photograph by Clayton Patterson.",
-  sourceLabel: "CityRealty",
+  sourceLabel: "City Realty, October 25, 2018",
   sourceUrl: "https://www.cityrealty.com/nyc/market-insight/features/get-to-know/the-neighbors-who-arrived-first-c-squat-155-avenue-c/5645"
 },
 {
@@ -570,7 +570,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   title: "Museum of Reclaimed Urban Space",
   caption: "The Museum of Reclaimed Urban Space (MoRUS) opened in C-Squat's storefront in 2012.",
   credit: "Photograph by Amy Starechesky.",
-  sourceLabel: "SAPIENS",
+  sourceLabel: "Sapiens, January 24, 2017",
   sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   }
 
