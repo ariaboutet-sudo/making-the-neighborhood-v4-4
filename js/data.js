@@ -821,7 +821,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     title: "ABC No Rio",
     address: "156 Rivington Street",
     coordinates: [40.71902, -73.98506],
-    themes: ["culture", "housing", "place", "mutualAid"],
+    themes: ["culture", "place", "mutualAid"],
     period: "Founded 1980",
     description: "A collectively run art and activist center that developed from an occupation and critique of real-estate policy into durable infrastructure for DIY cultural and political practice.",
     quote: "",
