@@ -774,7 +774,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     title: "No Drink, Drugs, Excuses.",
     caption: "ABC No Rio's backyard, 2016.",
     credit: "Photograph by Margarida Correia, October 4, 2016.",
-    sourceLabel: "'ABC No Rio: A Visual Essay'",
+    sourceLabel: "ABC No Rio: A Visual Essay",
     sourceUrl: "https://wrongwrong.net/article/abc-no-rio"
   },
   {
@@ -789,7 +789,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   {
     image: "images/abc no rio/abc-2.png",
     alt: "Interior view of ABC No Rio showing its informal, densely layered art and organizing space.",
-    title: "STREET SCAPE",
+    title: "A hundred years ago the Lower East Side was the first stop...",
     caption: "Interior view of ABC No Rio showcasing its informal & densely layered site-specific art, 2016.",
     credit: "Photograph by Margarida Correia, October 4, 2016.",
     sourceLabel: "ABC No Rio: A Visual Essay",
