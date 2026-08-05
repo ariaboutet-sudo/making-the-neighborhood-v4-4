@@ -216,12 +216,8 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     caption: "A present day zillow listing for a luxury condo in the christadora house.",
     credit: "",
 sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
-sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/",
-  }
-
-]
-
-},
+sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/"
+  },
   {
   id: "goles",
   title: "GOLES (Good Old Lower East Side)",
