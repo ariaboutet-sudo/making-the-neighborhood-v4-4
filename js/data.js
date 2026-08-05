@@ -1361,15 +1361,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   quote: "",
   source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives",
 }, 
-{
-  id: "pyramid",
-  title: "Pyramid Club",
-  address: "101 Avenue A",
-  coordinates: [40.72672, -73.98308],
-  themes: ["queer", "culture"],
-  period: "Founded 1979",
-  description:
-    "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
 
   slides: [
     {
@@ -1436,7 +1427,7 @@ sourceURL: "https://www.nyclgbtsites.org/site/the-pyramid/",
     },
     {
   type: "quote",
-  title: "Ann Magnuson",
+  title: "",
   quote: "The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn't give a shit if they hated us. 'In fact, you better hate it,' I thought, 'I'm gonna do something to make you hate it even more.' I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.",
   attribution: "— Ann Magnuson, performance artist",
   sourceLabel: "Village Preservation",
