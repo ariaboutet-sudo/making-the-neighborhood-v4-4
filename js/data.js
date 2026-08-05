@@ -378,17 +378,17 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
     image: "images/Umbrella House/village-preservation-1.png",
     alt: "Exterior of Umbrella House in 1988, with painted and altered windows and façade.",
     title: "Umbrella House, 1988",
-    caption: "Umbrella House, 1988.",
+    caption: "Umbrella House in its first year of occupation.",
     credit: "Photograph by Marlis Momber.",
     sourceLabel: "Village Preservation",
     sourceUrl: "https://villagepreservation.org/2011/06/14/umbrella-umbrella/"
   },
   {
     type: "quote",
-    title: "Defending a Home",
+    title: "",
     quote: "I put a big sign on my window that said, ‘I’m willing to die for my home, how about you?’ And I meant it, I really meant it. I wasn’t fucking around. Because I had nothing other than that building.",
     attribution: "— Siobhan Meow, Umbrella House squatter",
-    sourceLabel: "City Limits, “Squatters’ Rites”",
+    sourceLabel: "City Limits, September 1, 2002",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
   {
@@ -397,53 +397,53 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
     title: "Rebuilding the Entryway",
     caption: "The entryway to Umbrella House shortly after residents moved in, left, and after they brought the building up to code, right.",
     credit: "Photographs by Gabriel Pintado.",
-    sourceLabel: "The New York Times",
+    sourceLabel: "The New York Times, July 17, 2015",
     sourceUrl: "https://www.nytimes.com/2015/07/19/realestate/umbrella-house-east-village-co-op-run-by-former-squatters.html"
   },
   {
     type: "quote",
-    title: "How Umbrella House Got Its Name",
+    title: "",
     quote: "For the first five years, that’s all we did—work. The roof leaked so badly that you could be in the basement, look up, and see the sky. When it rained hard, we had these tarps to funnel all the water into buckets, and we had to run a bucket brigade to pour the water out the windows.",
-    attribution: "— Geoff Dann, resident",
-    caption: "The tarp system—and its tendency to soak passersby who did not have umbrellas—gave the house its name.",
-    sourceLabel: "City Limits, “Squatters’ Rites”",
+    attribution: "— Geoff Dann, resident, describing the tarp system — and its tendency to soak passersby who did not have umbrellas — that ultimately gave the house its name.",
+    caption: "",
+    sourceLabel: "City Limits, September 1, 2002",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
   {
     image: "images/Umbrella House/1990.png",
     alt: "Exterior of Umbrella House in 1990, two years after squatters occupied the building.",
     title: "Umbrella House, 1990",
-    caption: "Umbrella House in 1990, two years after its takeover by squatters.",
+    caption: "Umbrella House two years after its takeover by squatters.",
     credit: "Photograph by Gabriel Pintado.",
-    sourceLabel: "The New York Times",
+    sourceLabel: "The New York Times, July 17, 2015",
     sourceUrl: "https://www.nytimes.com/2015/07/19/realestate/umbrella-house-east-village-co-op-run-by-former-squatters.html"
   },
   {
     type: "quote",
-    title: "From Squatters to Property Owners",
+    title: "",
     quote: "I think this idea of having the building owned will be a big change. People will begin to have the concept of ‘this is mine.’ That wasn’t what it was about originally, and I’m worried about that.",
     attribution: "Hafid Lalaoui, a former resident expressing ambivalence about squatters becoming property owners.",
     caption: "",
-    sourceLabel: "City Limits, “Squatters’ Rites”",
+    sourceLabel: "City Limits, September 1, 2002",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
   {
     type: "quote",
-    title: "From Squatters to Property Owners",
+    title: "",
     quote: "I would rather continue the way we we’re going–if we could be left alone. But the stakes have changed. We know that if we don’t take the deal it would be a matter of time before the city came after us.",
     attribution: "-Siobhan Meow, Resident",
     caption: "",
-    sourceLabel: "City Limits, “Squatters’ Rites”",
+    sourceLabel: "City Limits, September 1, 2002",
     sourceUrl: "https://citylimits.org/squatters-rites/"
   },
   
   {
     image: "images/Umbrella House/garden day.png",
     alt: "Residents tending plants during a gardening workday on the roof of Umbrella House.",
-    title: "Roof Garden",
+    title: "Rooftop Garden at Umbrella House",
     caption: "A gardening workday on the roof of Umbrella House, 2015.",
     credit: "Photograph by Chang W. Lee.",
-    sourceLabel: "The New York Times",
+    sourceLabel: "The New York Times, July 17, 2015",
     sourceUrl: "https://www.nytimes.com/2015/07/19/realestate/umbrella-house-east-village-co-op-run-by-former-squatters.html"
   },
   {
@@ -452,25 +452,25 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
     title: "Tauno Bilsted",
     caption: "Tauno Bilsted, an early squatter who eventually became the building’s president.",
     credit: "Photograph by Chang W. Lee.",
-    sourceLabel: "The New York Times",
+    sourceLabel: "The New York Times, July 17, 2015",
     sourceUrl: "https://www.nytimes.com/2015/07/19/realestate/umbrella-house-east-village-co-op-run-by-former-squatters.html"
   },
   {
     image: "images/Umbrella House/45k!.png",
     alt: "Miguel Valderrama inside his apartment at Umbrella House.",
-    title: "A $45,000 Apartment",
+    title: "The first purchased apartment at Umbrella House",
     caption: "Miguel Valderrama was the first person to purchase an apartment at Umbrella House after an agreement with the city legalized the building. He bought his 300-square-foot apartment in 2009 for $45,000.",
     credit: "Photograph by Chang W. Lee.",
-    sourceLabel: "The New York Times",
+    sourceLabel: "The New York Times, July 17, 2015",
     sourceUrl: "https://www.nytimes.com/2015/07/19/realestate/umbrella-house-east-village-co-op-run-by-former-squatters.html"
   },
   {
     image: "images/Umbrella House/village-preservation.png",
     alt: "Exterior of Umbrella House in 2011.",
-    title: "Umbrella House, 2011",
-    caption: "Exterior of Umbrella House, 2011.",
+    title: "Exterior of Umbrella House.",
+    caption: "The front of the building decorated with umbrellas, 2011.",
     credit: "",
-    sourceLabel: "Village Preservation",
+    sourceLabel: "Village Preservation, June 14, 2011",
     sourceUrl: "https://villagepreservation.org/2011/06/14/umbrella-umbrella/"
     }
 ]
