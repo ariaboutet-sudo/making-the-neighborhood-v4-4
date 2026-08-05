@@ -511,7 +511,7 @@ sourceUrl: "https://citylimits.org/squatters-rites/"
 {title: "",
   type: "quote",
   quote: "It was like a stage set. There was much drama of getting dogs up and down, and drunks up and down.",
-  attribution: "— Popeye, C-Squat Resident, remembering early years when apartments faced into a stairwayless void, and were connected only by a series of ladders.",
+  attribution: "— Popeye, C-Squat Resident, remembering early years when C-Squat's apartments faced into a stairwayless void, and were connected only by a series of ladders.",
 sourceLabel: "Sapiens, January 24, 2017",
 sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
