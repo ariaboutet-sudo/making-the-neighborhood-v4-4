@@ -371,7 +371,7 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
     period: "Occupied in 1988; later legalized",
     description: "Residents collectively rehabilitated an abandoned building and later negotiated its transformation into limited-equity cooperative housing. The building illustrates both the possibilities and the internal tensions of collective ownership, governance, and institutional recognition.",
     quote: "",
-    source: "Amy Starecheski, What Was Squatting, and What Comes Next?",
+    source: "Moynihan; Neuwirt; Starecheski ['What Was Squatting, and What Comes Next?'].",
 
   slides: [
   {
@@ -484,7 +484,7 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
     period: "Squat founded 1989",
     description: "Occupied in 1989 after years of abandonment, C-Squat emerged as one of the Lower East Side’s best-known squats and a center of the neighborhood’s intertwined worlds of housing activism, punk culture, and collective self-governance. Residents rebuilt the fire-damaged building themselves, replacing structural beams, repairing apartments, and operating through collective decision-making while also opening the space to artists, musicians, political organizers, and travelers. Like other Lower East Side squats, C-Squat challenged the assumption that abandoned buildings should remain vacant until profitable redevelopment became possible, instead asserting that residents could collectively reclaim, rehabilitate, and steward urban space. After years of organizing and negotiations, C-Squat became a limited-equity cooperative in 2002, preserving affordable housing while also raising difficult questions about legalization, ownership, and the transformation of radical commons into formal property. In 2012, the building’s storefront became home to the Museum of Reclaimed Urban Space (MoRUS), founded by neighborhood activists as a living archive dedicated to preserving the histories of squatting, community gardens, mutual aid, direct action, and grassroots urban activism. While MoRUS is in line with C-Squat's values, it's inhabitation of the former 'livingroom' was a pragmatic (and contentious) decision - MoRUS' rent helped to offset housing costs after C-Squat was legalized.",
     quote: "",
-    source: "Amy Starecheski, What Was Squatting, and What Comes Next?",
+    source: "Neuwirt; Starecheski ['What Was Squatting, and What Comes Next?', 'The Transformation of one of New York City's Most Famous Squats]; ",
 
   slides: [
   {image: "images/C Squat/not-for-sale.png",
