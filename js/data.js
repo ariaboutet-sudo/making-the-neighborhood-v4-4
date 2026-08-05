@@ -849,8 +849,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   {
     image: "images/abc no rio/murder-junk-suicide.png",
     alt: "Installation by John Murton inside ABC No Rio in 1980.",
-    title: "Murder, Junk, Suicide; Installation by John Burton, 1980.",
-    caption: "Murder, Junk, Suicide was one of ABC’s earliest themed exhibitions. The title reflected the collective’s desire to challenge artistic conventions, but also exposed the tensions between the experimental concerns of downtown artists and the everyday realities of a neighborhood where violence, addiction, and poverty were lived experiences rather than aesthetic subjects. ",
+    title: "Murder, Junk, Suicide, 1980.",
+    caption: "John Morton's 'Murder, Junk, Suicide' was one of ABC’s earliest themed exhibitions. The title reflected the collective’s desire to challenge artistic conventions, but also exposed the tensions between the experimental concerns of downtown artists and the everyday realities of a neighborhood where violence, addiction, and poverty were lived experiences rather than aesthetic subjects. ",
     credit: "Photograph by Tom Warren, 1980. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
