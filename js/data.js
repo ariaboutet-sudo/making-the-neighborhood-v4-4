@@ -719,7 +719,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       title: "Bimbo Rivas at the opening of 'La Lucha Continua' murals, 1981.",
       alt: "",
       caption: "Poet, artist, & actvisit Bimbo Rivas speaking at the opening of 'La Lucha Continua'.",
-      credit: "Photographer unknown.",
+      credit: "Video by John J. Hunt.",
       sourceLabel: "Bimbo Rivas at La Plaza Cultural",
       sourceUrl: "https://www.youtube.com/watch?v=amHi_mfq1CQ",
        }
