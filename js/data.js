@@ -1035,6 +1035,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       caption: "",
       credit: "",
       sourceUrl: "https://www.artforum.com/news/joe-overstreet-1933-2019-243676/",
+      sourceLabel: "Art Forum",
     },
 
     {
