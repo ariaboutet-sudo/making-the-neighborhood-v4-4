@@ -1023,6 +1023,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   title: "",
   quote: "Corrine Jennings came to New York from Rhode Island in the 1970s — armed with the drive and credentials to be a Broadway scenic designer. However, the head of the union told her they didn’t have blacks or women, and they were not going to. “That’s theater,” said Jennings. “This field, the art world, is so terrible for everybody that it didn’t matter what I did because they weren’t going to pay attention anyway,” she recalled laughing.",
   attribution: "amNY, January 5, 2010",
+  sourceLabel: "amNY",
   sourceUrl: "https://www.amny.com/news/get-to-know-kenkeleba-and-kamoinge/"
 },
 
@@ -1040,8 +1041,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       image: "images/Kenkeleba/magnitude.png",
       alt: "",
       title: "",
-      caption: "Life imitates art with photographer Leslie Jean Bart and Michele Voltaire Marcelin in front of her painting “Magnitude Seven Point One” …its title referencing the earthquake, a precient painting created before the 2010 earthlink took place. (Photos by Tequila Minsky)",
-      credit: "",
+      caption: "Photographer Leslie Jean Bart and Michele Voltaire Marcelin in front of Marrcelin's painting “Magnitude Seven Point One”. Its title references an earthquake, a precient painting created before the 2010 earthquake took place in Haiti.",
+      credit: "(Photography by Tequila Minsky)",
       sourceLabel: "amNewYork",
       sourceUrl: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
     },
@@ -1050,7 +1051,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       image: "images/Kenkeleba/Pity.png",
       alt: "",
       title: "",
-      caption: "Erzulie Beware Pity, acrylic/mixed media on wood panel/nails. (1999) with the artist Michele Voltaire Marcelin.",
+      caption: "'Erzulie Beware Pity', with the artist Michele Voltaire Marcelin, 1999.",
       credit: "",
       sourceLabel: "amNewYork",
       sourceUrl: "https://www.amny.com/news/take-a-look-inside-the-amazing-gallery-of-haitian-art-at-kenkeleba-house-a-gem-of-the-lower-east-side/"
@@ -1119,9 +1120,10 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/goree.png",
       alt: "",
-      title: "Joe Overstreet, Gorée, 1993. Oil on canvas, 120 × 144 inches. © Estate of Joe Overstreet/Artist Rights Society (ARS). Courtesy Eric Firestone Gallery, New York. Photo: Samuel Glass.",
+      title: "Joe Overstreet, 'Gorée', 1993.",
       caption: "",
-      credit: "",
+      photograph: "Samuel Glass.",
+      credit: "Joe Overstreet. Courtesy of the Estate of Joe Overstreet/Artist Rights Society (ARS) & Eric Firestone Gallery, New York.",
       sourceLabel: "The Brooklyn Rail",
       sourceUrl: "https://brooklynrail.org/2025/04/artseen/joe-overstreet-taking-flight/"
     },
@@ -1153,13 +1155,13 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Lesbian Avengers/rage.png",
       alt: "",
-      title: "",
-      caption: "",
+      title: "'The Rage of All Women Condensed to the Point of Explosion",
+      caption: "Recruitment poster for the Lesbian Avengers, 1993.",
       credit: "",
       quote: "",
       quoteCredit: "",
-      sourceUrl: "",
-      sourceLabel: "View source"
+      sourceUrl: "https://www.nyclgbtsites.org/site/nyc-dyke-march/",
+      sourceLabel: "NYC LGBTQ Historic Sites Project"
     },
     {
       image: "images/Lesbian Avengers/ann.png",
