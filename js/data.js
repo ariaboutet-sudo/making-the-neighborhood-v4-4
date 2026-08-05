@@ -702,7 +702,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       alt: "",
       caption: "Flyer for the dedication opening ceremony for 'La Lucha Continua' murals in La Plaza Cultural, September 14, 1985.",
       credit: "Courtesy of Rikki Asher",
-      sourceLabel: "La Luch Artmakers",
+      sourceLabel: "La Lucha Artmakers",
       sourceUrl: "laluchaartmakers.org/dedication2",
        },
        {
