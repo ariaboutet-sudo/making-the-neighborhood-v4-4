@@ -1306,7 +1306,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1979",
   description: "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
   quote: "",
-  source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives",
+  source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives.",
 
   slides: [
     {
