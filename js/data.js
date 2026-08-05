@@ -664,40 +664,68 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   coordinates: [40.72522, -73.97818],
   themes: ["culture", "place", "mutualAid"],
   period: "Community garden founded in the 1970s",
-  description: "A resident-created garden and cultural commons built on neglected land and maintained through collective labor, stewardship, and neighborhood participation.",
+  description: "Created by neighborhood residents on a series of abandoned, rubble-filled lots, La Plaza Cultural transformed the physical landscape of Loisaida through collective labor, ecological restoration, and cultural production. Organized by CHARAS alongside neighborhood gardeners, artists, and activists, the space evolved into a community garden, outdoor performance venue, gathering place, and site of political expression. Residents reclaimed discarded materials, planted trees and food crops, built public amenities, hosted performances, and covered the surrounding walls with murals that celebrated Puerto Rican identity, anti-colonial struggle, and neighborhood resistance. Like many community-created spaces on the Lower East Side, it later became the focus of prolonged struggles against redevelopment before ultimately being permanently preserved.",
   quote: "",
-  source: "Efrat Eizenberg, “Actually Existing Commons.”",
+  source: "Eizenberg.",
 
   slides: [
     {
       image: "images/La Plaza Cultural/grupo-cemi.png",
       title: "Grupo Cemi performs, 1980",
       alt: "",
-      caption: "",
+      caption: "Grupo Cemi was a Puerto Rican bomba y plena ensemble that regularly performed at La Plaza Cultural. Bomba and plena are Afro–Puerto Rican traditions of drumming, singing, and dance rooted in community participation and resistance. Their performances transformed the garden into a space where cultural celebration, political expression, and collective place-making became inseparable.",
       credit: "Photograph by Marlis Momber.",
       sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee, p. 127.",
       sourceUrl: ""
     },
     {
       image: "images/La Plaza Cultural/la-plaza-charas-recycling-copy.png",
-      title: "",
+      title: "La Plaza Cultural",
       alt: "",
-      caption: "",
-      credit: "Photograph by Josie Rolon.",
+      caption: "La Plaza Cultural in the foreground, with CHARAS Recycling to the left.",
+      credit: "Photograph by Josie Rolon. Published in 'Quality of Life in Loisaid' (1979).",
       sourceLabel: "‘Quality of Life in Loisaida’ (1979)",
       sourceUrl: ""
     },
     {
       image: "images/La Plaza Cultural/LLC-north-wall.png",
-      title: "Murals on the northern wall of La Plaza Cultural, 1985",
-      alt: "",
+      title: "'La Lucha Continua',",
+      alt: "Murals celebrating Puerto Rican culture, political resistance, and neighborhood resiliency - installed on the northern wall of La Plaza Cultural, 1985.",
       caption: "",
-      credit: "Courtesy of Artmakers Inc.",
+      credit: "Photographer unknown. Courtesy of Artmakers Inc.",
       sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
       sourceUrl: ""
+    },
+  {
+      image: "images/La Plaza Cultural/dedication.png",
+      title: "'La Lucha Continua Dedication',",
+      alt: "",
+      caption: "Flyer for the dedication opening ceremony for 'La Lucha Continua' murals in La Plaza Cultural, September 14, 1985.",
+      credit: "Courtesy of Rikki Asher",
+      sourceLabel: "La Luch Artmakers",
+      sourceUrl: "laluchaartmakers.org/dedication2",
+       },
+       {
+      image: "images/La Plaza Cultural/bimbos.png",
+      title: "Tim Jones, Joseph 'Slima' Williams, Chino Garcia & Bimbo Rivas in La Plaza Cultural, 1981.',",
+      alt: "",
+      caption: "",
+      credit: "Photographer unknown.",
+      sourceLabel: "Activist Estates of the Lower East Side.",
+      sourceUrl: "aeles.org/LA-PLAZA-TIMELINE"
+    },
+     {
+      image: "images/La Plaza Cultural/bimbo.png",
+      title: "Bimbo Rivas at the opening of 'La Lucha Continua' murals, 1981.",
+      alt: "",
+      caption: "Poet, artist, & actvisit Bimbo Rivas speaking at the opening of 'La Lucha Continua'.",
+      credit: "Photographer unknown.",
+      sourceLabel: "Bimbo Rivas at La Plaza Cultural",
+      sourceUrl: "https://www.youtube.com/watch?v=amHi_mfq1CQ",
     }
   ]
-},
+    }
+  ]
   {
   id: "la-lucha-continua",
   title: "La Lucha Continua",
