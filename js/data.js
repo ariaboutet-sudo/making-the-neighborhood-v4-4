@@ -209,83 +209,83 @@ slides: [
 sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
 sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   },
-   {
-    image: "images/Christadora House/christadora-present!.jpg",
-    alt: "",
-    title: "Christadora House in the Present",
-    caption: "A present day zillow listing for a luxury condo in the christadora house.",
-    credit: "",
-sourceLabel: "zillow.com, retrieved Aug. 3, 2026",
-sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/"
-  },
-  {
+{
+  image: "images/Christadora House/christadora-present!.jpg",
+  alt: "",
+  title: "Christodora House in the Present",
+  caption: "A present-day Zillow listing for a luxury condo in Christodora House.",
+  credit: "",
+  sourceLabel: "Zillow, retrieved August 3, 2026",
+  sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-10009/2109174699_zpid/"
+}
+]
+},
+{
   id: "goles",
   title: "GOLES (Good Old Lower East Side)",
   address: "169 Avenue B",
   coordinates: [40.72727, -73.97941],
   themes: ["housing", "mutualAid", "place"],
   period: "Founded 1977",
-  description: "Founded amid the arson, abandonment, and disinvestment of the late 1970s, GOLES (Good Old Lower East Side) organized tenants building-by-building to defend affordable housing and preserve the neighborhood's diverse communities. Over nearly five decades, the organization has combined direct services, tenant organizing, political education, and coalition-building to fight displacement, expand low-income housing, and strengthen community self-determination. GOLES represents an ongoing tradition of grassroots neighborhood organizing that connects the struggles over abandonment and homesteading in the 1970s and 1980s to contemporary fights against gentrification, eviction, and environmental injustice.",
+  description: "Founded amid the arson, abandonment, and disinvestment of the late 1970s, GOLES (Good Old Lower East Side) organized tenants building-by-building to defend affordable housing and preserve the neighborhood's diverse communities. Over nearly five decades, the organization has combined direct services, tenant organizing, political education, and coalition-building to fight displacement, expand low-income housing, and strengthen community self-determination. GOLES represents an ongoing tradition of grassroots neighborhood organizing connecting the struggles over abandonment and homesteading in the 1970s and 1980s to contemporary fights against gentrification, eviction, and environmental injustice.",
   quote: "",
-  source: "GOLES; Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
-},
-{
-    image: "images/GOLES/GOLES-1.jpg",
-    alt: "",
-    title: "GOLES office on avenue B",
-    caption: "",
-    credit: "",
-sourceLabel: "Collective for Community, Culture, & Environment",
-sourceUrl: "https://collectiveforcce.com/project/goles-office-renovation/"
-  },
-  {
-    image: "images/GOLES/GOLES-2.jpg",
-    alt: "",
-    title: "GOLES' Mission",
-    caption: "",
-    credit: "published by Village Preservation, May 31, 2017",
-sourceLabel: "Village Preservation",
-sourceUrl: "https://villagepreservation.org/2017/05/31/2017-village-awardee-goles/",
-  },
-  {
-    image: "images/GOLES/GOLES-3.jpg",
-    alt: "",
-    title: "Stand Up To Landlords!",
-    caption: "",
-    credit: "",
-sourceLabel: "GOLES",
-sourceUrl: "https://www.goles.org/gallery",
-  },
-  {
-    image: "images/GOLES/GOLES-4.jpg",
-    alt: "",
-    title: "We Resist Fossil Fuels",
-    caption: "The Smith houses are a NYCHA public housing complex in the lower east side. GOLES and tenant organizers from this housing complex have often collaborated. Here organizers urge for climate resiliency.",
-    credit: "",
-sourceLabel: "GOLES",
-sourceUrl: "https://www.goles.org/gallery",
-  },
-  {
-    image: "images/GOLES/GOLES-5.jpg",
-    alt: "",
-    title: "GOLES Organizing",
-    caption: "",
-    credit: "",
-sourceLabel: "GOLES",
-sourceUrl: "https://www.goles.org/gallery",
-  },
-  {
-    image: "images/GOLES/GOLES-6.jpg",
-    alt: "",
-    title: "Mural honoring Gil Scott-Heron at GOLES' offices.",
-    caption: "",
-    credit: "",
-sourceLabel: "GOLES",
-sourceUrl: "https://www.goles.org/gallery",
-  },
-
-
-]
+  source: "GOLES; Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+  slides: [
+    {
+      image: "images/GOLES/GOLES-1.jpg",
+      alt: "",
+      title: "GOLES Office on Avenue B",
+      caption: "",
+      credit: "",
+      sourceLabel: "Collective for Community, Culture, & Environment",
+      sourceUrl: "https://collectiveforcce.com/project/goles-office-renovation/"
+    },
+    {
+      image: "images/GOLES/GOLES-2.jpg",
+      alt: "",
+      title: "GOLES' Mission",
+      caption: "",
+      credit: "Published by Village Preservation, May 31, 2017.",
+      sourceLabel: "Village Preservation",
+      sourceUrl: "https://villagepreservation.org/2017/05/31/2017-village-awardee-goles/"
+    },
+    {
+      image: "images/GOLES/GOLES-3.jpg",
+      alt: "",
+      title: "Stand Up to Landlords!",
+      caption: "",
+      credit: "",
+      sourceLabel: "GOLES",
+      sourceUrl: "https://www.goles.org/gallery"
+    },
+    {
+      image: "images/GOLES/GOLES-4.jpg",
+      alt: "",
+      title: "We Resist Fossil Fuels",
+      caption: "The Smith Houses are a NYCHA public-housing complex on the Lower East Side. GOLES and tenant organizers from the development have often collaborated; here, organizers call for climate resiliency.",
+      credit: "",
+      sourceLabel: "GOLES",
+      sourceUrl: "https://www.goles.org/gallery"
+    },
+    {
+      image: "images/GOLES/GOLES-5.jpg",
+      alt: "",
+      title: "GOLES Organizing",
+      caption: "",
+      credit: "",
+      sourceLabel: "GOLES",
+      sourceUrl: "https://www.goles.org/gallery"
+    },
+    {
+      image: "images/GOLES/GOLES-6.jpg",
+      alt: "",
+      title: "Mural Honoring Gil Scott-Heron at GOLES' Offices",
+      caption: "",
+      credit: "",
+      sourceLabel: "GOLES",
+      sourceUrl: "https://www.goles.org/gallery"
+    }
+  ]
 },
 
 {
