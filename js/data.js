@@ -1332,7 +1332,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1979",
   description: "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
   quote: "",
-  source: "Images and quotations to be added.",
+  source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives",
 }, 
 {
   id: "pyramid",
@@ -1352,14 +1352,15 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
         "Lady Bunny, Mistress Formika, Sweetie, Anna Conda, and Tabboo!",
       caption: "Pyramid Club dressing room, 1992.",
       credit: "Photograph by Linda Simpson.",
+      sourceLabel: "NYC LGBTQ Historic Sites Project",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
     },
     {
   type: "quote",
-  title: "Brian Butterick",
+  title: "",
   quote: "All of this was played out against the horrifying backdrop of the AIDS Crisis. Yet it was a time of great joy and revelry. Around this time, I wrote this line in my journal: 'Flow'r furious before the frost!' That is exactly what we were doing then. The Pyramid was our clubhouse. Our tribal circle. Our gang lair. Our home.",
   attribution: "— Brian Butterick, co-founder & artist",
-  sourceLabel: "Brian Butterick",
+  sourceLabel: "Brian Butterick Archives",
   sourceUrl: "https://brianbutterick.org/archives/the-pyramid-club/"
 },
 
@@ -1370,28 +1371,19 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       caption: "Pyramid Club basement, date unknown.",
       credit:
         "Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
+        sourceLabel: "Brian Butterick Archives",
+  sourceUrl: "https://brianbutterick.org/archives/the-pyramid-club/",
     },
 
     {
       image: "images/Pyramid Club/hattie.png",
       alt: "Hattie Hathaway, also known as Brian Butterick, with RuPaul in 1991.",
-      title: "Hattie Hathaway and RuPaul",
-      caption: "1991.",
+      title: "Hattie Hathaway and RuPaul, 1991.",
+      caption: "",
       credit: "Photograph by Jonathan Lipkin. Courtesy of The Brian Butterick “Hattie Hathaway” Collection and the Howl! Arts Archive.",
-      sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
+sourceLabel: "NYC LGBTQ Historic Sites Project",
+sourceURL: "https://www.nyclgbtsites.org/site/the-pyramid/",
     },
-    {
-  type: "quote",
-  title: "Ann Magnuson",
-  quote: "There was a whole tribe of people who were on the same frequency, and we all found each other, and we gave ourselves over to the goddess of performance.",
-  attribution: "— Ann Magnuson, performance artist",
-  sourceLabel: "Era Rewind",
-  sourceUrl: "https://www.facebook.com/EraRewindfb/posts/ann-magnuson-walked-into-1980s-new-york-like-a-glitch-in-the-system-and-the-syst/1326135672864446/"
-},
 
     {
       image: "images/Pyramid Club/membership.png",
@@ -1403,47 +1395,49 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       quote: "",
       quoteCredit: "",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
+      sourceLabel: "NYC LGBTQ Historic Sites Project"
     },
 
     {
       image: "images/Pyramid Club/drag-marathon.png",
       alt: "Flyer advertising a Drag Queen Marathon at the Pyramid Club.",
-      title: "Drag Queen Marathon Flyer",
-      caption: "May 12, year unknown.",
+      title: "Drag Queen Marathon Flyer, May 12, year unknown.",
+      caption: "",
       credit: "Courtesy of the Howl! Arts Archive.",
+      sourceLabel: "Brian Butterick Archives",
+  sourceUrl: "https://brianbutterick.org/archives/the-pyramid-club/",
     },
     {
   type: "quote",
   title: "Ann Magnuson",
   quote: "The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn't give a shit if they hated us. 'In fact, you better hate it,' I thought, 'I'm gonna do something to make you hate it even more.' I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.",
   attribution: "— Ann Magnuson, performance artist",
-  sourceLabel: "Interview",
+  sourceLabel: "Village Preservation",
   sourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I"
 },
 
     {
       image: "images/Pyramid Club/open-closet.png",
       alt: "Flyer advertising the Open Closet fashion show at the Pyramid Club.",
-      title: "“Open Closet” Fashion Show Flyer",
-      caption: "October 27, 1982.",
+      title: "“Open Closet” Fashion Show Flyer, October 27, 1982.",
+      caption: "",
       credit: "Courtesy of the Howl! Arts Archive.",
       quote: "",
       quoteCredit: "",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
+      sourceLabel: "NYC LGBTQ Historic Sites Project",
     },
 
     {
       image: "images/Pyramid Club/cha-cha.png",
       alt: "Flyer advertising Cha-Cha with Billy Vinci and Michael Blake.",
-      title: "“Cha-Cha” with Billy Vinci and Michael Blake",
-      caption: "August 14, 1983.",
+      title: "“Cha-Cha” with Billy Vinci and Michael Blake, August 14, 1983",
+      caption: "",
       credit: "Courtesy of the Howl! Arts Archive.",
       quote: "",
       quoteCredit: "",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
+      sourceLabel: "NYC LGBTQ Historic Sites Project"
     },
 
    {
@@ -1455,28 +1449,19 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   quote: "",
   quoteCredit: "",
   sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-  sourceLabel: "View source"
-},
-
-{
-  type: "quote",
-  title: "Ann Magnuson",
-  quote: "The critical community at the time came primarily out of Soho and the emphasis was on the minimal, the conceptual. We didn't give a shit if they hated us. 'In fact, you better hate it,' I thought, 'I'm gonna do something to make you hate it even more.' I wanted to needle them. You get into the face of authority, and you have two choices, comply or defy. Our choice was to defy.",
-  attribution: "— Ann Magnuson, performance artist",
-  sourceLabel: "Interview",
-  sourceUrl: "https://www.youtube.com/watch?v=tKGyJzJUi3I"
+  sourceLabel: "NYC LGBTQ Historic Sites Project"
 },
 
     {
       image: "images/Pyramid Club/jocasta.png",
       alt: "Flyer for Jocasta and Tiresius: Now the Story Can Be Told.",
-      title: "“Jocasta & Tiresius: Now the Story Can Be TOLD!”",
+      title: "Jocasta & Tiresius: Now the Story Can Be TOLD!",
       caption: "",
       credit: "Photograph by Peter Hujar. Courtesy of the Howl! Arts Archive.",
       quote: "",
       quoteCredit: "",
       sourceUrl: "https://www.nyclgbtsites.org/site/the-pyramid/",
-      sourceLabel: "View source"
+      sourceLabel: "NYC LGBTQ Historic Sites Project"
     }
   ]
 },
