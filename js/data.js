@@ -229,6 +229,61 @@ sourceUrl: "https://www.zillow.com/homedetails/143-Avenue-B-9FG-New-York-NY-1000
   quote: "",
   source: "GOLES; Nandini Bagchee, Counter Institution."
 },
+{
+    image: "images/GOLES/GOLES-1.jpg",
+    alt: "",
+    title: "GOLES office on avenue B",
+    caption: "",
+    credit: "",
+sourceLabel: "Collective for Community, Culture, & Environment",
+sourceUrl: "https://collectiveforcce.com/project/goles-office-renovation/"
+  },
+  {
+    image: "images/GOLES/GOLES-2.jpg",
+    alt: "",
+    title: "GOLES' Mission",
+    caption: "",
+    credit: "published by Village Preservation, May 31, 2017",
+sourceLabel: "Village Preservation",
+sourceUrl: "https://villagepreservation.org/2017/05/31/2017-village-awardee-goles/",
+  },
+  {
+    image: "images/GOLES/GOLES-3.jpg",
+    alt: "",
+    title: "Stand Up To Landlords!",
+    caption: "",
+    credit: "",
+sourceLabel: "GOLES",
+sourceUrl: "https://www.goles.org/gallery",
+  },
+  {
+    image: "images/GOLES/GOLES-4.jpg",
+    alt: "",
+    title: "We Resist Fossil Fuels",
+    caption: "The Smith houses are a NYCHA public housing complex in the lower east side. GOLES and tenant organizers from this housing complex have often collaborated. Here organizers urge for climate resiliency.",
+    credit: "",
+sourceLabel: "GOLES",
+sourceUrl: "https://www.goles.org/gallery",
+  },
+  {
+    image: "images/GOLES/GOLES-5.jpg",
+    alt: "",
+    title: "GOLES Organizing",
+    caption: "",
+    credit: "",
+sourceLabel: "GOLES",
+sourceUrl: "https://www.goles.org/gallery",
+  },
+  {
+    image: "images/GOLES/GOLES-6.jpg",
+    alt: "",
+    title: "Mural honoring Gil Scott-Heron at GOLES' offices.",
+    caption: "",
+    credit: "",
+sourceLabel: "GOLES",
+sourceUrl: "https://www.goles.org/gallery",
+  },
+
 
 ]
 },
