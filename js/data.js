@@ -1645,27 +1645,4 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   quote: "",
   source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
 },
-{
-  id: "wigstock",
-  title: "Wigstock",
-  address: "Tompkins Square Park",
-  coordinates: [40.72680, -73.98145],
-  themes: ["queer", "culture", "place"],
-  period: "1984–2001",
-  description: "Founded by Lady Bunny in Tompkins Square Park, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal gathering, it grew into one of the world's largest drag festivals.",
-  quote: "",
-  source: "Images and quotations to be added.",
-
-  slides: [
-    {
-      image: "images/Wigstock/tompkins-wigstock-1988.jpg",
-      alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
-      title: "Wigstock, 1988",
-      caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
-      credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
-      sourceLabel: "The Bowery Boys, “The rebellious history of Tompkins Square Park”",
-      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
-      },
-    ]
-}
 ];
