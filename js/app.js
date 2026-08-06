@@ -212,12 +212,12 @@ function goHome() {
   hideImageOverlay();
   }
 
-if (!map.hasLayer(parkHighlight)) {
-  parkHighlight.addTo(map);
+if (!map.hasLayer(parkImageOverlay)) {
+  parkImageOverlay.addTo(map);
 }
 
-if (!map.hasLayer(parkHighlight)) {
-  parkHighlight.addTo(map);
+if (!map.hasLayer(parkImageOverlay)) {
+  parkImageOverlay.addTo(map);
 }
 
 map.flyTo(PARK_SITE.coordinates, HOME_ZOOM, { duration: .55 });
