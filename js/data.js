@@ -88,6 +88,29 @@ const MAP_SITES = [
   ]
 },
 {
+  id: "bullet-space",
+  title: "Bullet Space",
+  address: "292 East 3rd Street",
+  coordinates: [40.72288, -73.98217],
+  themes: ["housing", "culture", "mutualAid", "place"],
+  period: "Occupied 1983; legalized 2002",
+  description: "Occupied by artists and activists in 1983, Bullet Space became one of the Lower East Side's best-known squats and an important center of collectively organized housing, experimental art, and political organizing. Residents rebuilt the abandoned building through collective labor while hosting exhibitions, performances, meetings, and neighborhood events. Like other Lower East Side squats, Bullet Space challenged the idea that vacant buildings should remain empty while people lacked housing, instead demonstrating how residents could collectively reclaim and steward urban space. Following years of organizing and negotiations with the city, the building became a limited-equity cooperative in 2002.",
+  quote: "",
+  source: "Starecheski; Tobocman; Bagchee."
+  ,
+  slides: [
+    {
+      image: "images/Bullet Space/exterior.png",
+      alt: "",
+      title: "Bullet Space",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
+},
+{
     id: "east13",
     title: "East 13th Street Squats",
     address: "East 13th Street near Avenues A and B",
@@ -1315,6 +1338,28 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       quoteCredit: "- Carrie Moyer",
       sourceUrl: "https://www.lesbianavengers.com/images/moyer_design.shtml",
       sourceLabel: "Lesbian Avengers"
+    }
+  ]
+},
+{
+  id: "lungs",
+  address: "El Sol Brillante Garden, 522–528 East 12th Street",
+  coordinates: [40.72835, -73.98115],
+  themes: ["place", "mutualAid"],
+  period: "Founded 2011",
+  description: "LUNGS (Loisaida United Neighborhood Gardens) is a coalition of more than fifty volunteer-run community gardens across the Lower East Side and East Village. Founded in 2011, the organization coordinates advocacy, stewardship, environmental education, and neighborhood-wide events while defending community-managed green space from development. Although LUNGS has no permanent headquarters, this marker is placed at El Sol Brillante—one of the neighborhood's oldest surviving community gardens and a frequent gathering place for LUNGS events, including the annual Spring Awakening festival.",
+  quote: "",
+  source: "LUNGS; El Sol Brillante."
+  ,
+  slides: [
+    {
+      image: "images/LUNGS/el-sol-brillante.png",
+      alt: "El Sol Brillante Garden.",
+      title: "El Sol Brillante",
+      caption: "One of the Lower East Side's oldest community gardens and a gathering place for LUNGS events.",
+      credit: "",
+      sourceLabel: "LUNGS",
+      sourceUrl: "https://lungsnyc.org/"
     }
   ]
 },
