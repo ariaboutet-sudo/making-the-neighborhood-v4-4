@@ -63,6 +63,7 @@ MAP_SITES.forEach(site => {
   console.warn("Skipping malformed MAP_SITES item:", site);
   return;
 }
+  console.log("Creating marker for:", site);
   const marker = L.marker(site.coordinates, {
     icon: makeIcon("#9b958b", site.id),
     keyboard: true,
