@@ -1287,6 +1287,26 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     }
   ]
 },
+{
+  id: "loisaida-townhouse",
+  title: "Loisaida Townhouses",
+  address: "East 9th Street (between Avenues B & C)",
+  coordinates: [40.72618, -73.97882],
+  themes: ["housing", "mutualAid", "place"],
+  period: "Completed 1988",
+  description: "The Loisaida Townhouses emerged from the Lower East Side's homesteading movement, demonstrating how abandoned buildings could be transformed into permanently affordable housing through resident organizing, sweat equity, and community-based development. Led by CHARAS and neighborhood organizers working alongside architects, planners, and public agencies, the project translated years of grassroots rehabilitation into new construction designed to remain accessible to low- and moderate-income residents. The townhouses represent an important moment when community self-determination influenced formal housing policy while preserving the neighborhood's commitment to collective ownership and affordability.",
+  quote: "",
+  source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+},
+{
+  image: "images/Loisaida Townhouse/1980.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
   {
     id: "peace",
     title: "Peace Pentagon",
