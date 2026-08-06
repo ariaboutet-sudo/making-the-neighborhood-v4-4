@@ -172,8 +172,10 @@ function renderMarkers() {
     }
   });
 
-  /* The park is always visible and never belongs to a filter. */
-  if (!map.hasLayer(parkMarker)) parkMarker.addTo(map);
+ /* Decorative park overlay shown only on the home view. */
+if (!activeTheme && !map.hasLayer(parkImageOverlay)) {
+  parkImageOverlay.addTo(map);
+}
 }
 
 function showPark() {
