@@ -1001,7 +1001,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     alt: "Flyer advertising an all-ages Saturday matinee show at ABC No Rio.",
     title: "Saturday Matinee",
     caption: "All Ages Show flyer for an ABC No Rio Saturday matinee, 1990.",
-    credit: "Flyer designed by Java Dave; courtesy of Freddy Alva. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+    credit: "Flyer designed by Java Dave; courtesy of Freddy Alva. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
   },
   {
     image: "images/abc no rio/ides-of-march.png",
@@ -1343,7 +1343,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
 {
   id: "lungs",
-  title: "LUNGS (Loisaida United Neighborhood Gardens) / El Sol Brillante"
+  title: "LUNGS (Loisaida United Neighborhood Gardens) / El Sol Brillante",
   address: "El Sol Brillante Garden, 522–528 East 12th Street",
   coordinates: [40.72835, -73.98115],
   themes: ["place", "mutualAid"],
@@ -1373,7 +1373,19 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Completed 1988",
   description: "The Loisaida Townhouses emerged from the Lower East Side's homesteading movement, demonstrating how abandoned buildings could be transformed into permanently affordable housing through resident organizing, sweat equity, and community-based development. Led by CHARAS and neighborhood organizers working alongside architects, planners, and public agencies, the project translated years of grassroots rehabilitation into new construction designed to remain accessible to low- and moderate-income residents. The townhouses represent an important moment when community self-determination influenced formal housing policy while preserving the neighborhood's commitment to collective ownership and affordability.",
   quote: "",
-  source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
+  source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+
+  slides: [
+    {
+      image: "images/Loisaida Townhouse/1980.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
 },
 {
   image: "images/Loisaida Townhouse/1980.png",
@@ -1406,77 +1418,91 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     quote: "",
     source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
-  {
-  image: "images/Peace Pentagon/occupants-timeline.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/actions.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/actions-2.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/censored.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/Igal_WRL-1981.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/talks.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/9-11.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
-  image: "images/Peace Pentagon/WRL-office-2014.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
+ {
+  id: "peace",
+  title: "Peace Pentagon",
+  address: "339 Lafayette Street",
+  coordinates: [40.72668, -73.99455],
+  themes: ["mutualAid", "place"],
+  period: "Activist building, 1969–2016",
+  description: "A building that housed anti-war and social-justice organizations at below-market rents, providing durable physical infrastructure for organizing across movements.",
+  quote: "",
+  source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+
+  slides: [
+    {
+      image: "images/Peace Pentagon/occupants-timeline.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/actions.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/actions-2.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/censored.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/Igal_WRL-1981.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/talks.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/9-11.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Peace Pentagon/WRL-office-2014.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
 },
   {
   id: "pyramid",
