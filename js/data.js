@@ -96,19 +96,7 @@ const MAP_SITES = [
   period: "Occupied 1983; legalized 2002",
   description: "Occupied by artists and activists in 1983, Bullet Space became one of the Lower East Side's best-known squats and an important center of collectively organized housing, experimental art, and political organizing. Residents rebuilt the abandoned building through collective labor while hosting exhibitions, performances, meetings, and neighborhood events. Like other Lower East Side squats, Bullet Space challenged the idea that vacant buildings should remain empty while people lacked housing, instead demonstrating how residents could collectively reclaim and steward urban space. Following years of organizing and negotiations with the city, the building became a limited-equity cooperative in 2002.",
   quote: "",
-  source: "Starecheski; Tobocman; Bagchee."
-  ,
-  slides: [
-    {
-      image: "images/Bullet Space/exterior.png",
-      alt: "",
-      title: "Bullet Space",
-      caption: "",
-      credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
-    }
-  ]
+  source: "Starecheski; Tobocman; Bagchee.",
 },
 {
     id: "east13",
@@ -1625,4 +1613,27 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   quote: "",
   source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
 },
+{
+  id: "wigstock",
+  title: "Wigstock",
+  address: "Tompkins Square Park",
+  coordinates: [40.72680, -73.98145],
+  themes: ["queer", "culture", "place"],
+  period: "1984–2001",
+  description: "Founded by Lady Bunny in Tompkins Square Park, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal gathering, it grew into one of the world's largest drag festivals.",
+  quote: "",
+  source: "The Bowery Boys; historical sources on Wigstock.",
+
+  slides: [
+    {
+      image: "images/Wigstock/tompkins-wigstock-1988.jpg",
+      alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
+      title: "Wigstock, 1988",
+      caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
+      credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
+      sourceLabel: "The Bowery Boys",
+      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
+    }
+  ]
+}
 ];
