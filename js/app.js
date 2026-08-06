@@ -131,11 +131,34 @@ function selectTheme(key) {
     );
 
     map.flyToBounds(bounds, {
-      padding: [45, 45],
-      maxZoom: 16,
-      duration: 0.55
-    });
+     });
+
+    }
+
   }
+
+  const mapWrap = document.getElementById("map-wrap");
+
+  if (activeTheme) {
+
+    mapWrap.classList.add("theme-lens-active");
+
+    mapWrap.style.setProperty(
+
+      "--active-theme-color",
+
+      MAP_THEMES[activeTheme].color
+
+    );
+
+  } else {
+
+    mapWrap.classList.remove("theme-lens-active");
+
+    mapWrap.style.removeProperty("--active-theme-color");
+
+  }
+
 }
 
   const themeLens = document.getElementById("theme-lens");
