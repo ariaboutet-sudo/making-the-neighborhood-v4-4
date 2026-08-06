@@ -1632,7 +1632,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
       credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
       sourceLabel: "The Bowery Boys",
-      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html",
+      sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
     },
   ]
 }
