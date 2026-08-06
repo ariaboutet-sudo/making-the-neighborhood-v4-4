@@ -59,6 +59,10 @@ function makeIcon(color, id, isPark = false) {
 }
 
 MAP_SITES.forEach(site => {
+  if (!site.id || !site.coordinates || !site.themes) {
+  console.warn("Skipping malformed MAP_SITES item:", site);
+  return;
+}
   const marker = L.marker(site.coordinates, {
     icon: makeIcon("#9b958b", site.id),
     keyboard: true,
