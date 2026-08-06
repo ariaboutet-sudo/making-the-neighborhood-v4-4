@@ -194,6 +194,9 @@ function showPark() {
 }
 function goHome() {
   activeTheme = null;
+  if (!map.hasLayer(parkImageOverlay)) {
+  parkImageOverlay.addTo(map);
+}
   renderButtons();
   renderThemeCopy();
   renderMarkers();
