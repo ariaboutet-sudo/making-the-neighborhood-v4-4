@@ -1597,6 +1597,17 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   ]
 },
 {
+  id: "real-estate-show",
+  title: "The Real Estate Show",
+  address: "123 Delancey Street",
+  coordinates: [40.71865, -73.98875],
+  themes: ["housing", "culture", "place"],
+  period: "January 1–2, 1980",
+  description: "On New Year's Day 1980, more than thirty artists associated with Collaborative Projects (Colab) occupied an abandoned city-owned building and transformed it into a temporary exhibition criticizing New York City's housing and land-use policies. The exhibition argued that vacant buildings and speculative real-estate practices displaced working-class residents while neighborhoods were left to decay. Police shut down the exhibition after a single day and confiscated the artwork, but the artists successfully pressured the city into negotiations. As a compromise, the city offered them the storefront at 156 Rivington Street, where ABC No Rio was founded later that year. The Real Estate Show thus became one of the defining moments linking experimental art, direct action, and struggles over urban space on the Lower East Side.",
+  quote: "",
+  source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
+},
+{
   id: "wigstock",
   title: "Wigstock",
   address: "Tompkins Square Park",
