@@ -1299,6 +1299,78 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
   },
   {
+  image: "images/Peace Pentagon/occupants-timeline.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/actions.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/actions-2.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/censored.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/Igal_WRL-1981.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/talks.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/9-11.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Peace Pentagon/WRL-office-2014.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "",
+  sourceLabel: "",
+  sourceUrl: ""
+}
+  {
   id: "pyramid",
   title: "Pyramid Club",
   address: "101 Avenue A",
