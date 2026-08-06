@@ -1407,17 +1407,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   quote: "",
   source: "Nuyorican Poets Cafe; Miguel Algarín; Daniel Gallant.",
 },
-  {
-    id: "peace",
-    title: "Peace Pentagon",
-    address: "339 Lafayette Street",
-    coordinates: [40.72668, -73.99455],
-    themes: ["mutualAid", "place"],
-    period: "Activist building, 1969–2016",
-    description: "A building that housed anti-war and social-justice organizations at below-market rents, providing durable physical infrastructure for organizing across movements.",
-    quote: "",
-    source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side."
-  },
  {
   id: "peace",
   title: "Peace Pentagon",
