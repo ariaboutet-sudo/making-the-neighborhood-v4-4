@@ -1156,7 +1156,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Lesbian Avengers/rage.png",
       alt: "",
-      title: "'The Rage of All Women Condensed to the Point of Explosion",
+      title: "The Rage of All Women Condensed to the Point of Explosion",
       caption: "Recruitment poster for the Lesbian Avengers, 1993.",
       credit: "",
       quote: "",
@@ -1198,17 +1198,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceLabel: "Lesbian Avengers"
     },
     {
-      image: "images/Lesbian Avengers/anon-avengers-4.png",
-      alt: "",
-      title: "Vigil, 1992",
-      caption: "The avengers held a 24 hour vigil for Hattie Mae Cohens and Brian Mock, murdered in their home by a white supremacist firebomber.",
-      credit: "Photo by Carolina Kroon",
-      quote: "",
-      quoteCredit: "",
-      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
-      sourceLabel: "Lesbian Avengers"
-    },
-    {
       image: "images/Lesbian Avengers/anon-avengers-5.png",
       alt: "",
       title: "'Yup, We Recruit'",
@@ -1223,12 +1212,23 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       image: "images/Lesbian Avengers/fire-eaters.png",
       alt: "",
       title: "'The Fire Will Not Consume Us. We Take It & Make It Our Own'",
-      caption: "Fire-eating became a common symbolic action during the Lesbian Avengers' public actions after the murders of Hattie Mae Cohens and Brian Mock by firebomb. In defiance of the violence threatening LGBTQ lives, they chanted 'the fire will not consume us. We take it & make it our own.",
+      caption: "Fire-eating became a common symbolic action during the Lesbian Avengers' public actions after the murders of Hattie Mae Cohens and Brian Mock by firebomb. In defiance of the violence threatening LGBTQ lives, they chanted 'the fire will not consume us. We take it & make it our own.'",
       credit: "",
       quote: "",
       quoteCredit: "",
       sourceUrl: "https://villagepreservation.org/2014/11/12/eating-fire-a-brief-history-of-the-lesbian-avengers-in-nyc/",
       sourceLabel: "Village Preservation"
+    },
+     {
+      image: "images/Lesbian Avengers/anon-avengers-4.png",
+      alt: "",
+      title: "Vigil, 1992",
+      caption: "The avengers held a 24 hour vigil for Hattie Mae Cohens and Brian Mock.",
+      credit: "Photo by Carolina Kroon",
+      quote: "",
+      quoteCredit: "",
+      sourceUrl: "https://www.lesbianavengers.com/images/photos1.shtml",
+      sourceLabel: "Lesbian Avengers"
     },
     {
       image: "images/Lesbian Avengers/burning-butch.png",
