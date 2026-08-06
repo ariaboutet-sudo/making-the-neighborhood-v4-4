@@ -19,23 +19,21 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png
 }).addTo(map);
 
 /*
-  Direct thematic lens: a real HTML element placed inside Leaflet's map
-  container. It sits above all map rendering and remains click-through.
+  Decorative Tompkins Square Park overlay.
+  It is non-clickable and appears only when no theme is selected.
 */
 
-/* A faint outline keeps the park legible even when no theme is selected. */
-const parkHighlight = L.polygon([
-  [40.72835, -73.98338],
-  [40.72837, -73.97988],
-  [40.72468, -73.97983],
-  [40.72467, -73.98334]
-], {
-  color: "transparent",
-  weight: 0,
-  fillColor: "#8fb58f",
-  fillOpacity: 0.35,
-  interactive: false
-}).addTo(map);
+const parkImageOverlay = L.imageOverlay(
+  "images/Tompkins/claim.png",
+  [
+    [40.72830, -73.98315],
+    [40.72475, -73.97995]
+  ],
+  {
+    opacity: 0.3,
+    interactive: false
+  }
+).addTo(map);
 
 let activeTheme = null;
 let currentSlides = [];
@@ -50,6 +48,7 @@ function stableRotation(id) {
 
 function makeIcon(color, id, isPark = false) {
   const rotation = stableRotation(id);
+
   return L.divIcon({
     className: "",
     iconSize: isPark ? [25, 25] : [18, 18],
@@ -58,19 +57,6 @@ function makeIcon(color, id, isPark = false) {
       style="--marker-color:${color};--marker-rotation:${rotation}deg"></div>`
   });
 }
-
-const parkMarker = L.marker(PARK_SITE.coordinates, {
-  icon: makeIcon("#7e8574", PARK_SITE.id, true),
-  keyboard: true,
-  title: PARK_SITE.title,
-  zIndexOffset: 1000
-}).addTo(map);
-
-parkMarker.bindTooltip(PARK_SITE.title, {
-  direction: "top",
-  offset: [0, -11]
-});
-parkMarker.on("click", showPark);
 
 MAP_SITES.forEach(site => {
   const marker = L.marker(site.coordinates, {
