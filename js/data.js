@@ -1388,15 +1388,6 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   ]
 },
 {
-  image: "images/Loisaida Townhouse/1980.png",
-  alt: "",
-  title: "",
-  caption: "",
-  credit: "",
-  sourceLabel: "",
-  sourceUrl: ""
-},
-{
   id: "nuyorican",
   title: "Nuyorican Poets Cafe",
   address: "236 East 3rd Street",
