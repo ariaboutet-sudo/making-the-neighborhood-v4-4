@@ -1435,7 +1435,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceUrl: ""
     },
     {
-      image: "images/Peace Pentagon/Igal_WRL-1981.png",
+      image: "images/Peace Pentagon/Igal-WRL-1981.png",
       alt: "",
       title: "",
       caption: "",
