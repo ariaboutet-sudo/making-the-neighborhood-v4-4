@@ -57,6 +57,37 @@ const PARK_SITE = {
 
 const MAP_SITES = [
   {
+  id: "bandshell",
+  title: "Tompkins Square Park Bandshell",
+  address: "Tompkins Square Park",
+  coordinates: [40.72663, -73.98130],
+  themes: ["culture", "place", "housing"],
+  period: "c. 1966–1991",
+  description: "The Tompkins Square Park bandshell served for decades as one of the Lower East Side's principal gathering places for concerts, political rallies, poetry readings, festivals, and community meetings. By the late 1980s it had also become an important gathering space for unhoused residents and neighborhood activists. After years of conflict over policing, homelessness, and the future of the park, the city demolished the bandshell during the park's 1991 renovation. Its destruction became a powerful symbol of the broader transformation of Tompkins Square Park from a contested commons into a more tightly regulated public space.",
+  quote: "",
+  source: "Tobocman; Kifner; Bellafante; Patterson.",
+  slides: [
+    {
+      image: "images/Bandshell/bird.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+{
+      image: "images/Bandshell/mike-evans.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
+},
+{
     id: "east13",
     title: "East 13th Street Squats",
     address: "East 13th Street near Avenues A and B",
@@ -1389,7 +1420,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   credit: "",
   sourceLabel: "",
   sourceUrl: ""
-}
+},
   {
   id: "pyramid",
   title: "Pyramid Club",
