@@ -1343,6 +1343,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
 {
   id: "lungs",
+  title: "LUNGS (Loisaida United Neighborhood Gardens) / El Sol Brillante"
   address: "El Sol Brillante Garden, 522–528 East 12th Street",
   coordinates: [40.72835, -73.98115],
   themes: ["place", "mutualAid"],
