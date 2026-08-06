@@ -70,6 +70,7 @@ MAP_SITES.forEach(site => {
   return;
 }
   console.log("Creating marker for:", site);
+  console.log(site.id);
   const marker = L.marker(site.coordinates, {
     icon: makeIcon("#9b958b", site.id),
     keyboard: true,
