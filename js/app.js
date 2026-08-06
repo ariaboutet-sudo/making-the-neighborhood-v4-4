@@ -98,9 +98,15 @@ function selectTheme(key) {
   document.getElementById("site-detail").innerHTML = "";
   activeTheme = activeTheme === key ? null : key;
 
-  if (activeTheme && map.hasLayer(parkHighlight)) {
-    map.removeLayer(parkHighlight);
+  if (activeTheme) {
+  if (map.hasLayer(parkImageOverlay)) {
+    map.removeLayer(parkImageOverlay);
   }
+} else {
+  if (!map.hasLayer(parkImageOverlay)) {
+    parkImageOverlay.addTo(map);
+  }
+}
 
   renderButtons();
   renderThemeCopy();
