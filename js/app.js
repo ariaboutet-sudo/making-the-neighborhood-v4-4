@@ -158,12 +158,21 @@ function selectTheme(key) {
 
     );
 
-  } else {
+    } else {
 
     mapWrap.classList.remove("theme-lens-active");
 
     mapWrap.style.removeProperty("--active-theme-color");
 
+  }
+
+  const themeLens = document.getElementById("theme-lens");
+
+  if (activeTheme) {
+    themeLens.style.backgroundColor = MAP_THEMES[activeTheme].color;
+    themeLens.style.opacity = "0.25";
+  } else {
+    themeLens.style.opacity = "0";
   }
 
 }
