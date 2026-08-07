@@ -17,3 +17,4 @@ Unzip and drag the entire `making-the-neighborhood-v4-3` folder into Netlify.
 
 
 Version 4.4 removes all placeholder quotations so they can be added later.
+
