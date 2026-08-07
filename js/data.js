@@ -1,35 +1,35 @@
 const MAP_THEMES = {
   housing: {
     title: "Housing & Collective Self-Determination",
-    color: "#b97f75",
+    color: "#CB4154",
     vision: "HOUSING BEYOND PROFIT",
     practices: "Squatting • Encampments • Rent strikes • Direct Action • Coalition Building • Mutual Defense"
   },
 
-  mutualAid: {
+   mutualAid: {
     title: "Mutual Aid",
-    color: "#8fa084",
+    color: "#C97A3A",
     vision: "CARE BEYOND INSTITUTIONS",
     practices: "Community-Controlled Institutions • Harm Reduction • Collective Care • Resource Re/Distribution • Housing Justice • Self Governance • Commons Stewardship • DIY Infrastructure"
   },
 
-  queer: {
+   queer: {
     title: "Queer Liberation",
-    color: "#8197a6",
+    color: "#C9A0DC",
     vision: "QUEER WORLD-MAKING",
     practices: "Mutual Aid • Cultural Production • Visibility • Chosen Family • Political Education • Public Celebration • Direct Action • Coalition Building"
   },
 
-  culture: {
+    culture: {
     title: "Cultural Resistance",
-    color: "#c69c6d",
+    color: "#68C2C2",
     vision: "CULTURE AS COLLECTIVE / POLITICAL PRACTICE",
     practices: "Murals • Bomba y plena • DIY Publishing & Zines • Public Performance • Graffiti • Wheatpasting / Flyering • Community Venues"
   },
 
-  place: {
+    place: {
     title: "Collective Place-Making",
-    color: "#d1a65a",
+    color: "#78B96B",
     vision: "MAKING THE NEIGHBORHOOD",
     practices: "Reclaiming Vacant Lots & Buildings • Self-Built Spaces • Collective Maintenance • Community Design • Neighborhood Beautification"
   }
