@@ -176,7 +176,6 @@ function selectTheme(key) {
 } else {
   themeLens.style.opacity = "0";
 }
-}
 
 
 function renderThemeCopy() {
