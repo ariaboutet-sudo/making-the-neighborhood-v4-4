@@ -1163,7 +1163,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       caption: "",
       credit: "",
       sourceLabel: "kenkelebahouse.org",
-      sourceUrl: "https://kenkelebahouse.org"
+      sourceUrl: "https://kenkeleba.org"
     },
     {
   type: "quote",
