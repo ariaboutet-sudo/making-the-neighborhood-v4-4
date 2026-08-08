@@ -115,8 +115,8 @@ const MAP_SITES = [
     {
       image: "images/Bullet Space/mystery.png",
       alt: "",
-      title: "Melvin Way [1954-2024].",
-      caption: "Visionary artist Melvin Way displays one of his dense ink-and-tape draws, which Bullet Space co-founder Andrew Castrucci called “talismans of protection” (Brooklyn Rail, 2010). Way’s debut exhibition ‘Resistance of Memory’ opened at Bullet Space in 1991. Castrucci went on to serve as a translator between Way - who was schizophrenic - and the art world; and Bullet Space hosted two more shows: ‘a continuation of something else’ (1996) and the retrospective ‘…And One More Thing’. (2024).",
+      title: "Melvin Way [1954-2024]",
+      caption: "Visionary artist Melvin Way displays one of his dense ink-and-tape drawings, which Bullet Space co-founder Andrew Castrucci called “talismans of protection” (Brooklyn Rail, 2010). Way’s debut exhibition ‘Resistance of Memory’ opened at Bullet Space in 1991. Castrucci went on to serve as a translator between Way , who was schizophrenic, and the art world; and Bullet Space hosted two more shows of his work: ‘a continuation of something else’ (1996) and the retrospective ‘…And One More Thing’. (2024).",
       credit: "Photograph by Andrew Castrucci, courtesy of Edline Gallery, New York.",
       sourceLabel: "New York Times",
       sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
