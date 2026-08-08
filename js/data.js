@@ -1514,7 +1514,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   alt: "",
   title: "Unknown performer at 11th St. Community Garden's Live Music Series, 2025",
   caption: "11th Street Community Garden, 422 E. 11th St.",
-  credit: "The 11th St. gardens also contain a free library & wifi.",
+  credit: "",
   sourceLabel: "11th Street Community Garden",
   sourceUrl: "https://blog.11th.garden/june-2025/"
 },
@@ -1546,7 +1546,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   sourceUrl: "https://panchosgarden.org/gallery/"
 },
 {
-  image: "images/LUNGS/insane-ent.png",
+  image: "images/LUNGS/insane-ent.jpg",
   alt: "",
   title: "'Insane-ent' public art at Pancho's Garden. 'Ents' are wild tree-creatures from J.R.R. Tolkien's 'Lord of the Rings.'",
   caption: "Francisco 'Pancho' Ramos Community Garden, 703 E. 9th St.",
