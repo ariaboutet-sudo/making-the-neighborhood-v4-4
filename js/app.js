@@ -420,6 +420,19 @@ document.addEventListener("keydown", (event) => {
     }
   }
 });
+overlayImage.addEventListener("click", () => {
+  if (imageDragging) return;
+
+  imageZoomed = !imageZoomed;
+
+  if (imageZoomed) {
+    overlayImage.classList.add("zoomed");
+  } else {
+    resetImageZoom();
+  }
+
+  updateImageTransform();
+});
 
 document
   .getElementById("site-title-home")
