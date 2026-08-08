@@ -181,11 +181,6 @@ function renderMarkers() {
       marker.addTo(map);
     }
   });
-
- /* Decorative park overlay shown only on the home view. */
-if (!activeTheme && !map.hasLayer(parkImageOverlay)) {
-  parkImageOverlay.addTo(map);
-}
 }
 
 function showPark() {
@@ -206,9 +201,6 @@ function showPark() {
 }
 function goHome() {
   activeTheme = null;
-  if (!map.hasLayer(parkImageOverlay)) {
-  parkImageOverlay.addTo(map);
-}
   renderButtons();
   renderThemeCopy();
   renderMarkers();
