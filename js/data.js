@@ -201,14 +201,8 @@ const MAP_SITES = [
       sourceUrl: ""
 
     }
-
   ]
-
 },
-
-{
-
-  id: "east13",
 {
     id: "east13",
     title: "East 13th Street Squats",
