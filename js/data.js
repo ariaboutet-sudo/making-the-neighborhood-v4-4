@@ -70,20 +70,29 @@ const MAP_SITES = [
     {
       image: "images/Bandshell/bird.png",
       alt: "",
-      title: "",
+      title: "Bird's love for the bandshell.",
       caption: "",
-      credit: "",
+      credit: "Seth Tobocman, War in the Neighborhood.",
       sourceLabel: "",
       sourceUrl: ""
     },
 {
       image: "images/Bandshell/mike-evans.png",
       alt: "",
-      title: "",
+      title: "The bandshell, Memorial Day Weekend 1991, shortly before it was demolished.",
       caption: "",
-      credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      credit: "Photograph by Mike Evans.",
+      sourceLabel: "https://villagepreservation.org/2023/06/01/signaling-change-remembering-the-tompkins-square-park-bandshell/",
+      sourceUrl: "Village Preservation"
+    },
+    {
+      image: "images/Bandshell/ginsberg.png",
+      alt: "",
+      title: "Allen Ginsberg reads a poem demanding affordable housing at the bandshell as part of 'Resist to Exist', May 1991.",
+      caption: "",
+      credit: "Photgraph by Q. Sakamaki.",
+      sourceLabel: "https://villagepreservation.org/2023/06/01/signaling-change-remembering-the-tompkins-square-park-bandshell/",
+      sourceUrl: "Mother Jones"
     }
   ]
 },
