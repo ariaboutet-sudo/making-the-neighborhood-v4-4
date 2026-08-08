@@ -1716,6 +1716,35 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   description: "On New Year's Day 1980, more than thirty artists associated with Collaborative Projects (Colab) occupied an abandoned city-owned building and transformed it into a temporary exhibition criticizing New York City's housing and land-use policies. The exhibition argued that vacant buildings and speculative real-estate practices displaced working-class residents while neighborhoods were left to decay. Police shut down the exhibition after a single day and confiscated the artwork, but the artists successfully pressured the city into negotiations. As a compromise, the city offered them the storefront at 156 Rivington Street, where ABC No Rio was founded later that year. The Real Estate Show thus became one of the defining moments linking experimental art, direct action, and struggles over urban space on the Lower East Side.",
   quote: "",
   source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
+   slides: [
+    {
+      image: "images/real estate show/octopus.jpg",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: ".",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/real estate show/real-estate-show.jpg",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: ".",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/real estate show/skeletal-estate.jpg",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: ".",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+  ]
 },
 {
   id: "wigstock",
