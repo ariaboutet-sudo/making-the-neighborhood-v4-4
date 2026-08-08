@@ -361,6 +361,7 @@ resetImageZoom();
   document.getElementById("next-slide").hidden = !multiple;
 }
 const overlayImage = document.getElementById("overlay-image");
+overlayImage.draggable = false;
 
 let imageZoomed = false;
 let imageDragging = false;
