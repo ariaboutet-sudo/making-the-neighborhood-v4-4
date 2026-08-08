@@ -72,14 +72,14 @@ const MAP_SITES = [
       alt: "",
       title: "Bird's love for the bandshell.",
       caption: "",
-      credit: "Seth Tobocman, War in the Neighborhood.",
+      credit: "Seth Tobocman, War in the Neighborhood, p. 277.",
       sourceLabel: "",
       sourceUrl: ""
     },
 {
       image: "images/Bandshell/mike-evans.png",
       alt: "",
-      title: "Memorial Day Weekend 1991, shortly before the bandshell was demolished.",
+      title: "Memorial Day Weekend, 1991, shortly before the bandshell was demolished.",
       caption: "",
       credit: "Photograph by Mike Evans.",
       sourceLabel: "Village Preservation",
@@ -293,9 +293,9 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     {
       image: "images/GOLES/GOLES-2.png",
       alt: "",
-      title: "GOLES' Mission",
+      title: "GOLES' Mission, published by Village Preservation, 2017.",
       caption: "",
-      credit: "Published by Village Preservation, May 31, 2017.",
+      credit: "",
       sourceLabel: "Village Preservation",
       sourceUrl: "https://villagepreservation.org/2017/05/31/2017-village-awardee-goles/"
     },
