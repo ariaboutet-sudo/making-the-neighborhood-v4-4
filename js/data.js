@@ -302,7 +302,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     {
       image: "images/GOLES/GOLES-3.png",
       alt: "",
-      title: "Stand Up to Landlords!",
+      title: "GOLES Organizing: Stand Up to Landlords!",
       caption: "",
       credit: "",
       sourceLabel: "GOLES",
