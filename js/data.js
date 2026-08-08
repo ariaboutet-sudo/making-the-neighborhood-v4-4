@@ -93,7 +93,7 @@ const MAP_SITES = [
   description: "Occupied by a group of artist squatters in 1986, Bullet Space transformed an abandoned building at 292 East 3rd Street into both collective housing and a center for politically engaged art. Residents rehabilitated the building while using its exhibition and printmaking spaces to produce work responding directly to struggles over housing, gentrification, drugs, AIDS, and neighborhood displacement. Bullet Space’s most ambitious project, Your House Is Mine, brought together Lower East Side artists to create prints that circulated first as street posters before being assembled into an artist’s book, collapsing the distinction between gallery exhibition, political communication, and direct action. The building eventually transitioned from a squat into resident-controlled housing, while Bullet Space continued as a nonprofit artist collective and gallery committed to work outside the commercial gallery system.",
   quote: "",
   source: "Bullet Space; Miller & Wolf.",
-},
+  slides: [
 {
       image: "images/Bullet Space/your-house-is-mine.png",
       alt: "",
@@ -184,15 +184,31 @@ const MAP_SITES = [
       sourceLabel: "",
       sourceUrl: ""
     },
-    {
+       {
+
       image: "images/Bullet Space/trumps-america.png",
+
       alt: "",
+
       title: "",
+
       caption: "",
+
       credit: "",
+
       sourceLabel: "",
+
       sourceUrl: ""
-    },
+
+    }
+
+  ]
+
+},
+
+{
+
+  id: "east13",
 {
     id: "east13",
     title: "East 13th Street Squats",
