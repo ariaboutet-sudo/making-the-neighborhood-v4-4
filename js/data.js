@@ -1163,7 +1163,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       caption: "",
       credit: "",
       sourceLabel: "kenkelebahouse.org",
-      sourceUrl: "https://kenkeleba.org"
+      sourceUrl: "https://www.kenkeleba.org/about"
     },
     {
   type: "quote",
@@ -1181,8 +1181,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
         "",
       caption: "",
       credit: "",
-      sourceUrl: "https://www.artforum.com/news/joe-overstreet-1933-2019-243676/",
-      sourceLabel: "Art Forum",
+      sourceUrl: "",
+      sourceLabel: "",
     },
 
     {
