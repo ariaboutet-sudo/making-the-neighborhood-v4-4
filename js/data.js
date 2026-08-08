@@ -122,6 +122,15 @@ const MAP_SITES = [
       sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
     },
     {
+      image: "images/Bullet Space/melvin.png",
+      alt: "",
+      title: "Melvin Way artwork, 1989",
+      caption: "",
+      credit: "Melvin Way Estate/ARS, New York, via Andrew Edlin Gallery, New York.",
+      sourceLabel: "New York Times",
+      sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
+    },
+    {
       image: "images/Bullet Space/bullet-space.png",
       alt: "",
       title: "Exterior of Bullet Space, date unknown.",
