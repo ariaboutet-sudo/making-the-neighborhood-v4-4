@@ -1812,18 +1812,18 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Peace Pentagon/9-11.png",
       alt: "",
-      title: "",
+      title: "'An Eye for an Eye Makes the Whole World Blind'. Peace Pentagon after the September 11th World Trade Center bombing, 2001",
       caption: "",
-      credit: "",
+      credit: "Photograph by Ed Hedemann. Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
     {
       image: "images/Peace Pentagon/WRL-office-2014.png",
       alt: "",
-      title: "'An Eye for an Eye Makes the Whole World Blind'. Peace Pentagon after the September 11th World Trade Center bombing, 2001.",
+      title: "War Resister's League office, 2014",
       caption: "",
-      credit: "",
+      credit: "Photograph by Jade Doskow",
       sourceLabel: "",
       sourceUrl: ""
     }
