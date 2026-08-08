@@ -18,29 +18,6 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png
   attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
 }).addTo(map);
 
-/*
-  Decorative Tompkins Square Park overlay.
-  It is non-clickable and appears only when no theme is selected.
-*/
-
-const parkImageOverlay = L.polygon(
-  [
-    [40.72835, -73.98338], // northwest
-    [40.72837, -73.97988], // northeast
-    [40.72468, -73.97983], // southeast
-    [40.72467, -73.98334]  // southwest
-  ],
-  {
-    color: "#8fa084",
-    weight: 1,
-    opacity: 0.35,
-    fillColor: "#8fa084",
-    fillOpacity: 0.22,
-    interactive: false,
-    className: "park-glow"
-  }
-).addTo(map);
-
 let activeTheme = null;
 let currentSlides = [];
 let currentSlideIndex = 0;
