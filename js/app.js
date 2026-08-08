@@ -286,7 +286,7 @@ function renderCurrentSlide() {
   if (!slide) return;
 
   const image = document.getElementById("overlay-image");
-  image.classList.remove("zoomed");
+resetImageZoom();
   const quotePanel = document.getElementById("overlay-quote");
   const quoteText = document.getElementById("overlay-quote-text");
   const quoteAttribution = document.getElementById("overlay-quote-attribution");
