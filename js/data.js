@@ -1376,9 +1376,9 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Loisaida Townhouse/1980.png",
       alt: "",
-      title: "",
+      title: "Loisaid Townhouse, corner of Avenue C & E. 4th St., 1980.",
       caption: "",
-      credit: "",
+      credit: "Photgraph by Marlis Momber. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     }
