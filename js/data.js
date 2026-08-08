@@ -873,7 +873,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
    {
     image: "images/La Plaza Cultural/LLC-4.png",
     alt: "",
-    title: "Map or artist's contributions to 'La Lucha Continua'.",
+    title: "Map of artist's contributions to 'La Lucha Continua'.",
     caption: "",
     credit: "",
     sourceUrl: "https://laluchaartmakersinc.org/",
