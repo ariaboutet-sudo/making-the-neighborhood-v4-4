@@ -836,7 +836,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     },
     {
       image: "images/La Plaza Cultural/LLC-north-wall.png",
-      title: "'La Lucha Continua',",
+      title: "'La Lucha Continua' mural project.",
       alt: "Murals celebrating Puerto Rican culture, political resistance, and neighborhood resiliency - installed on the northern wall of La Plaza Cultural, 1985.",
       caption: "Murals from 'La Lucha Continua', a 1985 Artmakers Inc. collaborative mural project led by Eva Cockroft. The murals were installed on the walls of buildings surrounding La Plaza Cultural & celebrate Puerto Rican culture, political struggle, and neighborhood resistance.",
       credit: "Photographer unknown. Courtesy of Artmakers Inc.",
@@ -863,8 +863,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   },
   {
     image: "images/La Plaza Cultural/LLC-3.png",
-    alt: "'NOT for SALE'. Detail of 'La Lucha Continua' mural project.",
-    title: "La Lucha Continua",
+    alt: "",
+    title: "'NOT for SALE'. Detail of 'La Lucha Continua' mural project.",
     caption: "",
     credit: "Photographer unknown. Courtesy of Artmakers Inc.",
     sourceUrl: "https://www.laluchaartmakers.org/",
@@ -882,7 +882,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   {
     image: "images/La Plaza Cultural/LLC-5.png",
     alt: "La Lucha Continua mural.",
-    title: "'La Lucha Continua', 2017.",
+    title: "'La Lucha Continua', now faded & in need of repair, 2017.",
     caption: "",
     credit: "",
     sourceUrl: "https://www.laluchaartmakers.org/",
