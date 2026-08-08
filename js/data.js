@@ -40,19 +40,6 @@ const PARK_SITE = {
   title: "Tompkins Square Park",
   address: "Avenue A–B, East 7th–10th Streets",
   coordinates: [40.72655, -73.98155],
-  period: "geographic + symbolic center",
-  slides: [
-   
-    {
-      image: "images/tompkins-living-proof-clayton.jpg",
-      alt: "Nighttime crowd at Tompkins Square Park with raised fists and people gathered behind a metal barricade.",
-      title: "Tompkins Square Park",
-      caption: "A crowd gathered in the park, photographed by Clayton Patterson.",
-      credit: "Photograph by Clayton Patterson; reproduced from Living Proof New York.",
-      sourceLabel: "Living Proof New York, “Tompkins Square Park: the last 40 Years in New York City”",
-      sourceUrl: "https://www.livingproofnewyork.com/tompkins-square-park-the-last-40-years-in-new-york-city/"
-    }
-  ]
 };
 
 const MAP_SITES = [
@@ -103,9 +90,9 @@ const MAP_SITES = [
   coordinates: [40.72288, -73.98217],
   themes: ["housing", "culture", "mutualAid", "place"],
   period: "Occupied 1983; legalized 2002",
-  description: "Occupied by artists and activists in 1983, Bullet Space became one of the Lower East Side's best-known squats and an important center of collectively organized housing, experimental art, and political organizing. Residents rebuilt the abandoned building through collective labor while hosting exhibitions, performances, meetings, and neighborhood events. Like other Lower East Side squats, Bullet Space challenged the idea that vacant buildings should remain empty while people lacked housing, instead demonstrating how residents could collectively reclaim and steward urban space. Following years of organizing and negotiations with the city, the building became a limited-equity cooperative in 2002.",
+  description: "Occupied by a group of artist squatters in 1986, Bullet Space transformed an abandoned building at 292 East 3rd Street into both collective housing and a center for politically engaged art. Residents rehabilitated the building while using its exhibition and printmaking spaces to produce work responding directly to struggles over housing, gentrification, drugs, AIDS, and neighborhood displacement. Bullet Space’s most ambitious project, Your House Is Mine, brought together Lower East Side artists to create prints that circulated first as street posters before being assembled into an artist’s book, collapsing the distinction between gallery exhibition, political communication, and direct action. The building eventually transitioned from a squat into resident-controlled housing, while Bullet Space continued as a nonprofit artist collective and gallery committed to work outside the commercial gallery system.",
   quote: "",
-  source: "Starecheski; Tobocman; Bagchee.",
+  source: "Bullet Space; Miller & Wolf.",
 },
 {
     id: "east13",
