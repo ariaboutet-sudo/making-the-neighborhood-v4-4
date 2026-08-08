@@ -106,29 +106,29 @@ const MAP_SITES = [
     {
       image: "images/Bullet Space/your-house-is-mine-2.png",
       alt: "",
-      title: "",
+      title: "'You House is Mine', large format book, projected spearheaded by Andrew Castrucci and Nadia Coën.",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Manhattan Sideways",
+      sourceUrl: "https://sideways.nyc/discover/6uSHI4GkUkWPfopW5YWrmx/bullet-space"
     },
     {
       image: "images/Bullet Space/your-house-is-mine-3.png",
-      alt: "",
+      alt: "'Your House is Mine', oversized artists' book.",
       title: "",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/collection/castrucci-bullet-space-your-house-is-mine/"
     },
     {
       image: "images/Bullet Space/mystery.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      title: "Melvin Way [1954-2024].",
+      caption: "Visionary artist Melvin Way displays one of his dense ink-and-tape draws, which Bullet Space co-founder Andrew Castrucci called “talismans of protection” (Brooklyn Rail, 2010). Way’s debut exhibition ‘Resistance of Memory’ opened at Bullet Space in 1991. Castrucci went on to serve as a translator between Way - who was schizophrenic - and the art world; and Bullet Space hosted two more shows: ‘a continuation of something else’ (1996) and the retrospective ‘…And One More Thing’. (2024).",
+      credit: "Photograph by Andrew Castrucci, courtesy of Edline Gallery, New York.",
+      sourceLabel: "New York Times",
+      sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
     },
     {
       image: "images/Bullet Space/bullet.png",
