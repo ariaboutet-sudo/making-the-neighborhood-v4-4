@@ -444,6 +444,14 @@ overlayImage.addEventListener("mousedown", (event) => {
   overlayImage.classList.add("dragging");
   event.preventDefault();
 });
+window.addEventListener("mousemove", (event) => {
+  if (!imageDragging) return;
+
+  imageOffsetX = event.clientX - imageStartX;
+  imageOffsetY = event.clientY - imageStartY;
+
+  updateImageTransform();
+});
 
 document
   .getElementById("site-title-home")
