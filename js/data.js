@@ -1447,13 +1447,22 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   ,
   slides: [
     {
-      image: "images/LUNGS/el-sol-brillante.png",
+      image: "images/LUNGS/el-sol.png",
       alt: "El Sol Brillante Garden.",
       title: "El Sol Brillante",
       caption: "One of the Lower East Side's oldest community gardens and a gathering place for LUNGS events.",
       credit: "",
+      sourceLabel: "El Sol Brillante",
+      sourceUrl: "https://elsolbrillante.org/about/"
+    },
+    {
+      image: "images/LUNGS/maps.png",
+      alt: "El Sol Brillante Garden.",
+      title: "El Sol Brillante",
+      caption: "",
+      credit: "",
       sourceLabel: "LUNGS",
-      sourceUrl: "https://lungsnyc.org/"
+      sourceUrl: "https://lungsnyc.org/wp-content/uploads/2022/10/LUNGS2_map_2020a-2-scaled.jpg"
     }
   ]
 },
