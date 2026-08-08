@@ -1501,7 +1501,25 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 
   slides: [
 
-   {
+    {
+      image: "images/Nuyorican/before.png",
+      alt: "",
+      title: "Exterior of the Nuyorican before its renovation in 2023, featuring mural of co-founder Pedro Pietri.",
+      caption: "",
+      credit: "Photographer unknown, courtesy of NYCDDC & NYC Cultural Affairs.",
+      sourceLabel: "Untapped Cities",
+      sourceUrl: "https://www.untappedcities.com/nuyorican-poets-cafe-restoration-nyc/"
+    }, 
+    {
+      image: "images/Nuyorican/2024.png",
+      alt: "",
+      title: "Performer at the Nuyorican, 2024.",
+      caption: "",
+      credit: "Photographer unknown, courtesy of NYCDDC & NYC Cultural Affairs.",
+      sourceLabel: "Untapped Cities",
+      sourceUrl: "https://www.untappedcities.com/nuyorican-poets-cafe-restoration-nyc/"
+    }, 
+    {
       image: "images/Nuyorican/founders.png",
       alt: "",
       title: "Some of the founding poets of the Nuyorican, from left to right: Miguel Algarín, Lucky CienFuegos, & Richard August.",
@@ -1541,14 +1559,14 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   type: "quote",
   title: "",
   quote: "[The Nuyorican was] this space that, yes, was in conversation with hip-hop. Yes, was in conversation with the beat poets. But was also in conversation with something that was inherently Puerto Rican, inherently Caribbean, inherently Latinx…What we name spoken word or slam or esto y lo otro, we have had names for.",
-  attribution: "Elizabeth Acevedo, Dominican-American poet, speaking about“declamación”, a Caribbean & Latin American spoken word poetry tradition. ",
+  attribution: "Elizabeth Acevedo, Dominican-American poet, speaking about “declamación”, a Caribbean & Latin American spoken word poetry tradition. ",
   sourceLabel: "The New York Times",
   sourceUrl: "https://www.nytimes.com/2018/12/06/style/nuyorican-poets-archive.html"
   },
    {
       image: "images/Nuyorican/nuyorican-crowd.png",
       alt: "",
-      title: "Friday night crowd at the Nuyorican, late 90s",
+      title: "Friday night crowd at the Nuyorican, late 90s.",
       caption: "",
       credit: "",
       sourceLabel: "https://frank151.com/rap-or-hip-hop-oriented-poetry-how-the-nuyorican-poets-cafe-became-a-rite-of-passage-for-hip-hop-mcs-in-the-90s/",
