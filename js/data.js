@@ -106,7 +106,7 @@ const MAP_SITES = [
     {
       image: "images/Bullet Space/your-house-is-mine-2.png",
       alt: "",
-      title: "'You House is Mine', large format book, project spearheaded by Andrew Castrucci and Nadia Coën.",
+      title: "'You House is Mine', large format artists' book, project spearheaded by Andrew Castrucci and Nadia Coën.",
       caption: "",
       credit: "",
       sourceLabel: "Manhattan Sideways",
