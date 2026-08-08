@@ -1500,6 +1500,14 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   source: "Nuyorican Poets Cafe; Miguel Algarín; Daniel Gallant.",
 },
  {
+  type: "quote",
+  title: "",
+  quote: "[The Nuyorican was] this space that, yes, was in conversation with hip-hop. Yes, was in conversation with the beat poets. But was also in conversation with something that was inherently Puerto Rican, inherently Caribbean, inherently Latinx…What we name spoken word or slam or esto y lo otro, we have had names for.",
+  attribution: "Elizabeth Acevedo, Dominican-American poet, speaking about“declamación”, a Caribbean & Latin American spoken word poetry tradition. ",
+  sourceLabel: "The NY Times",
+  sourceUrl: "https://www.nytimes.com/2018/12/06/style/nuyorican-poets-archive.html"
+},
+ {
   id: "peace",
   title: "Peace Pentagon",
   address: "339 Lafayette Street",
