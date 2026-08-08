@@ -830,7 +830,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       title: "La Plaza Cultural",
       alt: "",
       caption: "La Plaza Cultural in the foreground, with CHARAS Recycling to the left.",
-      credit: "Photograph by Josie Rolon. Published in 'Quality of Life in Loisaid' (1979).",
+      credit: "Photograph by Josie Rolon. Published in 'Quality of Life in Loisaida' (1979).",
       sourceLabel: "‘Quality of Life in Loisaida’ (1979)",
       sourceUrl: ""
     },
@@ -838,61 +838,61 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       image: "images/La Plaza Cultural/LLC-north-wall.png",
       title: "'La Lucha Continua',",
       alt: "Murals celebrating Puerto Rican culture, political resistance, and neighborhood resiliency - installed on the northern wall of La Plaza Cultural, 1985.",
-      caption: "",
+      caption: "Murals from 'La Lucha Continua', a 1985 Artmakers Inc. collaborative mural project led by Eva Cockroft. The murals were installed on the walls of buildings surrounding La Plaza Cultural & celebrate Puerto Rican culture, political struggle, and neighborhood resistance.",
       credit: "Photographer unknown. Courtesy of Artmakers Inc.",
       sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee.",
       sourceUrl: ""
     },
     {
-    image: "images/La-Lucha-Continua/LLC-1.png",
+    image: "images/La Plaza Cultural/LLC-1.png",
     alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
+    title: "Detail of 'La Lucha Continua' mural project.",
     caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
+    credit: "Photographer unknown. Courtesy of Artmakers Inc.",
+    sourceUrl: "https://www.laluchaartmakers.org/",
+    sourceLabel: "Artmakers Inc."
   },
     {
-    image: "images/La-Lucha-Continua/LLC-2.png",
+    image: "images/La Plaza Cultural/LLC-2.png",
     alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
+    title: "Detail of 'La Lucha Continua' mural project.",
     caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
+    credit: "Photographer unknown. Courtesy of Artmakers Inc.",
+    sourceUrl: "https://www.laluchaartmakers.org/",
+    sourceLabel: "Artmakers Inc."
   },
   {
-    image: "images/La-Lucha-Continua/LLC-3.png",
-    alt: "La Lucha Continua mural.",
+    image: "images/La Plaza Cultural/LLC-3.png",
+    alt: "'NOT for SALE'. Detail of 'La Lucha Continua' mural project.",
     title: "La Lucha Continua",
     caption: "",
-    credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
+    credit: "Photographer unknown. Courtesy of Artmakers Inc.",
+    sourceUrl: "https://www.laluchaartmakers.org/",
+    sourceLabel: "Artmakers Inc."
   },
    {
-    image: "images/La-Lucha-Continua/LLC-4.png",
-    alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
+    image: "images/La Plaza Cultural/LLC-4.png",
+    alt: "",
+    title: "Map or artist's contributions to 'La Lucha Continua'.",
     caption: "",
     credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
+    sourceUrl: "https://laluchaartmakersinc.org/",
+    sourceLabel: "Artmakers Inc."
   },
   {
-    image: "images/La-Lucha-Continua/LLC-5.png",
+    image: "images/La Plaza Cultural/LLC-5.png",
     alt: "La Lucha Continua mural.",
-    title: "La Lucha Continua",
+    title: "'La Lucha Continua', 2017.",
     caption: "",
     credit: "",
-    sourceUrl: "",
-    sourceLabel: ""
+    sourceUrl: "https://www.laluchaartmakers.org/",
+    sourceLabel: "Artmakers Inc."
   },
   {
       image: "images/La Plaza Cultural/dedication.png",
-      title: "'La Lucha Continua Dedication',",
+      title: "'La Lucha Continua' Dedication, 1985.",
       alt: "",
-      caption: "Flyer for a 'dedication fiesta' for 'La Lucha Continua' murals in La Plaza Cultural, September 14, 1985.",
+      caption: "Flyer for a 'dedication fiesta' for 'La Lucha Continua' mural project in La Plaza Cultural, September 14, 1985.",
       credit: "Courtesy of Rikki Asher",
       sourceLabel: "La Lucha Artmakers",
       sourceUrl: "laluchaartmakers.org/dedication2",
@@ -908,7 +908,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     },
      {
       image: "images/La Plaza Cultural/bimbo.png",
-      title: "Bimbo Rivas at the opening of 'La Lucha Continua' murals, 1981.",
+      title: "Bimbo Rivas at the beginning of 'La Lucha Continua' mural project, 1981. Click on the source link below to watch his performance.",
       alt: "",
       caption: "Poet, artist, & actvisit Bimbo Rivas speaking at the opening of 'La Lucha Continua'.",
       credit: "Video by John J. Hunt.",
@@ -1589,42 +1589,41 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   coordinates: [40.72668, -73.99455],
   themes: ["mutualAid", "place"],
   period: "Activist building, 1969–2016",
-  description: "A building that housed anti-war and social-justice organizations at below-market rents, providing durable physical infrastructure for organizing across movements.",
-  quote: "",
+  description: "Purchased by the War Resisters League in 1969, 339 Lafayette Street—later known as the “Peace Pentagon”—became a long-running home for peace, anti-war, social justice, and radical media organizations. Through the A. J. Muste Memorial Institute, the building provided movement groups with affordable downtown office, meeting, and organizing space, allowing organizations with different tactics and political traditions to work in close proximity and build networks across movements. Over its nearly five decades, the building housed organizations ranging from the War Resisters League and Women’s International League for Peace and Freedom to artist collectives and radical media projects including Political Art Documentation/Distribution (PAD/D) and Paper Tiger Television. Rather than functioning simply as inexpensive office space, 339 Lafayette became what Bagchee describes as a synergetic center of interconnected resistance: a place where activists met, planned actions, produced and circulated political media, stored materials, shared resources, and developed collaborations connecting neighborhood struggles to national and international movements.",
   source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
 
   slides: [
     {
       image: "images/Peace Pentagon/occupants-timeline.png",
       alt: "",
-      title: "",
+      title: "'Timeline of occupants, their rooms, & their actions at the Peace Pentagon, 1969-2016'",
       caption: "",
-      credit: "",
+      credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
     {
       image: "images/Peace Pentagon/actions.png",
       alt: "",
-      title: "",
+      title: "Timeline of actions organized - in part - by tenant organizations of the Peace Pentagon.",
       caption: "",
-      credit: "",
+      credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
     {
       image: "images/Peace Pentagon/actions-2.png",
       alt: "",
-      title: "",
+      title: "Continued: timeline of actions organized - in part - by tenant organizations of the Peace Pentagon.",
       caption: "",
-      credit: "",
+      credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
     {
       image: "images/Peace Pentagon/censored.png",
       alt: "",
-      title: "",
+      title: "'Ann Marie Buitrage Reads Agents' Names Censored by the U.S. Congress', video frames from Paper Tiger TV, 1981. PTTV was a collectively run media organization that seized the new infrastructure of public-access cable to create radical television.",
       caption: "",
       credit: "",
       sourceLabel: "",
@@ -1633,18 +1632,18 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Peace Pentagon/Igal-WRL-1981.png",
       alt: "",
-      title: "",
+      title: "Igal Roodenko, longtime War Resister's League activist, at WRL's office at the Peace Pentagon in 1981. Roodenko frequently housed anti-war activists & their families in a carriage house behind his apartment building.",
       caption: "",
-      credit: "",
+      credit: "Photograph by Brad Lyttle. Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
     {
       image: "images/Peace Pentagon/talks.png",
       alt: "",
-      title: "",
+      title: "'Talks Not Troops', exterior of the Peace Pentagon during the Gulf War, 1991.",
       caption: "",
-      credit: "",
+      credit: "Photograph by Ed Hedemann. Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
@@ -1660,7 +1659,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Peace Pentagon/WRL-office-2014.png",
       alt: "",
-      title: "",
+      title: "'An Eye for an Eye Makes the Whole World Blind'. Peace Pentagon after the September 11th World Trade Center bombing, 2001.",
       caption: "",
       credit: "",
       sourceLabel: "",
