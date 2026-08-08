@@ -386,9 +386,17 @@ document.getElementById("previous-slide").addEventListener("click", () => change
 document.getElementById("next-slide").addEventListener("click", () => changeSlide(1));
 document.addEventListener("keydown", (event) => {
   if (!document.getElementById("image-overlay").classList.contains("visible")) return;
+
   if (event.key === "ArrowLeft") changeSlide(-1);
   if (event.key === "ArrowRight") changeSlide(1);
-  if (event.key === "Escape") hideImageOverlay();
+
+  if (event.key === "Escape") {
+    if (imageZoomed) {
+      resetImageZoom();
+    } else {
+      hideImageOverlay();
+    }
+  }
 });
 
 document
