@@ -1497,10 +1497,11 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1973",
   description: "Founded in 1973 by Miguel Piñero, Miguel Algarín, and a circle of Puerto Rican writers and artists, the Nuyorican Poets Cafe emerged as a home for experimental poetry, theater, music, and performance rooted in the experiences of New York's Puerto Rican and other marginalized communities. Rejecting elite literary institutions, the Café cultivated an open stage where emerging artists, neighborhood residents, and internationally recognized writers performed alongside one another. Over the following decades it became one of the city's most influential centers for spoken word, bilingual literature, and community-based cultural production.",
   quote: "",
-  source: "Nuyorican Poets Cafe; Miguel Algarín; Daniel Gallant.",
-},
- {
-  type: "quote",
+  source: "",
+
+  slides: [
+
+    {
   title: "",
   quote: "[The Nuyorican was] this space that, yes, was in conversation with hip-hop. Yes, was in conversation with the beat poets. But was also in conversation with something that was inherently Puerto Rican, inherently Caribbean, inherently Latinx…What we name spoken word or slam or esto y lo otro, we have had names for.",
   attribution: "Elizabeth Acevedo, Dominican-American poet, speaking about“declamación”, a Caribbean & Latin American spoken word poetry tradition. ",
