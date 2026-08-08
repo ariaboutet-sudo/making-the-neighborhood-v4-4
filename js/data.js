@@ -1367,8 +1367,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   address: "East 9th Street (between Avenues B & C)",
   coordinates: [40.72618, -73.97882],
   themes: ["housing", "mutualAid", "place"],
-  period: "Completed 1988",
-  description: "The Loisaida Townhouses emerged from the Lower East Side's homesteading movement, demonstrating how abandoned buildings could be transformed into permanently affordable housing through resident organizing, sweat equity, and community-based development. Led by CHARAS and neighborhood organizers working alongside architects, planners, and public agencies, the project translated years of grassroots rehabilitation into new construction designed to remain accessible to low- and moderate-income residents. The townhouses represent an important moment when community self-determination influenced formal housing policy while preserving the neighborhood's commitment to collective ownership and affordability.",
+  description: "The Loisaida Townhouse, a former yeshiva dormitory at Avenue C and East 4th Street, became an important gathering place for neighborhood organizing during the 1970s. Its combination of large and small rooms allowed the building to function as an informal community center, hosting meetings where residents and organizers developed strategies for neighborhood revitalization and self-determination amid widespread abandonment and disinvestment. The building’s later history reflected the forces those organizers were struggling against: by the 1980s, the privately owned Townhouse was converted to market-rate housing and advertised as luxury condominiums, becoming an early sign of gentrification on Avenue C.",
   quote: "",
   source: "Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
 
@@ -1376,7 +1375,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Loisaida Townhouse/1980.png",
       alt: "",
-      title: "Loisaid Townhouse, corner of Avenue C & E. 4th St., 1980.",
+      title: "Loisaida Townhouse, corner of Avenue C & E. 4th St., 1980.",
       caption: "",
       credit: "Photgraph by Marlis Momber. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
