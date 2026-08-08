@@ -1560,8 +1560,8 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       title: "Friday night crowd at the Nuyorican, late 90s.",
       caption: "",
       credit: "",
-      sourceLabel: "https://frank151.com/rap-or-hip-hop-oriented-poetry-how-the-nuyorican-poets-cafe-became-a-rite-of-passage-for-hip-hop-mcs-in-the-90s/",
-      sourceUrl: "Frank",
+      sourceLabel: "Frank",
+      sourceUrl: "https://frank151.com/rap-or-hip-hop-oriented-poetry-how-the-nuyorican-poets-cafe-became-a-rite-of-passage-for-hip-hop-mcs-in-the-90s/",
     }, 
      {
   type: "quote",
