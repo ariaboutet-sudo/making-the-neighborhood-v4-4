@@ -95,6 +95,105 @@ const MAP_SITES = [
   source: "Bullet Space; Miller & Wolf.",
 },
 {
+      image: "images/Bullet Space/your-house-is-mine.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/your-house-is-mine-2.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/your-house-is-mine-3.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/mystery.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/bullet.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/bullet-space.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/resistance.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/resistance-1.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+     {
+      image: "images/Bullet Space/slowdown.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/survival.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Bullet Space/trumps-america.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+{
     id: "east13",
     title: "East 13th Street Squats",
     address: "East 13th Street near Avenues A and B",
