@@ -91,7 +91,7 @@ const MAP_SITES = [
       title: "Allen Ginsberg reads a poem demanding affordable housing at the bandshell as part of 'Resist to Exist', May 1991.",
       caption: "",
       credit: "Photgraph by Q. Sakamaki.",
-      sourceLabel: "https://villagepreservation.org/2023/06/01/signaling-change-remembering-the-tompkins-square-park-bandshell/",
+      sourceLabel: "https://www.motherjones.com/media/2008/09/tompkins-square-park-gentrification-q-sakamaki//",
       sourceUrl: "Mother Jones"
     }
   ]
