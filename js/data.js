@@ -142,7 +142,7 @@ const MAP_SITES = [
      {
       image: "images/Bullet Space/bullet.png",
       alt: "",
-      title: "Bullet: An Artist Collaborative",
+      title: "'Bullet: An Artist Collaborative'",
       caption: "Back cover of xeroxed 'zine 'Bullet: An Act of Resistance'",
       credit: "",
       sourceLabel: "Gallery 98",
@@ -160,7 +160,7 @@ const MAP_SITES = [
      {
       image: "images/Bullet Space/slowdown.png",
       alt: "",
-      title: "'Slowdown Children Growing', silkscreen print from 'Your House Is Mine', John Fekner, 1990.",
+      title: "'Slowdown Children Growing', silkscreen print from 'Your House Is Mine', John Fekner, 1990",
       caption: "",
       credit: "",
       sourceLabel: "Gallery 98",
@@ -169,7 +169,7 @@ const MAP_SITES = [
     {
       image: "images/Bullet Space/survival.png",
       alt: "",
-      title: "'Survival of the Fittest', screenprint from 'Your House Is Mine', Nadia Coën, 1989",
+      title: "'Survival of the Fittest?', screenprint from 'Your House Is Mine', Nadia Coën, 1989",
       caption: "",
       credit: "",
       sourceLabel: "Gallery 98",
@@ -181,7 +181,7 @@ const MAP_SITES = [
 
       alt: "",
 
-      title: "'Untitled (Poster Painting', Klara Lidén, at Bullet Space, date unknown.",
+      title: "'Untitled (Poster Painting)', Klara Lidén, at Bullet Space, date unknown.",
 
       caption: "",
 
