@@ -1736,7 +1736,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       sourceUrl: ""
     },
     {
-      image: "images/real estate show/skeletal-estate.png",
+      image: "images/real estate show/skeletal-estates.png",
       alt: "",
       title: "",
       caption: "",
