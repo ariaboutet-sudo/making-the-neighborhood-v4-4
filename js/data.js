@@ -1931,6 +1931,24 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
 },
 {
+  image: "images/Wigstock/z.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/z.o.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
   image: "images/Wigstock/new.png",
   alt: "",
   title: "Lady Bunny (center), with Neil Patrick Harris (right), and other performers at a revival of Wigstock in 2018.",
