@@ -1454,7 +1454,169 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       credit: "",
       sourceLabel: "LUNGS",
       sourceUrl: "https://lungsnyc.org/wp-content/uploads/2022/10/LUNGS2_map_2020a-2-scaled.jpg"
-    }
+    },
+    {
+  image: "images/LUNGS/ofrenda-covid-2022.png",
+  alt: "",
+  title: "Ofrenda for those who've passed from COVID-19, 2022.",
+  caption: "Campos Community Garden, 644 E. 12th St.",
+  credit: "",
+  sourceLabel: "Campos Community Garden",
+  sourceUrl: "https://www.facebook.com/camposcommunitygarden/photos"
+},
+{
+  image: "images/LUNGS/campos-earth-2025.png",
+  alt: "",
+  title: "Earth Celebration at Campos Community Garden, 2025",
+  caption: "Campos Community Garden, 644 E. 12th St.",
+  credit: "",
+  sourceLabel: "Campos Community Garden",
+  sourceUrl: "https://www.facebook.com/camposcommunitygarden/photos"
+},
+{
+  image: "images/LUNGS/campos-earth2-2025.png",
+  alt: "",
+  title: "Earth Celebration at Campos Community Garden, 2025",
+  caption: "Campos Community Garden, 644 E. 12th St.",
+  credit: "",
+  sourceLabel: "Campos Community Garden",
+  sourceUrl: "https://www.facebook.com/camposcommunitygarden/photos"
+},
+{
+  image: "images/LUNGS/campos-earth-2026.png",
+  alt: "",
+  title: "Earth Celebration outside of Campos Community Garden, 2026",
+  caption: "Campos Community Garden, 644 E. 12th St.",
+  credit: "",
+  sourceLabel: "Campos Community Garden, 644 E. 12th St.",
+  sourceUrl: "https://www.facebook.com/camposcommunitygarden/photos"
+},
+{
+  image: "images/LUNGS/campos-FAERIES.png",
+  alt: "",
+  title: "FAERIES performance at Campos Community Garden, 2026",
+  caption: "Campos Community Garden, 644 E. 12th St.",
+  credit: "",
+  sourceLabel: "Campos Community Garden",
+  sourceUrl: "https://www.facebook.com/camposcommunitygarden/photos"
+},
+{
+  image: "images/LUNGS/bokashi.png",
+  alt: "",
+  title: "Down to Earth Garden, 12th St. & Ave. B, offers workshops on bokashi (indoor composting), fermentation, & more.",
+  caption: "Down to Earth Garden, 546 E. 12th St.",
+  credit: "",
+  sourceLabel: "Down to Earth Garden",
+  sourceUrl: "https://downtoearthgarden.org/"
+},
+{
+  image: "images/LUNGS/music.png",
+  alt: "",
+  title: "Unknown performer at 11th St. Community Garden's Live Music Series, 2025",
+  caption: "11th Street Community Garden, 422 E. 11th St.",
+  credit: "The 11th St. gardens also contain a free library & wifi.",
+  sourceLabel: "11th Street Community Garden",
+  sourceUrl: "https://blog.11th.garden/june-2025/"
+},
+{
+  image: "images/LUNGS/green-1.png",
+  alt: "",
+  title: "Green Oasis Garden prioritizes native plants in their lush landscape architecture",
+  caption: "Green Oasis Garden, 370 E. 8th St.",
+  credit: "",
+  sourceLabel: "Manhattan Sideways",
+  sourceUrl: "https://sideways.nyc/discover/6pfjs8nfQu4oo1YwJ4Hmo7/green-oasis-community-garden-gilberts-sculpture-garden"
+},
+{
+  image: "images/LUNGS/green-2.png",
+  alt: "",
+  title: "Green Oasis Garden sculptures, artist unknown",
+  caption: "Green Oasis Garden, 370 E. 8th St.",
+  credit: "",
+  sourceLabel: "Manhattan Sideways",
+  sourceUrl: "https://sideways.nyc/discover/6pfjs8nfQu4oo1YwJ4Hmo7/green-oasis-community-garden-gilberts-sculpture-garden"
+},
+{
+  image: "images/LUNGS/weaving-love-letters.png",
+  alt: "",
+  title: "'Weaving Love Letters,' public art at Pancho's Garden, date unknown",
+  caption: "Francisco 'Pancho' Ramos Community Garden, 703 E. 9th St.",
+  credit: "",
+  sourceLabel: "Pancho's Garden",
+  sourceUrl: "https://panchosgarden.org/gallery/"
+},
+{
+  image: "images/LUNGS/insane-ent.png",
+  alt: "",
+  title: "'Insane-ent' public art at Pancho's Garden. 'Ents' are wild tree-creatures from J.R.R. Tolkien's 'Lord of the Rings.'",
+  caption: "Francisco 'Pancho' Ramos Community Garden, 703 E. 9th St.",
+  credit: "",
+  sourceLabel: "Pancho's Garden",
+  sourceUrl: "https://panchosgarden.org/gallery/"
+},
+{
+  image: "images/LUNGS/barbecue.png",
+  alt: "",
+  title: "Barbecue at Pancho's Garden, date unknown",
+  caption: "Francisco 'Pancho' Ramos Community Garden, 703 E. 9th St.",
+  credit: "",
+  sourceLabel: "Pancho's Garden",
+  sourceUrl: "https://panchosgarden.org/gallery/"
+},
+{
+  image: "images/LUNGS/history.png",
+  alt: "",
+  title: "6 & B's history, as recorded by member David Rougé. Click the link below to access the full article.",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://static1.squarespace.com/static/62532f48e6510f5da0697a55/t/62534329978772320f1d0eca/1649623852255/6BGardenBriefHistory.pdf"
+},
+{
+  image: "images/LUNGS/history-1986.png",
+  alt: "",
+  title: "Early garden, 1986.",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
+},
+{
+  image: "images/LUNGS/history-1990.png",
+  alt: "",
+  title: "6 & B in 1990",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
+},
+{
+  image: "images/LUNGS/history-2012.png",
+  alt: "",
+  title: "6 & B in 2012 after Hurricane Sandy",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
+},
+{
+  image: "images/LUNGS/history-2013.png",
+  alt: "",
+  title: "6 & B's 30th Anniversary",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
+},
+{
+  image: "images/LUNGS/history-2023.png",
+  alt: "",
+  title: "6 & B 40th Anniversary Party",
+  caption: "6 & B Garden, corner of 6th St. & Avenue B",
+  credit: "",
+  sourceLabel: "6 & B Garden",
+  sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
+},
   ]
 },
 {
