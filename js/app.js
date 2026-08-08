@@ -462,3 +462,9 @@ renderThemeCopy();
 renderMarkers();
 map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
 hideImageOverlay();
+window.addEventListener("mouseup", () => {
+  if (!imageDragging) return;
+
+  imageDragging = false;
+  overlayImage.classList.remove("dragging");
+});
