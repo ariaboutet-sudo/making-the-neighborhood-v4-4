@@ -106,20 +106,11 @@ const MAP_SITES = [
     {
       image: "images/Bullet Space/your-house-is-mine-2.png",
       alt: "",
-      title: "'You House is Mine', large format book, projected spearheaded by Andrew Castrucci and Nadia Coën.",
+      title: "'You House is Mine', large format book, project spearheaded by Andrew Castrucci and Nadia Coën.",
       caption: "",
       credit: "",
       sourceLabel: "Manhattan Sideways",
       sourceUrl: "https://sideways.nyc/discover/6uSHI4GkUkWPfopW5YWrmx/bullet-space"
-    },
-    {
-      image: "images/Bullet Space/your-house-is-mine-3.png",
-      alt: "'Your House is Mine', oversized artists' book.",
-      title: "",
-      caption: "",
-      credit: "",
-      sourceLabel: "Gallery 98",
-      sourceUrl: "https://gallery98.org/collection/castrucci-bullet-space-your-house-is-mine/"
     },
     {
       image: "images/Bullet Space/mystery.png",
@@ -131,58 +122,58 @@ const MAP_SITES = [
       sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
     },
     {
-      image: "images/Bullet Space/bullet.png",
-      alt: "",
-      title: "",
-      caption: "",
-      credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
-    },
-    {
       image: "images/Bullet Space/bullet-space.png",
       alt: "",
-      title: "",
+      title: "Exterior of Bullet Space, date unknown.",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Manhattan Sideways",
+      sourceUrl: "https://sideways.nyc/discover/6uSHI4GkUkWPfopW5YWrmx/bullet-space"
     },
     {
       image: "images/Bullet Space/resistance.png",
       alt: "",
-      title: "",
-      caption: "",
+      title: "'Bullet: An Act of Resistance', xeroxed zine.",
+      caption: "Contributors included: Sebastien Schroder, Andrea Neumann, Maggie Wrigley, Paul Castrucci, Andrew Castrucci, Wes Power, Thom Corn, Tenesh Webber, Grady Alexis, and others.",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2016/bullet-an-act-of-resistance/"
+    },
+     {
+      image: "images/Bullet Space/bullet.png",
+      alt: "",
+      title: "Bullet: An Artist Collaborative",
+      caption: "Back cover of xeroxed 'zine 'Bullet: An Act of Resistance'",
+      credit: "",
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2016/bullet-an-act-of-resistance/",
     },
     {
       image: "images/Bullet Space/resistance-1.png",
       alt: "",
-      title: "",
+      title: "Inside pages of 'Bullet: An Act of Resistance'",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2016/bullet-an-act-of-resistance/",
     },
      {
       image: "images/Bullet Space/slowdown.png",
       alt: "",
-      title: "",
+      title: "'Slowdown Children Growing', silkscreen print from 'Your House Is Mine', John Fekner, 1990.",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2016/bullet-an-act-of-resistance/"
     },
     {
       image: "images/Bullet Space/survival.png",
       alt: "",
-      title: "",
+      title: "'Survival of the Fittest', screenprint from 'Your House Is Mine', Nadia Coën, 1989",
       caption: "",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2016/bullet-an-act-of-resistance/"
     },
        {
 
@@ -190,15 +181,15 @@ const MAP_SITES = [
 
       alt: "",
 
-      title: "",
+      title: "'Untitled (Poster Painting', Klara Lidén, at Bullet Space, date unknown.",
 
       caption: "",
 
       credit: "",
 
-      sourceLabel: "",
+      sourceLabel: "Manhattan Sideways",
 
-      sourceUrl: ""
+      sourceUrl: "https://sideways.nyc/discover/6uSHI4GkUkWPfopW5YWrmx/bullet-space"
 
     }
   ]
