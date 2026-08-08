@@ -1456,9 +1456,9 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceUrl: "https://elsolbrillante.org/about/"
     },
     {
-      image: "images/LUNGS/maps.png",
-      alt: "El Sol Brillante Garden.",
-      title: "El Sol Brillante",
+      image: "images/LUNGS/map.png",
+      alt: "",
+      title: "Map of community gardens in Loisaida",
       caption: "",
       credit: "",
       sourceLabel: "LUNGS",
