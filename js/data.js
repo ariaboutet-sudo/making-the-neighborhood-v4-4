@@ -802,7 +802,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     image: "images/Garden of Eden/garden-of-eden.jpeg",
     imageAlt: "Black-and-white Seth Tobocman comic panel about the Garden of Eden, showing the circular garden, surrounding buildings, community conflict, a bulldozer, and the destruction of the garden.",
     imageCaption: "Seth Tobocman, War in the Neighborhood, p. 23. Graphic narrative panel depicting the Garden of Eden and its destruction.",
-    source: "Seth Tobocman, War in the Neighborhood, p. 23, plus historical sources on Adam Purple’s Garden of Eden."
+    source: "Tobocman."
   },
   {
   id: "laplaza",
@@ -1497,10 +1497,46 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1973",
   description: "Founded in 1973 by Miguel Piñero, Miguel Algarín, and a circle of Puerto Rican writers and artists, the Nuyorican Poets Cafe emerged as a home for experimental poetry, theater, music, and performance rooted in the experiences of New York's Puerto Rican and other marginalized communities. Rejecting elite literary institutions, the Café cultivated an open stage where emerging artists, neighborhood residents, and internationally recognized writers performed alongside one another. Over the following decades it became one of the city's most influential centers for spoken word, bilingual literature, and community-based cultural production.",
   quote: "",
-  source: "",
+  source: "New York Times ['The Early Days of the Nuyorican Poets Café; NYC LGBTQ Historic Sites; Nuyorican Poets Café; Red Bull Music Academy",
 
   slides: [
 
+   {
+      image: "images/Nuyorican/founders.png",
+      alt: "",
+      title: "Some of the founding poets of the Nuyorican, from left to right: Miguel Algarín, Lucky CienFuegos, & Richard August.",
+      caption: "",
+      credit: "Photograph by Paul Hosefros.",
+      sourceLabel: "The New York Times",
+      sourceUrl: "https://www.nytimes.com/2018/12/06/style/nuyorican-poets-archive.html"
+    }, 
+     {
+      image: "images/Nuyorican/founders-2.png",
+      alt: "",
+      title: "Founding poets & friends, date unknown.",
+      caption: "",
+      credit: "Photograph by Paul Hosefros.",
+      sourceLabel: "The New York Times",
+      sourceUrl: "https://www.nytimes.com/2018/12/06/style/nuyorican-poets-archive.html"
+    }, 
+     {
+      image: "images/Nuyorican/founding.png",
+      alt: "",
+      title: "Lucky CienFuegos, Richard August, Miguel Algarín, Miguel Piñero, date unknown.",
+      caption: "",
+      credit: "",
+      sourceLabel: "Nuyorican Poets Café",
+      sourceUrl: "https://www.nyclgbtsites.org/site/nuyorican-poets-cafe/",
+    }, 
+     {
+      image: "images/Nuyorican/nuyorican.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "",
+      sourceLabel: "Red Bull Music Academy",
+      sourceUrl: "https://daily.redbullmusicacademy.com/2018/11/nuyorican-poets-cafe-feature",
+    }, 
     {
   type: "quote",
   title: "",
@@ -1508,7 +1544,24 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   attribution: "Elizabeth Acevedo, Dominican-American poet, speaking about“declamación”, a Caribbean & Latin American spoken word poetry tradition. ",
   sourceLabel: "The New York Times",
   sourceUrl: "https://www.nytimes.com/2018/12/06/style/nuyorican-poets-archive.html"
-  }
+  },
+   {
+      image: "images/Nuyorican/nuyorican-crowd.png",
+      alt: "",
+      title: "Friday night crowd at the Nuyorican, late 90s",
+      caption: "",
+      credit: "",
+      sourceLabel: "https://frank151.com/rap-or-hip-hop-oriented-poetry-how-the-nuyorican-poets-cafe-became-a-rite-of-passage-for-hip-hop-mcs-in-the-90s/",
+      sourceUrl: "Frank",
+    }, 
+     {
+  type: "quote",
+  title: "",
+  quote: "If you want a quantum perspective on why the Nuyorican scene happened like this, this is the beginning of real gangsta rap on the radio. All the thought-provoking and wordplay rappers were being called ‘underground,’ so people were looking to be stimulated through hip-hop and not just have their gangsta identities confirmed. And those people were all showing up at poetry readings: ‘Ah, this is where the lyricists are!’.",
+  attribution: "Saul Williams, poet, artist & central figure in the Nuyorican scene in the 1990s.",
+  sourceLabel: "Red Bull Music Academy",
+  sourceUrl: "https://daily.redbullmusicacademy.com/2018/11/nuyorican-poets-cafe-feature"
+  },
   ]
 },
  {
