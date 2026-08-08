@@ -1845,10 +1845,118 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       alt: "Black-and-white photograph of drag performers singing onstage before a crowd at Wigstock in Tompkins Square Park.",
       title: "Wigstock, 1988",
       caption: "Lady Bunny and friends performing at Wigstock in Tompkins Square Park.",
-      credit: "Image reproduced via The Bowery Boys; original image credited there to aquaman6 on Flickr.",
+      credit: "Photographer unknown.",
       sourceLabel: "The Bowery Boys",
       sourceUrl: "https://www.boweryboyshistory.com/2023/08/the-ragged-rebellious-history-of.html"
     },
+    {
+  image: "images/Wigstock/1.0.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/1.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/2.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/3.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/4.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/5.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/6.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/7.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/8.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Photograph by Pierre Dalpé.",
+  sourceLabel: "Xtra",
+  sourceUrl: "https://xtramagazine.com/culture/wigstock-drag-pierre-dalpe-178804"
+},
+{
+  image: "images/Wigstock/new.png",
+  alt: "",
+  title: "Lady Bunny (center), with Neil Patrick Harris (right), and other performers at a revival of Wigstock in 2018.",
+  caption: "",
+  credit: "Photograph by Mary Altaffer/AP.",
+  sourceLabel: "The Guardian",
+  sourceUrl: "https://www.theguardian.com/us-news/2018/sep/02/wigstock-drag-festival-new-york-is-back"
+},
+{
+  image: "images/Wigstock/new-1.png",
+  alt: "",
+  title: "Original founder of Wigstock, Lady Bunny, in 2018",
+  caption: "",
+  credit: "Photograph by Lisa McNulty.",
+  sourceLabel: "The Guardian",
+  sourceUrl: "https://www.theguardian.com/us-news/2018/sep/02/wigstock-drag-festival-new-york-is-back"
+},
+{
+  image: "images/Wigstock/new-2.png",
+  alt: "",
+  title: "Alaska Thunderfuck 5000 performing at Wigstock 2018.",
+  caption: "",
+  credit: "Photograph by Lisa McNulty.",
+  sourceLabel: "The Guardian",
+  sourceUrl: "https://www.theguardian.com/us-news/2018/sep/02/wigstock-drag-festival-new-york-is-back"
+},
   ]
 }
 ];
