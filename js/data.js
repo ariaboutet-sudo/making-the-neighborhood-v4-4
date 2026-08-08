@@ -1835,7 +1835,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   coordinates: [40.72680, -73.98145],
   themes: ["queer", "culture", "place"],
   period: "1984–2001",
-  description: "Founded by Lady Bunny in Tompkins Square Park, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal gathering, it grew into one of the world's largest drag festivals.",
+  description: "Founded by Lady Bunny in Tompkins Square Park in 1984, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal Labor Day gathering, it became an annual tradition for nearly two decades and grew into one of the world’s largest drag festivals, moving to larger locations, eventually outgrowing Tompkins & moving to Union Square & the Hudson River Piers. The original festival ended in 2001, but Lady Bunny briefly revived Wigstock in 2018, bringing it to Pier 17 at the South Street Seaport.",
   quote: "",
   source: "The Bowery Boys; historical sources on Wigstock.",
 
