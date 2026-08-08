@@ -362,9 +362,31 @@ function renderCurrentSlide() {
 }
 const overlayImage = document.getElementById("overlay-image");
 
-overlayImage.addEventListener("click", () => {
-  overlayImage.classList.toggle("zoomed");
-});
+let imageZoomed = false;
+let imageDragging = false;
+let imageStartX = 0;
+let imageStartY = 0;
+let imageOffsetX = 0;
+let imageOffsetY = 0;
+
+function updateImageTransform() {
+  if (imageZoomed) {
+    overlayImage.style.transform =
+      `translate(${imageOffsetX}px, ${imageOffsetY}px) scale(2)`;
+  } else {
+    overlayImage.style.transform = "";
+  }
+}
+
+function resetImageZoom() {
+  imageZoomed = false;
+  imageDragging = false;
+  imageOffsetX = 0;
+  imageOffsetY = 0;
+
+  overlayImage.classList.remove("zoomed", "dragging");
+  overlayImage.style.transform = "";
+}
 
 function changeSlide(direction) {
   if (currentSlides.length < 2) return;
