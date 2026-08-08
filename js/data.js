@@ -1208,7 +1208,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/kenkeleba-image-1.webp",
       alt: "",
-      title: "Maltoon #4, Debra Priestly",
+      title: "Detail of 'Maltoon #4', Debra Priestly",
       caption: "",
       credit: "",
       sourceLabel: "Sideways NYC",
@@ -1218,7 +1218,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/kenkeleba-image-2.webp",
       alt: "",
-      title: "Strange Fruit 2, Debra Priestly",
+      title: "Detail of 'Strange Fruit 2', Debra Priestly, on display at Kenkeleba House, date unknown.",
       caption: "",
       credit: "",
       sourceLabel: "Sideways NYC",
@@ -1228,7 +1228,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/kenkeleba-image-3.webp",
       alt: "",
-      title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015]",
+      title: "L'Abbatoire No. III, Eldzier Cortor [1916–2015], on display at Kenkeleba House, date unknown.",
       caption: "",
       credit: "",
       sourceLabel: "Sideways NYC",
@@ -1238,9 +1238,9 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/kenkeleba-image-4.webp",
       alt: "",
-      title: "Mural on the side of Kenkeleba House",
+      title: "Mural on the side of Kenkeleba House, date unknown.",
       caption: "",
-      credit: "",
+      credit: "Photographer unknown.",
       sourceLabel: "Sideways NYC",
       sourceUrl: "https://sideways.nyc/discover/1Bnz7qTHRWLgpXYeVyFROO/kenkeleba-house"
     },
@@ -1270,7 +1270,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       alt: "",
       title: "Joe Overstreet, 'Gorée', 1993.",
       caption: "",
-      photograph: "Samuel Glass.",
+      photograph: "Photgraphy by Samuel Glass.",
       credit: "Joe Overstreet. Courtesy of the Estate of Joe Overstreet/Artist Rights Society (ARS) & Eric Firestone Gallery, New York.",
       sourceLabel: "The Brooklyn Rail",
       sourceUrl: "https://brooklynrail.org/2025/04/artseen/joe-overstreet-taking-flight/"
@@ -1279,7 +1279,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Kenkeleba/overstreet.png",
       alt: "",
-      title: "Joe Overstreet",
+      title: "Joe Overstreet [1993-2019], co-founder of Kenkeleba House, at his studio.",
       caption: "",
       credit: "",
       sourceLabel: "West Harlem Art Fund",
