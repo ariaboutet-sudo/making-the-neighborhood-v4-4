@@ -97,11 +97,11 @@ const MAP_SITES = [
 {
       image: "images/Bullet Space/your-house-is-mine.png",
       alt: "",
-      title: "",
-      caption: "",
+      title: "The exterior of Bullet Space covered with wheatpasted flyers as part of the 'Your House Is Mine' project (1988-1992), date of photograph unknown.",
+      caption: "'Your House Is Mine' grew out of a street-poster campaign launched by Bullet Space artists in the aftermath of the 1988 Tompkins Square Park riot. Artists posted political prints on gentrification, housing, policing, AIDS, racism, and displacement, using the neighborhood itself as a space for political art and communication. The project eventually became the 1992 collaborative artist’s book 'Your House Is Mine'.",
       credit: "",
-      sourceLabel: "",
-      sourceUrl: ""
+      sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/collection/castrucci-bullet-space-your-house-is-mine/"
     },
     {
       image: "images/Bullet Space/your-house-is-mine-2.png",
