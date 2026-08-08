@@ -79,7 +79,7 @@ const MAP_SITES = [
 {
       image: "images/Bandshell/mike-evans.png",
       alt: "",
-      title: "The bandshell, Memorial Day Weekend 1991, shortly before it was demolished.",
+      title: "Memorial Day Weekend 1991, shortly before the bandshell was demolished.",
       caption: "",
       credit: "Photograph by Mike Evans.",
       sourceLabel: "Village Preservation",
