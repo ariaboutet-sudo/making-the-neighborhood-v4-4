@@ -82,8 +82,8 @@ const MAP_SITES = [
       title: "The bandshell, Memorial Day Weekend 1991, shortly before it was demolished.",
       caption: "",
       credit: "Photograph by Mike Evans.",
-      sourceLabel: "https://villagepreservation.org/2023/06/01/signaling-change-remembering-the-tompkins-square-park-bandshell/",
-      sourceUrl: "Village Preservation"
+      sourceLabel: "Village Preservation",
+      sourceUrl: "https://villagepreservation.org/2023/06/01/signaling-change-remembering-the-tompkins-square-park-bandshell/"
     },
     {
       image: "images/Bandshell/ginsberg.png",
@@ -91,8 +91,8 @@ const MAP_SITES = [
       title: "Allen Ginsberg reads a poem demanding affordable housing at the bandshell as part of 'Resist to Exist', May 1991.",
       caption: "",
       credit: "Photgraph by Q. Sakamaki.",
-      sourceLabel: "https://www.motherjones.com/media/2008/09/tompkins-square-park-gentrification-q-sakamaki//",
-      sourceUrl: "Mother Jones"
+      sourceLabel: "Mother Jones",
+      sourceUrl: "https://www.motherjones.com/media/2008/09/tompkins-square-park-gentrification-q-sakamaki//"
     }
   ]
 },
