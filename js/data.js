@@ -1760,7 +1760,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       alt: "",
       title: "'Timeline of occupants, their rooms, & their actions at the Peace Pentagon, 1969-2016'",
       caption: "",
-      credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+      credit: "Illustration & caption from Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
