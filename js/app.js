@@ -378,6 +378,7 @@ function updateImageTransform() {
   }
 }
 
+
 function resetImageZoom() {
   imageZoomed = false;
   imageDragging = false;
@@ -432,6 +433,16 @@ overlayImage.addEventListener("click", () => {
   }
 
   updateImageTransform();
+});
+overlayImage.addEventListener("mousedown", (event) => {
+  if (!imageZoomed) return;
+
+  imageDragging = true;
+  imageStartX = event.clientX - imageOffsetX;
+  imageStartY = event.clientY - imageOffsetY;
+
+  overlayImage.classList.add("dragging");
+  event.preventDefault();
 });
 
 document
