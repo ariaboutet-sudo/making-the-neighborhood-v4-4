@@ -126,7 +126,7 @@ const MAP_SITES = [
       alt: "",
       title: "Melvin Way artwork, 1989",
       caption: "",
-      credit: "Melvin Way Estate/ARS, New York, via Andrew Edlin Gallery, New York.",
+      credit: "Melvin Way Estate/ARS via Andrew Edlin Gallery, New York.",
       sourceLabel: "New York Times",
       sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
     },
