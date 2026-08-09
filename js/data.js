@@ -1975,7 +1975,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       alt: "",
       title: "Artist Becky Howland wheatpastes an octopus to the facade of the reclaimed building housing the 'Real Estate Show', 1980",
       caption: "",
-      credit: ".",
+      credit: "Photograph by Alan Moore. Courtesy of Becky Howland.",
       sourceLabel: "",
       sourceUrl: ""
     },
