@@ -90,7 +90,7 @@ const MAP_SITES = [
   coordinates: [40.72288, -73.98217],
   themes: ["housing", "culture", "mutualAid", "place"],
   period: "Occupied 1983; legalized 2002",
-  description: "Occupied by a group of artist squatters in 1986, Bullet Space transformed an abandoned building at 292 East 3rd Street into both collective housing and a center for politically engaged art. Residents rehabilitated the building while using its exhibition and printmaking spaces to produce work responding directly to struggles over housing, gentrification, drugs, AIDS, and neighborhood displacement. Bullet Space’s most ambitious project, Your House Is Mine, brought together Lower East Side artists to create prints that circulated first as street posters before being assembled into an artist’s book, collapsing the distinction between gallery exhibition, political communication, and direct action. The building eventually transitioned from a squat into resident-controlled housing, while Bullet Space continued as a nonprofit artist collective and gallery committed to work outside the commercial gallery system.",
+  description: "Occupied by a group of artist squatters in 1986, Bullet Space transformed an abandoned building at 292 East 3rd Street into both collective housing and a center for politically engaged art. Residents rehabilitated the building while using its exhibition and printmaking spaces to produce work responding directly to struggles over housing, gentrification, drugs, AIDS, and neighborhood displacement. Bullet Space’s most ambitious project, Your House Is Mine, brought together Lower East Side artists to create prints that circulated first as street posters before being assembled into an artists' book, collapsing the distinction between gallery exhibition, political communication, and direct action. The building eventually transitioned from a squat into resident-controlled housing, while Bullet Space continued as a nonprofit artist collective and gallery committed to work outside the commercial gallery system.",
   quote: "",
   source: "Bullet Space; Miller & Wolf.",
   slides: [
@@ -98,7 +98,7 @@ const MAP_SITES = [
       image: "images/Bullet Space/your-house-is-mine.png",
       alt: "",
       title: "Exterior of Bullet Space plastered with flyers as part of the 'Your House Is Mine' project (1988-1992), date unknown.",
-      caption: "'Your House Is Mine' grew out of a street-poster campaign launched by Bullet Space artists in the aftermath of the 1988 Tompkins Square Park riot. Artists posted political prints on gentrification, housing, policing, AIDS, racism, and displacement, using the neighborhood itself as a space for political art and communication. The project eventually became the 1992 collaborative artist’s book 'Your House Is Mine'.",
+      caption: "'Your House Is Mine' grew out of a street-poster campaign launched by Bullet Space artists in the aftermath of the 1988 Tompkins Square Park riot. Artists posted political prints on gentrification, housing, policing, AIDS, racism, and displacement, using the neighborhood itself as a space for political art and communication. The project eventually became the 1992 collaborative artists' book 'Your House Is Mine'.",
       credit: "",
       sourceLabel: "Gallery 98",
       sourceUrl: "https://gallery98.org/collection/castrucci-bullet-space-your-house-is-mine/"
@@ -116,7 +116,7 @@ const MAP_SITES = [
       image: "images/Bullet Space/mystery.png",
       alt: "",
       title: "Melvin Way [1954-2024]",
-      caption: "Visionary artist Melvin Way displays one of his dense ink-and-tape drawings, which Bullet Space co-founder Andrew Castrucci called “talismans of protection” (Brooklyn Rail, 2010). Way’s debut exhibition ‘Resistance of Memory’ opened at Bullet Space in 1991. Castrucci went on to serve as a translator between Way , who was schizophrenic, and the art world; and Bullet Space hosted two more shows of his work: ‘a continuation of something else’ (1996) and the retrospective ‘…And One More Thing’. (2024).",
+      caption: "Visionary artist Melvin Way displays one of his dense ink-and-tape drawings, which Bullet Space co-founder Andrew Castrucci called “talismans of protection” (Brooklyn Rail, 2010). Way’s debut exhibition ‘Resistance of Memory’ opened at Bullet Space in 1991. Castrucci went on to serve as a translator between Way , who was schizophrenic, and the art world; and Bullet Space hosted two more shows of his work: ‘a continuation of something else’ (1996) and the retrospective ‘…And One More Thing’ (2024).",
       credit: "Photograph by Andrew Castrucci, courtesy of Edline Gallery, New York.",
       sourceLabel: "New York Times",
       sourceUrl: "https://www.nytimes.com/2024/02/27/arts/melvin-way-dead.html"
@@ -1975,7 +1975,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       alt: "",
       title: "Artist Becky Howland wheatpastes an octopus to the facade of the reclaimed building housing the 'Real Estate Show', 1980",
       caption: "",
-      credit: "Photograph by Alan Moore. Courtesy of Becky Howland.",
+      credit: "Photograph by Alan Moore. Courtesy of Becky Howland. Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
     },
