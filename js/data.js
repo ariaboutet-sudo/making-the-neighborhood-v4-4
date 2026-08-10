@@ -55,6 +55,14 @@ const MAP_SITES = [
   source: "Tobocman; Kifner; Bellafante; Patterson.",
   slides: [
     {
+  type: "quote",
+  title: "The Destruction of the Bandshell",
+  quote: "The protesting and rioting against gentrification and in support of community values continued for years; finally, the park was ordered closed by the city in June of 1991. Bulldozers were sent in to destroy the park’s bandshell in an act of psychological violence meant to strip away the essential community bond of music. The city knew that it would be able to weaken the community if it could stop their creation of music and art.",
+  attribution: "Bill DePaolo & Jem Stern",
+  sourceLabel: "MoRUS archival zine, 2020",
+  sourceUrl: ""
+},
+    {
       image: "images/Bandshell/bird.png",
       alt: "",
       title: "Bird's love for the bandshell.",
