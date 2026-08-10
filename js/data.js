@@ -2200,11 +2200,13 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       title: "'A Building Is Not A Precious Gem To Be Locked - Boarded - Hoarded'",
       caption: "Flyer for the real estate show explicitly linking public art to 'insurrectionary urban development'",
       credit: ".",
-      sourceLabel: "",
+           sourceLabel: "",
       sourceUrl: ""
-    },
-    
-    {
+    }
+  ]
+},
+
+{
   id: "skeletal-states",
   title: "Skeletal Estates",
   address: "13th St. & Avenue A",
