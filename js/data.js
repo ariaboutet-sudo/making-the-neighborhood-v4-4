@@ -504,6 +504,96 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 
   slides: [
     {
+  image: "images/Memorial Day Riot/memorial-265.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 265.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-266.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 266.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-267.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 267.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-268.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 268.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-269.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 269.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-270.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 270.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-271.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 271.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-272.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 272.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-274.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 274.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+{
+  image: "images/Memorial Day Riot/memorial-275.png",
+  alt: "",
+  title: "",
+  caption: "",
+  credit: "Seth Tobocman, War in the Neighborhood, p. 275.",
+  sourceLabel: "",
+  sourceUrl: ""
+},
+    {
       image: "images/Memorial Day Riot/riot.png",
       alt: "",
       title: "Protesters prepping to confront police, May 27, 1991.",
