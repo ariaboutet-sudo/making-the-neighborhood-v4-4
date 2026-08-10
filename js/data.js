@@ -2187,7 +2187,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       sourceUrl: ""
     },
     {
-      image: "images/real estate show/a-building.png",
+      image: "images/real estate show/BUILDING.png",
       alt: "",
       title: "'A Building Is Not A Precious Gem To Be Locked - Boarded - Hoarded'",
       caption: "Flyer for the real estate show explicitly linking public art to 'insurrectionary urban development'",
