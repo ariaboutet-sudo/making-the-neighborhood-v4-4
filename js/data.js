@@ -1718,7 +1718,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 {
   image: "images/LUNGS/bokashi.png",
   alt: "",
-  title: "Down to Earth Garden, 12th St. & Ave. B, offers workshops on bokashi (indoor composting), fermentation, & more.",
+  title: "Down to Earth Garden offers workshops on bokashi (indoor composting), fermentation, & more.",
   caption: "Down to Earth Garden, 546 E. 12th St.",
   credit: "",
   sourceLabel: "Down to Earth Garden",
@@ -1973,7 +1973,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Peace Pentagon/actions.png",
       alt: "",
-      title: "Timeline of actions organized - in part - by tenant organizations of the Peace Pentagon.",
+      title: "Timeline of actions organized - in part - by tenant organizations at the Peace Pentagon.",
       caption: "",
       credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
@@ -1982,7 +1982,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
     {
       image: "images/Peace Pentagon/actions-2.png",
       alt: "",
-      title: "Continued: timeline of actions organized - in part - by tenant organizations of the Peace Pentagon.",
+      title: "Continued: timeline of actions organized - in part - by tenant organizations at the Peace Pentagon.",
       caption: "",
       credit: "Illustration by Nandini Bagchee; Published in Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
@@ -2195,7 +2195,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       sourceUrl: ""
     },
     {
-      image: "images/real estate show/BUILDING.png",
+      image: "images/real estate show/BUILDING.jpg",
       alt: "",
       title: "'A Building Is Not A Precious Gem To Be Locked - Boarded - Hoarded'",
       caption: "Flyer for the real estate show explicitly linking public art to 'insurrectionary urban development'",
