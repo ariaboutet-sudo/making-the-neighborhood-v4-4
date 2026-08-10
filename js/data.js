@@ -618,7 +618,25 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   title: "Tent City / Homeless Resistance",
   caption: "War in the Neighborhood, Seth Tobocman, p. 108.",
   credit: ""
-}
+},
+{
+  image: "images/Tent City Images/housing.png",
+  alt: "",
+  title: "Homeless activist Keith Thompson & supporters demonstrating for affordable housing, 1989.",
+  caption: "",
+  credit: "Photograph by Q. Sakamaki.",
+  sourceLabel: "Vice",
+  sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+},
+{
+  image: "images/Tent City Images/protest.png",
+  alt: "",
+  title: "Some Tent City residents burned their tents in protest of their eviction, 1989.",
+  caption: "",
+  credit: "Photograph by Q. Sakamaki.",
+  sourceLabel: "Vice",
+  sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+},
 
 ],
 
