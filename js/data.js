@@ -80,7 +80,24 @@ const MAP_SITES = [
       credit: "Photgraph by Q. Sakamaki.",
       sourceLabel: "Mother Jones",
       sourceUrl: "https://www.motherjones.com/media/2008/09/tompkins-square-park-gentrification-q-sakamaki//"
-    }
+    },
+    {
+
+  image: "images/bandshell/false-prophets.png",
+
+  alt: "",
+
+  title: "False Prophets performs at the bandshell during the 'Resist to Exist' event, May 1, 1991.",
+
+  caption: "",
+
+  credit: "Photograph by Q. Sakamaki.",
+
+  sourceLabel: "Vice",
+
+  sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+
+},
   ]
 },
 {
