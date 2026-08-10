@@ -2203,6 +2203,27 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       sourceLabel: "",
       sourceUrl: ""
     },
+    {
+  id: "skeletal-states",
+  title: "Skeletal Estates",
+  address: "13th St. & Avenue A",
+  coordinates: [40.71865, -73.98875],
+  themes: ["housing", "culture", "place"],
+  description: "",
+  quote: "",
+  source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
+  slides: [
+    {
+      image: "images/Skeletal States/skeletal-estates.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
+},
   ]
 },
 {
