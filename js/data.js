@@ -450,6 +450,38 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     }
   ]
 },
+{
+  id: "memorial-day-riot",
+  title: "Memorial Day Riot, 1991",
+  address: "Tompkins Square Park",
+  coordinates: [40.72635, -73.98110],
+  themes: ["housing", "place"],
+  period: "May 27, 1991",
+  description: "",
+  quote: "",
+  source: "",
+
+  slides: [
+    {
+      image: "images/memorial-day/riot.png",
+      alt: "",
+      title: "Protesters prepping to confront police, May 27, 1991.",
+      caption: "",
+      credit: "Photograph by Q. Sakamaki.",
+      sourceLabel: "Vice",
+      sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+    },
+    {
+      image: "images/memorial-day/bottles.png",
+      alt: "",
+      title: "Protesters throw bottles at police, May 27, 1991.",
+      caption: "",
+      credit: "Photograph by Q. Sakamaki.",
+      sourceLabel: "Vice",
+      sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+    }
+  ]
+},
 
 {
   id: "tent-city",
