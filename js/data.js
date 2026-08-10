@@ -2224,9 +2224,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
       sourceLabel: "",
       sourceUrl: ""
-    }
-  ]
-},
+     }
   ]
 },
 {
