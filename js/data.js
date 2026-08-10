@@ -385,6 +385,29 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 ]
 },
 {
+  id: "dinkinsville",
+  title: "Dinkinsville",
+  address: "East 7th Street & Avenue D",
+  coordinates: [40.72370, -73.97550],
+  themes: ["housing", "mutualAid", "place"],
+  period: "1990–1991",
+  description: "Dinkinsville emerged after the city’s eviction of unhoused residents from Tompkins Square Park - just as tent city at Tompkins emerged via displacement from other city parks, demonstrating that eviction does not resolve homelessness but instead displaces it / alters to whom it is visible. Residents established a shantytown on vacant lots near Tompkins & named their encampment (derogatorily) after Mayor David Dinkins. Community members asserted their right to stay in the neighborhood, constructing shelters from found materials and (re)creating living space outside of both the municipal shelter system and conventional private property.",
+  quote: "",
+  source: "Garb; Rosen.",
+
+  slides: [
+    {
+      image: "images/Dinkinsville/dinkinsville.png",
+      alt: "",
+      title: "",
+      caption: "",
+      credit: "Andrew Lichtenstein / Corbis via Getty Images.",
+      sourceLabel: "In These Times",
+      sourceUrl: "https://inthesetimes.com/article/squatters-60-year-war-against-private-property-autonomous-city-vasudevan"
+    }
+  ]
+},
+{
   id: "goles",
   title: "GOLES (Good Old Lower East Side)",
   address: "169 Avenue B",
