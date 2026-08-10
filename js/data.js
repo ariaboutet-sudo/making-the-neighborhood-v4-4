@@ -95,7 +95,7 @@ const MAP_SITES = [
 
   alt: "",
 
-  title: "False Prophets performs at the bandshell during the 'Resist to Exist' event, May 1, 1991.",
+  title: "False Prophets perform at the bandshell during the 'Resist to Exist' event, May 1, 1991.",
 
   caption: "",
 
@@ -253,7 +253,7 @@ const MAP_SITES = [
     image: "images/E 13th St Squats/squatters-standoff.png",
     alt: "Squatters confront NYPD officers during the East 13th Street eviction (1995).",
     title: "Confrontation",
-    caption: "Squatters block the entrance to a building as NYPD uses a militarized surplus tank to clear barricades erected by residents in self defense (1995).",
+    caption: "Squatters block the entrance to a building as NYPD uses a military surplus tank to clear barricades erected by residents in self defense (1995).",
     credit: "Photograph by John Penley, via the Tamiment Library, New York University.",
     sourceLabel: "Curbed",
     sourceUrl: "https://www.curbed.com/2023/01/east-village-squatters-standoff-1995.html"
