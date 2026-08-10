@@ -504,7 +504,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
 
   slides: [
     {
-      image: "images/memorial-day/riot.png",
+      image: "images/memorial-day-riot/riot.png",
       alt: "",
       title: "Protesters prepping to confront police, May 27, 1991.",
       caption: "",
@@ -513,7 +513,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
       sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
     },
     {
-      image: "images/memorial-day/bottles.png",
+      image: "images/memorial-day-riot/bottles.png",
       alt: "",
       title: "Protesters throw bottles at police, May 27, 1991.",
       caption: "",
