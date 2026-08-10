@@ -399,12 +399,30 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
     {
       image: "images/Dinkinsville/dinkinsville.png",
       alt: "",
-      title: "",
+      title: "Dinkinsville encampment",
       caption: "",
       credit: "Andrew Lichtenstein / Corbis via Getty Images.",
       sourceLabel: "In These Times",
       sourceUrl: "https://inthesetimes.com/article/squatters-60-year-war-against-private-property-autonomous-city-vasudevan"
-    }
+    },
+    {
+  image: "images/Dinkinsville/man.png",
+  alt: "",
+  title: "A homeless man in front of his encampment in Dinkinsville, 1991.",
+  caption: "",
+  credit: "Photograph by Q. Sakamaki.",
+  sourceLabel: "Vice",
+  sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+},
+{
+  image: "images/Dinkinsville/destroyed.png",
+  alt: "",
+  title: "Residents’ belongings were flattened & destroyed after their eviction from Dinkinsville encampments, October 15, 1991.",
+  caption: "",
+  credit: "Photograph by Q. Sakamaki.",
+  sourceLabel: "Vice",
+  sourceUrl: "https://www.vice.com/en/article/q-sakamaki-photographer-tompkins-square-park-riots-1988/"
+},
   ]
 },
 {
