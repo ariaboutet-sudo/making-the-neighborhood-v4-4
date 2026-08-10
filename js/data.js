@@ -2209,7 +2209,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   address: "13th St. & Avenue A",
   coordinates: [40.71865, -73.98875],
   themes: ["housing", "culture", "place"],
-  description: "",
+  description: "Created by artists Anne Pitrone and Thomas Masaryk on an abandoned city lot at 13th Street and Avenue A, Skeletal Estates was a 1981 public art installation satirizing housing costs, militarism, taxation, and nuclear anxiety. The artists constructed an imaginary underground housing development, advertising “the very best in underground living” and distributing fake contracts for condominiums resembling bomb shelters or coffins. Part of Political Art Documentation/Distribution’s Death and Taxes project, Skeletal Estates transformed a vacant lot into a critique of the relationship between private shelter, public spending, and survival.",
   quote: "",
   source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
   slides: [
