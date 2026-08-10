@@ -83,7 +83,7 @@ const MAP_SITES = [
     },
     {
 
-  image: "images/bandshell/false-prophets.png",
+  image: "images/bandshell/false-prophet.png",
 
   alt: "",
 
