@@ -56,7 +56,7 @@ const MAP_SITES = [
   slides: [
     {
   type: "quote",
-  title: "T",
+  title: "",
   quote: "The protesting and rioting against gentrification and in support of community values continued for years; finally, the park was ordered closed by the city in June of 1991. Bulldozers were sent in to destroy the park’s bandshell in an act of psychological violence meant to strip away the essential community bond of music. The city knew that it would be able to weaken the community if it could stop their creation of music and art.",
   attribution: "Bill DePaolo & Jem Stern",
   sourceLabel: "MoRUS archival zine, 2020",
