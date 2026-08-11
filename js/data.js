@@ -1842,7 +1842,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   sourceUrl: "https://www.6bgarden.org/garden-photo-archive/1"
 },
 {
-  image: "images/LUNGS/history-2023.png",
+  image: "images/LUNGS/history-40th.png",
   alt: "",
   title: "6 & B 40th Anniversary Party",
   caption: "6 & B Garden, corner of 6th St. & Avenue B",
