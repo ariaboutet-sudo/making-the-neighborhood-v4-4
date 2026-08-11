@@ -1649,7 +1649,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 2011",
   description: "LUNGS (Loisaida United Neighborhood Gardens) is a coalition of more than fifty volunteer-run community gardens across the Lower East Side and East Village. Founded in 2011, the organization coordinates advocacy, stewardship, environmental education, and neighborhood-wide events while defending community-managed green space from development. Although LUNGS has no permanent headquarters, this marker is placed at El Sol Brillante—one of the neighborhood's oldest surviving community gardens and a frequent gathering place for LUNGS events, including the annual Spring Awakening festival.",
   quote: "",
-  source: "LUNGS; El Sol Brillante."
+  source: "LUNGS; El Sol Brillante; Campos Community Garden; Down to Earth Garden; 11th St. Community Garden; Green Oasis Garden; Francisco 'Pancho' Ramos Garden; 6 & B Garden."
   ,
   slides: [
     {
@@ -2174,7 +2174,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   period: "January 1–2, 1980",
   description: "On New Year's Day 1980, more than thirty artists associated with Collaborative Projects (Colab) occupied an abandoned city-owned building and transformed it into a temporary exhibition criticizing New York City's housing and land-use policies. The exhibition argued that vacant buildings and speculative real-estate practices displaced working-class residents while neighborhoods were left to decay. Police shut down the exhibition after a single day and confiscated the artwork, but the artists successfully pressured the city into negotiations. As a compromise, the city offered them the storefront at 156 Rivington Street, where ABC No Rio was founded later that year. The Real Estate Show thus became one of the defining moments linking experimental art, direct action, and struggles over urban space on the Lower East Side.",
   quote: "",
-  source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
+  source: "Bagchee; Gallery 98.",
    slides: [
     {
       image: "images/real estate show/octopus.png",
