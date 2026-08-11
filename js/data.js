@@ -2199,9 +2199,9 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       alt: "",
       title: "'A Building Is Not A Precious Gem To Be Locked - Boarded - Hoarded'",
       caption: "Flyer for the real estate show explicitly linking public art to 'insurrectionary urban development'",
-      credit: ".",
-           sourceLabel: "",
-      sourceUrl: ""
+      credit: "Becky Howland",
+           sourceLabel: "Gallery 98",
+      sourceUrl: "https://gallery98.org/2017/flyer-real-estate-show-opening-party-1980-copy/"
     }
   ]
 },
@@ -2214,14 +2214,14 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   themes: ["housing", "culture", "place"],
   description: "Created by artists Anne Pitrone and Thomas Masaryk on an abandoned city lot at 13th Street and Avenue A, Skeletal Estates was a 1981 public art installation satirizing housing costs, militarism, taxation, and nuclear anxiety. The artists constructed an imaginary underground housing development, advertising “the very best in underground living” and distributing fake contracts for condominiums resembling bomb shelters or coffins. Part of Political Art Documentation/Distribution’s Death and Taxes project, Skeletal Estates transformed a vacant lot into a critique of the relationship between private shelter, public spending, and survival.",
   quote: "",
-  source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
+  source: "Political Art Documentation/Distribution (PAD).",
   slides: [
     {
       image: "images/Skeletal Estates/skeletal-estates.png",
       alt: "",
-      title: "",
-      caption: "",
-      credit: "Published in Nandini Bagchee, Counter Institution: Activist Estates of the Lower East Side.",
+      title: "'Can't Afford To Live? / Too Alive To Die?",
+      caption: "Part of Political Art Documentation/Distribution's 'Death & Taxes project'.",
+      credit: "PAD 1st issue, 1981.",
       sourceLabel: "",
       sourceUrl: ""
      }
