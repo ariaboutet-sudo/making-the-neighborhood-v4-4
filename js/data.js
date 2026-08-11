@@ -1044,7 +1044,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       image: "images/La Plaza Cultural/grupo-cemi.png",
       title: "Grupo Cemi performs, 1980",
       alt: "",
-      caption: "Grupo Cemi was a Puerto Rican bomba y plena ensemble that regularly performed at La Plaza Cultural. Bomba and plena are Afro–Puerto Rican traditions of drumming, singing, and dance rooted in community participation and resistance. Their performances transformed the garden into a space where cultural celebration, political expression, and collective place-making became inseparable.",
+      caption: "Grupo Cemi was a Puerto Rican bomba y plena ensemble that regularly performed at La Plaza Cultural. Bomba y plena are Afro–Puerto Rican traditions of drumming, singing, and dance rooted in community participation and resistance. Their performances transformed the garden into a space where cultural celebration, political expression, and collective place-making became inseparable.",
       credit: "Photograph by Marlis Momber.",
       sourceLabel: "Counter Institutions, Activist Estates of the Lower East Side, Nandini Bagchee, p. 127.",
       sourceUrl: ""
