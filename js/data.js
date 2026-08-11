@@ -1948,6 +1948,33 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   sourceLabel: "Red Bull Music Academy",
   sourceUrl: "https://daily.redbullmusicacademy.com/2018/11/nuyorican-poets-cafe-feature"
   },
+  {
+      image: "images/Nuyorican/angel.png",
+      alt: "",
+      title: "Mother Diva Xavier hosts the Glam Slam at the Nuyorican, 1999.",
+      caption: "",
+      credit: "Courtesy of the Center Puerto Rican Studies.",
+      sourceLabel: "NYC LGBTQ Historic Sites",
+      sourceUrl: "https://www.nyclgbtsites.org/site/nuyorican-poets-cafe/",
+    }, 
+    {
+      image: "images/Nuyorican/performer.png",
+      alt: "",
+      title: "Performer at the Nuyorican, 2018.",
+      caption: "",
+      credit: "",
+      sourceLabel: "Village Preservation",
+      sourceUrl: "https://villagepreservation.org/2018/09/18/hispanic-heritage-month-celebrating-nuyorican-poets-cafe/",
+    }, 
+   {
+      image: "images/Nuyorican/poetry-slam.png",
+      alt: "",
+      title: "Poetry Slam at the Nuyorican, 2018.",
+      caption: "",
+      credit: "",
+      sourceLabel: "Village Preservation",
+      sourceUrl: "https://villagepreservation.org/2018/09/18/hispanic-heritage-month-celebrating-nuyorican-poets-cafe/",
+    }, 
   ]
 },
  {
