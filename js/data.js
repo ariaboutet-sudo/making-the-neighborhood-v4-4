@@ -1969,7 +1969,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   {
       image: "images/Nuyorican/angel.png",
       alt: "",
-      title: "Mother Diva Xavier hosts the Glam Slam at the Nuyorican, 1999.",
+      title: "Emmanuel Xavier formed the House of Xavier in 1998, and started the Glam Slam - a ball culture / slam poetry mash up event hosted at the Nuyorican - shortly thereafter. This photo depicts Xavier hosting a Glam Slam at the Nuryorican in 1999.",
       caption: "",
       credit: "Courtesy of the Center Puerto Rican Studies.",
       sourceLabel: "NYC LGBTQ Historic Sites",
