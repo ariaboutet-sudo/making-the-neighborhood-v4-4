@@ -2217,7 +2217,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   source: "Nandini Bagchee; Counter Institution: Activist Estates of the Lower East Side.",
   slides: [
     {
-      image: "images/Skeletal States/skeletal-estates.png",
+      image: "images/Skeletal Estates/skeletal-estates.png",
       alt: "",
       title: "",
       caption: "",
