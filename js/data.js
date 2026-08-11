@@ -1865,7 +1865,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1973",
   description: "Founded in 1973 by Miguel Piñero, Miguel Algarín, and a circle of Puerto Rican writers and artists, the Nuyorican Poets Cafe emerged as a home for experimental poetry, theater, music, and performance rooted in the experiences of New York's Puerto Rican and other marginalized communities. Rejecting elite literary institutions, the Café cultivated an open stage where emerging artists, neighborhood residents, and internationally recognized writers performed alongside one another. Over the following decades it became one of the city's most influential centers for spoken word, bilingual literature, and community-based cultural production.",
   quote: "",
-  source: "New York Times ['The Early Days of the Nuyorican Poets Café']; Nuyorican Poets Café; NYC LGBTQ Historic Sites; Red Bull Music Academy",
+  source: "New York Times ['The Early Days of the Nuyorican Poets Café']; Nuyorican Poets Café; NYC LGBTQ Historic Sites; Red Bull Music Academy; Stephens.",
 
   slides: [
 
@@ -2263,7 +2263,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
   period: "1984–2001",
   description: "Founded by Lady Bunny in Tompkins Square Park in 1984, Wigstock transformed the park into a temporary queer commons through drag performance, celebration, and public visibility. Beginning as an informal Labor Day gathering, it became an annual tradition for nearly two decades and grew into one of the world’s largest drag festivals, moving to larger locations, eventually outgrowing Tompkins & moving to Union Square & the Hudson River Piers. The original festival ended in 2001, but Lady Bunny briefly revived Wigstock in 2018, bringing it to Pier 17 at the South Street Seaport.",
   quote: "",
-  source: "The Bowery Boys; Vaughan.",
+  source: "The Bowery Boys; The Guardian; Vaughan.",
 
   slides: [
     {
