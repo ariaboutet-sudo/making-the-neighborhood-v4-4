@@ -997,19 +997,37 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
 },
 
 {
-    id: "garden-eden",
-    title: "Garden of Eden",
-    address: "Forsyth Street, between Forsyth and Eldridge Streets",
-    coordinates: [40.71855, -73.99213],
-    themes: ["place"],
-    period: "Created beginning in 1975; demolished in 1986",
-    description: "Adam Purple and neighborhood participants transformed rubble-filled vacant lots into a large circular garden. Its destruction for development illustrates both the power of resident-created urban commons and their vulnerability when official maps continue to define living spaces as vacant land.",
-    quote: "",
-    image: "images/Garden of Eden/garden-of-eden.jpeg",
-    imageAlt: "Black-and-white Seth Tobocman comic panel about the Garden of Eden, showing the circular garden, surrounding buildings, community conflict, a bulldozer, and the destruction of the garden.",
-    imageCaption: "Seth Tobocman, War in the Neighborhood, p. 23. Graphic narrative panel depicting the Garden of Eden and its destruction.",
-    source: "Tobocman."
-  },
+  id: "garden-eden",
+  title: "Garden of Eden",
+  address: "Forsyth Street, between Forsyth and Eldridge Streets",
+  coordinates: [40.71855, -73.99213],
+  themes: ["place"],
+  period: "Created beginning in 1975; demolished in 1986",
+  description: "Adam Purple and neighborhood participants transformed rubble-filled vacant lots into a large circular garden. Its destruction for development illustrates both the power of resident-created urban commons and their vulnerability when official maps continue to define living spaces as vacant land.",
+  quote: "",
+  source: "DePaolo & Stern; Tobocman.",
+
+  slides: [
+    {
+      image: "images/Garden of Eden/eden.png",
+      alt: "",
+      title: "Garden of Eden before destruction, 1983.",
+      caption: "",
+      credit: "Image courtesy of Harvey Wang and Amy Brost. Published in Museum of Reclaimed Urban Space",
+      sourceLabel: "",
+      sourceUrl: ""
+    },
+    {
+      image: "images/Garden of Eden/garden-of-eden.jpeg",
+      alt: "Black-and-white Seth Tobocman comic panel about the Garden of Eden, showing the circular garden, surrounding buildings, community conflict, a bulldozer, and the destruction of the garden.",
+      title: "Garden of Eden",
+      caption: "Graphic narrative depicting the Garden of Eden and its destruction.",
+      credit: "Seth Tobocman, War in the Neighborhood, p. 23.",
+      sourceLabel: "",
+      sourceUrl: ""
+    }
+  ]
+},
   {
   id: "laplaza",
   title: "La Plaza Cultural",
