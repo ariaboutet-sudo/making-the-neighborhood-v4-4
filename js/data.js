@@ -1013,7 +1013,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       alt: "",
       title: "Garden of Eden before destruction, 1983.",
       caption: "",
-      credit: "Image courtesy of Harvey Wang and Amy Brost. Published in Museum of Reclaimed Urban Space",
+      credit: "Image courtesy of Harvey Wang and Amy Brost. Published in Museum of Reclaimed Urban Space Zine, 2020.",
       sourceLabel: "",
       sourceUrl: ""
     },
