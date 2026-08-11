@@ -1975,6 +1975,14 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
       sourceLabel: "NYC LGBTQ Historic Sites",
       sourceUrl: "https://www.nyclgbtsites.org/site/nuyorican-poets-cafe/",
     }, 
+        {
+  type: "quote",
+  title: "",
+  quote: "The Glam Slam, modeled on the competitive balls of New York’s Black and caribeño gay, drag, and trans communities, included poets walking the runway and, instead of voguing against one another, performing poetry in categories that included ‘Best Love Poem in Fire Engine Red’ and ‘Best Wig-a-Poem,’ among others.",
+  attribution: "Karen Jaime, 2021",
+  sourceLabel: "NYC LGBTQ Historic Sites Project",
+  sourceUrl: "https://www.nyclgbtsites.org/site/nuyorican-poets-cafe/"
+  },
     {
       image: "images/Nuyorican/performer.png",
       alt: "",
