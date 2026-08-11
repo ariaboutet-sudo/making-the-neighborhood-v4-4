@@ -52,7 +52,7 @@ const MAP_SITES = [
   period: "c. 1966–1991",
   description: "The Tompkins Square Park bandshell served for decades as one of the Lower East Side's principal gathering places for concerts, political rallies, poetry readings, festivals, and community meetings. By the late 1980s it had also become an important gathering space for unhoused residents and neighborhood activists. After years of conflict over policing, homelessness, and the future of the park, the city demolished the bandshell during the park's 1991 renovation. Its destruction became a powerful symbol of the broader transformation of Tompkins Square Park from a contested commons into a more tightly regulated public space.",
   quote: "",
-  source: "Tobocman; Kifner; Bellafante; Patterson.",
+  source: "Bellafante; DePaolo & Stern; Kifner; Patterson; Tobocman.",
   slides: [
     {
   type: "quote",
@@ -506,9 +506,9 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   coordinates: [40.72635, -73.98110],
   themes: ["housing", "place"],
   period: "May 27, 1991",
-  description: "",
+  description: "On Memorial Day, May 27, 1991, another major confrontation erupted around Tompkins Square Park amid years of conflict over homelessness, gentrification, policing, and who had the right to occupy and shape public space. Protesters confronted police on Avenue A, throwing bottles and other objects as the confrontation escalated into a riot. The conflict came as the city was preparing to renovate the park and demolish its bandshell—a gathering place for music, political organizing, and unhoused residents that had become a focal point in struggles over the park’s future. One week later, on June 3, hundreds of police surrounded Tompkins Square Park, evicted its remaining unhoused residents, and closed much of the park for reconstruction. The Memorial Day Riot thus marked a decisive moment in the struggle over Tompkins Square: shortly afterward, the encampment was dispersed, the park was transformed, and the bandshell was ultimately destroyed.",
   quote: "",
-  source: "",
+  source: "Rosen; Tobocman.",
 
   slides: [
     {
