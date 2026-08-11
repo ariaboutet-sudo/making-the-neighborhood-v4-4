@@ -508,7 +508,7 @@ sourceUrl: "https://www.zillow.com/b/143-avenue-b-new-york-ny-23bT/"
   period: "May 27, 1991",
   description: "On Memorial Day, May 27, 1991, another major confrontation erupted around Tompkins Square Park amid years of conflict over homelessness, gentrification, policing, and who had the right to occupy and shape public space. Protesters confronted police on Avenue A, throwing bottles and other objects as the confrontation escalated into a riot. The conflict came as the city was preparing to renovate the park and demolish its bandshell—a gathering place for music, political organizing, and unhoused residents that had become a focal point in struggles over the park’s future. One week later, on June 3, hundreds of police surrounded Tompkins Square Park, evicted its remaining unhoused residents, and closed much of the park for reconstruction. The Memorial Day Riot thus marked a decisive moment in the struggle over Tompkins Square: shortly afterward, the encampment was dispersed, the park was transformed, and the bandshell was ultimately destroyed.",
   quote: "",
-  source: "Rosen; Tobocman.",
+  source: "Kifner; Rosen; Smiley; Tobocman.",
 
   slides: [
     {
@@ -2044,7 +2044,7 @@ sourceUrl: "https://www.sapiens.org/culture/new-york-city-squatting/"
   period: "Founded 1979",
   description: "A legendary queer performance venue where drag, music, experimental performance, and nightlife converged. Pyramid Club became an important site of artistic experimentation, chosen family, and queer cultural production in the East Village.",
   quote: "",
-  source: "NYC LGBTQ Historic Site Project; Brian Butterick Archives.",
+  source: "Brian Butterick Archives; NYC LGBTQ Historic Site Project; Village Preservation [“We started a nightclub”].",
 
   slides: [
     {
