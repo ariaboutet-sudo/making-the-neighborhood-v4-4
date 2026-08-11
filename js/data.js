@@ -2220,7 +2220,7 @@ sourceURL: "https://brianbutterick.org/archives/the-pyramid-club/",
       image: "images/Skeletal Estates/skeletal-estates.png",
       alt: "",
       title: "'Can't Afford To Live? / Too Alive To Die?",
-      caption: "Part of Political Art Documentation/Distribution's 'Death & Taxes project'.",
+      caption: "Part of Political Art Documentation/Distribution's Death & Taxes project, 1981.",
       credit: "PAD 1st issue, 1981.",
       sourceLabel: "",
       sourceUrl: ""
